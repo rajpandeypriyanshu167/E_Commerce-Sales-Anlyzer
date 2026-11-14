@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_age,gender,city,state,category,product_name,unit_price,quantity,discount_pct,total_amount,payment_method,device,shipping_days,order_status,rating
+ORD100001,2025-01-02 14:21,CUST0532,37.0,Female,Raipur,Chhattisgarh,Beauty,Perfume,1332.65,4,10,4797.54,UPI,Mobile,5,Delivered,5.0
+ORD100002,2025-01-02 18:50,CUST0426,25.0,Male,Durg,Chhattisgarh,Electronics,Power Bank,1627.42,1,0,1627.42,UPI,Tablet,2,Returned,4.0
+ORD100003,2025-01-02 22:29,CUST0464,39.0,Female,Bengaluru,Karnataka,Sports,Dumbbell Set,2142.76,1,15,1821.35,UPI,Mobile,4,Delivered,1.0
+ORD100004,2025-01-02 23:33,CUST0198,33.0,Male,Delhi,Delhi,Sports,Football,775.73,2,30,1086.02,Credit Card,Mobile,1,Delivered,4.0
+ORD100005,2025-01-02 23:56,CUST0545,24.0,Male,Hyderabad,Telangana,Electronics,Smartphone Case,478.15,1,0,478.15,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100006,2025-01-03 09:02,CUST0199,34.0,Female,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,410.62,2,5,780.18,Credit Card,Desktop,4,Delivered,5.0
+ORD100007,2025-01-03 13:59,CUST0511,32.0,Male,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,3585.44,1,10,3226.9,UPI,Mobile,3,Delivered,5.0
+ORD100008,2025-01-03 16:29,CUST0316,18.0,Female,Mumbai,Maharashtra,Sports,Yoga Mat,780.53,1,10,702.48,Credit Card,Desktop,6,Delivered,5.0
+ORD100009,2025-01-03 20:47,CUST0433,24.0,Female,Mumbai,Maharashtra,Sports,Cricket Bat,2518.56,5,20,10074.24,Wallet,Tablet,2,Delivered,4.0
+ORD100010,2025-01-04 14:51,CUST0526,34.0,Other,Mumbai,Maharashtra,Beauty,Moisturizer,442.99,2,0,885.98,Credit Card,Desktop,8,Delivered,4.0
+ORD100011,2025-01-05 09:55,CUST0334,22.0,Female,Mumbai,Maharashtra,Electronics,Smartphone Case,564.46,3,20,1354.7,Debit Card,Desktop,1,Delivered,1.0
+ORD100012,2025-01-05 11:46,CUST0572,26.0,Male,Kolkata,West Bengal,Beauty,Lipstick,363.98,3,0,1091.94,Credit Card,Desktop,5,Returned,1.0
+ORD100013,2025-01-06 02:04,CUST0143,29.0,Female,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,2762.63,3,20,6630.31,UPI,Mobile,6,Delivered,4.0
+ORD100014,2025-01-06 07:39,CUST0113,20.0,Female,Hyderabad,Telangana,Beauty,Moisturizer,516.21,3,0,1548.63,Credit Card,Desktop,8,Delivered,4.0
+ORD100015,2025-01-06 17:57,CUST0081,42.0,Male,Mumbai,Maharashtra,Clothing,Hoodie,1374.27,1,0,1374.27,Wallet,Desktop,5,Delivered,4.0
+ORD100016,2025-01-07 12:15,CUST0130,34.0,Male,Jaipur,Rajasthan,Clothing,Kurta,1245.45,3,0,3736.35,UPI,Mobile,5,Delivered,5.0
+ORD100017,2025-01-07 13:20,CUST0525,43.0,Female,Raipur,Chhattisgarh,Electronics,Power Bank,1559.52,1,15,1325.59,Cash on Delivery,Desktop,3,Delivered,4.0
+ORD100018,2025-01-08 03:01,CUST0084,18.0,Male,Lucknow,Uttar Pradesh,Electronics,Smart Watch,4626.44,2,10,8327.59,UPI,Mobile,1,Delivered,4.0
+ORD100019,2025-01-08 17:15,CUST0274,23.0,Male,Mumbai,Maharashtra,Electronics,USB-C Cable,292.46,1,0,292.46,UPI,Mobile,2,Delivered,2.0
+ORD100020,2025-01-08 21:19,CUST0247,28.0,Female,Chennai,Tamil Nadu,Electronics,Power Bank,1672.42,1,0,1672.42,UPI,Mobile,4,Delivered,4.0
+ORD100021,2025-01-09 01:43,CUST0288,36.0,Male,Jaipur,Rajasthan,Electronics,USB-C Cable,286.16,2,0,572.32,UPI,Mobile,1,Delivered,4.0
+ORD100022,2025-01-09 06:57,CUST0139,18.0,Male,Kolkata,West Bengal,Electronics,USB-C Cable,271.44,1,0,271.44,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100023,2025-01-09 07:45,CUST0464,42.0,Female,Hyderabad,Telangana,Electronics,USB-C Cable,288.11,3,20,691.46,UPI,Desktop,1,Delivered,5.0
+ORD100024,2025-01-09 17:56,CUST0422,20.0,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2447.54,1,0,2447.54,Cash on Delivery,Mobile,2,Delivered,1.0
+ORD100025,2025-01-10 01:46,CUST0357,31.0,Male,Delhi,Delhi,Sports,Yoga Mat,747.81,1,10,673.03,Wallet,Mobile,4,Delivered,5.0
+ORD100026,2025-01-10 03:53,CUST0080,35.0,Female,Bengaluru,Karnataka,Sports,Yoga Mat,826.21,3,10,2230.77,UPI,Mobile,3,Delivered,4.0
+ORD100027,2025-01-11 14:02,CUST0525,41.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,314.76,1,10,283.28,Wallet,Mobile,8,Delivered,5.0
+ORD100028,2025-01-12 05:57,CUST0097,34.0,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2574.11,2,5,4890.81,UPI,Mobile,6,Returned,4.0
+ORD100029,2025-01-12 15:32,CUST0548,42.0,Female,Ahmedabad,Gujarat,Books,Comic,254.36,1,15,216.21,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100030,2025-01-12 19:38,CUST0127,32.0,Female,Delhi,Delhi,Sports,Yoga Mat,878.52,3,0,2635.56,Cash on Delivery,Mobile,8,Delivered,1.0
+ORD100031,2025-01-13 15:54,CUST0366,32.0,Male,Jaipur,Rajasthan,Clothing,Hoodie,1502.43,2,10,2704.37,UPI,Mobile,3,Delivered,3.0
+ORD100032,2025-01-13 19:53,CUST0287,19.0,Female,Raipur,Chhattisgarh,Clothing,Sneakers,2401.29,4,0,9605.16,Credit Card,Mobile,2,Returned,3.0
+ORD100033,2025-01-14 03:53,CUST0289,31.0,Female,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3188.33,4,5,12115.65,Net Banking,Tablet,5,Delivered,3.0
+ORD100034,2025-01-14 04:47,CUST0446,26.0,Male,Chennai,Tamil Nadu,Sports,Football,653.18,1,0,653.18,UPI,Mobile,5,Delivered,5.0
+ORD100035,2025-01-14 14:25,CUST0351,46.0,Female,Hyderabad,Telangana,Books,Self-Help Book,438.3,2,5,832.77,UPI,Desktop,6,Delivered,5.0
+ORD100036,2025-01-14 15:44,CUST0081,44.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,565.98,3,5,1613.04,UPI,Mobile,7,Delivered,5.0
+ORD100037,2025-01-15 15:43,CUST0565,29.0,Male,Hyderabad,Telangana,Electronics,Wireless Earbuds,3281.92,3,10,8861.18,UPI,Tablet,1,Delivered,4.0
+ORD100038,2025-01-16 04:32,CUST0095,39.0,Female,Delhi,Delhi,Sports,Dumbbell Set,2076.17,1,0,2076.17,Credit Card,Mobile,8,Delivered,2.0
+ORD100039,2025-01-16 10:59,CUST0113,21.0,Male,Hyderabad,Telangana,Home & Kitchen,Water Bottle,495.96,5,15,2107.83,UPI,Desktop,6,Delivered,5.0
+ORD100040,2025-01-16 18:35,CUST0332,29.0,Male,Hyderabad,Telangana,Beauty,Hair Oil,284.94,2,30,398.92,Credit Card,Mobile,8,Delivered,1.0
+ORD100041,2025-01-16 20:50,CUST0380,19.0,Male,Pune,Maharashtra,Electronics,Smart Watch,5651.19,1,0,5651.19,Wallet,Mobile,5,Delivered,5.0
+ORD100042,2025-01-16 23:43,CUST0272,27.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Cookware Set,2547.27,3,5,7259.72,Net Banking,Mobile,5,Delivered,5.0
+ORD100043,2025-01-17 02:56,CUST0242,25.0,Male,Jaipur,Rajasthan,Beauty,Moisturizer,484.9,2,10,872.82,Credit Card,Mobile,7,Delivered,4.0
+ORD100044,2025-01-17 08:18,CUST0564,22.0,Female,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3728.98,2,0,7457.96,UPI,Mobile,7,Delivered,5.0
+ORD100045,2025-01-17 09:25,CUST0171,18.0,Male,Chennai,Tamil Nadu,Electronics,Smartphone Case,562.66,2,0,1125.32,Debit Card,Mobile,6,Delivered,5.0
+ORD100046,2025-01-18 23:27,CUST0106,38.0,Male,Ahmedabad,Gujarat,Clothing,Jacket,2716.51,2,5,5161.37,Credit Card,Mobile,8,Delivered,4.0
+ORD100047,2025-01-19 07:16,CUST0201,20.0,Female,Ahmedabad,Gujarat,Home & Kitchen,LED Lamp,788.59,1,30,552.01,Cash on Delivery,Mobile,6,Shipped,
+ORD100048,2025-01-19 20:31,CUST0395,42.0,Male,Chennai,Tamil Nadu,Electronics,Power Bank,1457.52,2,0,2915.04,UPI,Mobile,7,Delivered,3.0
+ORD100049,2025-01-19 23:11,CUST0504,23.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,272.3,1,0,272.3,Credit Card,Mobile,8,Shipped,
+ORD100050,2025-01-20 08:30,CUST0272,18.0,Male,Bengaluru,Karnataka,Sports,Football,653.22,1,15,555.24,Credit Card,Mobile,1,Returned,5.0
+ORD100051,2025-01-20 11:37,CUST0412,40.0,Male,Chennai,Tamil Nadu,Home & Kitchen,Cookware Set,3213.28,2,30,4498.59,Credit Card,Mobile,2,Delivered,5.0
+ORD100052,2025-01-20 21:25,CUST0142,29.0,Female,Durg,Chhattisgarh,Home & Kitchen,Mixer Grinder,3837.93,1,20,3070.34,Net Banking,Mobile,6,Delivered,4.0
+ORD100053,2025-01-21 05:15,CUST0058,29.0,Male,Mumbai,Maharashtra,Books,Comic,258.37,1,0,258.37,Debit Card,Desktop,3,Delivered,4.0
+ORD100054,2025-01-21 21:21,CUST0328,32.0,Female,Durg,Chhattisgarh,Electronics,Smartphone Case,551.78,3,10,1489.81,Credit Card,Desktop,6,Delivered,4.0
+ORD100055,2025-01-22 06:43,CUST0221,41.0,Female,Mumbai,Maharashtra,Clothing,Jeans,1712.82,1,15,1455.9,Credit Card,Tablet,7,Delivered,3.0
+ORD100056,2025-01-23 07:31,CUST0371,28.0,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,3492.81,1,20,2794.25,Cash on Delivery,Mobile,2,Returned,3.0
+ORD100057,2025-01-24 07:02,CUST0498,23.0,Female,Kolkata,West Bengal,Home & Kitchen,Bedsheet,905.74,2,0,1811.48,Cash on Delivery,Mobile,2,Delivered,3.0
+ORD100058,2025-01-24 17:01,CUST0006,29.0,Female,Pune,Maharashtra,Clothing,Hoodie,1467.05,1,10,1320.35,UPI,Desktop,2,Delivered,1.0
+ORD100059,2025-01-25 07:03,CUST0286,45.0,Male,Chennai,Tamil Nadu,Clothing,Sneakers,2286.26,4,0,9145.04,UPI,Mobile,5,Delivered,5.0
+ORD100060,2025-01-25 16:33,CUST0558,27.0,Female,Mumbai,Maharashtra,Electronics,Smartphone Case,489.07,3,5,1393.85,Net Banking,Mobile,5,Delivered,3.0
+ORD100061,2025-01-25 18:58,CUST0070,39.0,Male,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,2790.55,2,20,4464.88,Credit Card,Mobile,4,Delivered,4.0
+ORD100062,2025-01-26 14:57,CUST0574,34.0,Female,Hyderabad,Telangana,Home & Kitchen,Storage Box,517.48,3,30,1086.71,UPI,Mobile,4,Delivered,5.0
+ORD100063,2025-01-27 10:48,CUST0062,28.0,Female,Hyderabad,Telangana,Electronics,USB-C Cable,313.15,3,5,892.48,Credit Card,Mobile,3,Delivered,4.0
+ORD100064,2025-01-28 20:45,CUST0320,27.0,Female,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,1063.62,1,10,957.26,Credit Card,Mobile,1,Delivered,4.0
+ORD100065,2025-01-29 21:46,CUST0454,45.0,Male,Kolkata,West Bengal,Home & Kitchen,LED Lamp,773.58,1,30,541.51,Net Banking,Mobile,8,Delivered,2.0
+ORD100066,2025-01-29 22:15,CUST0122,32.0,Female,Pune,Maharashtra,Electronics,Wireless Earbuds,3120.96,2,0,6241.92,UPI,Desktop,4,Returned,4.0
+ORD100067,2025-01-30 12:25,CUST0340,18.0,Female,Hyderabad,Telangana,Clothing,Jacket,2819.5,1,15,2396.57,UPI,Mobile,8,Delivered,5.0
+ORD100068,2025-01-31 04:42,CUST0438,43.0,Male,Chennai,Tamil Nadu,Clothing,Jacket,3307.12,1,5,3141.76,Credit Card,Mobile,5,Shipped,
+ORD100069,2025-01-31 19:14,CUST0503,42.0,Male,Mumbai,Maharashtra,Beauty,Moisturizer,438.2,1,20,350.56,Debit Card,Mobile,7,Delivered,4.0
+ORD100070,2025-01-31 19:43,CUST0112,39.0,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2575.38,1,0,2575.38,Cash on Delivery,Tablet,1,Delivered,4.0
+ORD100071,2025-01-31 20:09,CUST0392,22.0,Female,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2645.34,3,5,7539.22,UPI,Desktop,5,Delivered,4.0
+ORD100072,2025-02-01 08:53,CUST0563,28.0,Female,Mumbai,Maharashtra,Sports,Dumbbell Set,2266.8,1,20,1813.44,Credit Card,Mobile,2,Delivered,5.0
+ORD100073,2025-02-01 09:34,CUST0038,43.0,Female,Bengaluru,Karnataka,Clothing,Jacket,2932.01,5,0,14660.05,Debit Card,Desktop,2,Shipped,
+ORD100074,2025-02-01 11:37,CUST0130,43.0,Female,Chennai,Tamil Nadu,Books,Comic,232.93,4,15,791.96,Credit Card,Mobile,8,Delivered,5.0
+ORD100075,2025-02-01 23:48,CUST0235,45.0,Male,Hyderabad,Telangana,Clothing,Jeans,1653.93,1,15,1405.84,UPI,Mobile,3,Cancelled,
+ORD100076,2025-02-02 00:19,CUST0560,26.0,Female,Delhi,Delhi,Electronics,USB-C Cable,339.08,1,30,237.36,Net Banking,Mobile,1,Delivered,3.0
+ORD100077,2025-02-02 13:50,CUST0122,52.0,Male,Jaipur,Rajasthan,Home & Kitchen,LED Lamp,737.06,3,20,1768.94,Net Banking,Mobile,3,Delivered,2.0
+ORD100078,2025-02-02 20:49,CUST0461,38.0,Female,Pune,Maharashtra,Home & Kitchen,LED Lamp,685.15,1,10,616.63,UPI,Mobile,6,Delivered,3.0
+ORD100079,2025-02-02 21:19,CUST0312,35.0,Female,Hyderabad,Telangana,Clothing,Kurta,1310.91,1,30,917.64,UPI,Mobile,5,Delivered,4.0
+ORD100080,2025-02-03 00:15,CUST0449,45.0,Female,Mumbai,Maharashtra,Sports,Yoga Mat,898.23,1,5,853.32,Cash on Delivery,Mobile,7,Returned,4.0
+ORD100081,2025-02-03 01:21,CUST0398,20.0,Male,Hyderabad,Telangana,Clothing,Hoodie,1709.08,2,5,3247.25,UPI,Desktop,3,Delivered,4.0
+ORD100082,2025-02-03 04:32,CUST0482,47.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3259.37,2,20,5214.99,Credit Card,Desktop,2,Delivered,5.0
+ORD100083,2025-02-03 11:28,CUST0425,31.0,Female,Delhi,Delhi,Beauty,Face Wash,246.37,1,5,234.05,Debit Card,Mobile,4,Delivered,4.0
+ORD100084,2025-02-03 15:06,CUST0110,30.0,Male,Durg,Chhattisgarh,Beauty,Perfume,1433.79,2,5,2724.2,UPI,Desktop,2,Delivered,4.0
+ORD100085,2025-02-04 01:29,CUST0164,25.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1816.46,1,0,1816.46,Debit Card,Desktop,5,Delivered,5.0
+ORD100086,2025-02-04 02:15,CUST0349,37.0,Male,Hyderabad,Telangana,Home & Kitchen,Storage Box,618.81,3,15,1577.97,Credit Card,Mobile,4,Delivered,1.0
+ORD100087,2025-02-04 08:59,CUST0066,39.0,Male,Lucknow,Uttar Pradesh,Books,Comic,274.56,1,20,219.65,UPI,Mobile,6,Returned,5.0
+ORD100088,2025-02-04 11:31,CUST0460,19.0,Female,Delhi,Delhi,Clothing,Jacket,2921.25,2,0,5842.5,UPI,Mobile,4,Delivered,5.0
+ORD100089,2025-02-04 13:31,CUST0159,21.0,Male,Durg,Chhattisgarh,Books,Comic,233.75,4,10,841.5,Credit Card,Mobile,6,Delivered,3.0
+ORD100090,2025-02-04 16:37,CUST0219,35.0,Male,Delhi,Delhi,Beauty,Moisturizer,446.57,2,20,714.51,Credit Card,Desktop,8,Delivered,4.0
+ORD100091,2025-02-04 17:02,CUST0238,19.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,2977.66,2,0,5955.32,Debit Card,Tablet,2,Delivered,4.0
+ORD100092,2025-02-04 18:19,CUST0079,29.0,Male,Raipur,Chhattisgarh,Clothing,Hoodie,1441.24,4,15,4900.22,UPI,Desktop,2,Delivered,4.0
+ORD100093,2025-02-04 22:08,CUST0482,36.0,Male,Mumbai,Maharashtra,Sports,Cricket Bat,2226.66,1,0,2226.66,Cash on Delivery,Mobile,3,Cancelled,
+ORD100094,2025-02-05 04:23,CUST0044,35.0,Female,Jaipur,Rajasthan,Electronics,Wireless Earbuds,3286.08,2,0,6572.16,UPI,Mobile,2,Returned,5.0
+ORD100095,2025-02-05 11:42,CUST0077,18.0,Female,Hyderabad,Telangana,Beauty,Hair Oil,339.25,2,15,576.73,Cash on Delivery,Mobile,4,Returned,4.0
+ORD100096,2025-02-06 04:13,CUST0479,36.0,Female,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3077.93,1,10,2770.14,Credit Card,Mobile,2,Delivered,5.0
+ORD100097,2025-02-06 11:49,CUST0577,,Male,Bengaluru,Karnataka,Beauty,Perfume,1467.18,2,30,2054.05,Credit Card,Desktop,1,Delivered,4.0
+ORD100098,2025-02-07 02:38,CUST0142,35.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,514.1,1,20,411.28,UPI,Mobile,5,Delivered,4.0
+ORD100099,2025-02-07 17:48,CUST0339,39.0,Male,Ahmedabad,Gujarat,Beauty,Moisturizer,410.3,1,0,410.3,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100100,2025-02-08 10:14,CUST0245,21.0,Female,Raipur,Chhattisgarh,Beauty,Lipstick,380.64,3,10,1027.73,Debit Card,Desktop,1,Delivered,3.0
+ORD100101,2025-02-08 15:39,CUST0286,37.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3709.32,1,0,3709.32,Wallet,Desktop,6,Delivered,4.0
+ORD100102,2025-02-08 17:48,CUST0053,32.0,Female,Mumbai,Maharashtra,Clothing,Jacket,2857.88,1,0,2857.88,Debit Card,Desktop,1,Delivered,5.0
+ORD100103,2025-02-08 20:14,CUST0530,30.0,Female,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1029.5,2,15,1750.15,UPI,Mobile,7,Delivered,4.0
+ORD100104,2025-02-08 23:03,CUST0452,25.0,Female,Mumbai,Maharashtra,Books,Novel,375.03,1,20,300.02,UPI,Mobile,2,Delivered,4.0
+ORD100105,2025-02-09 07:48,CUST0333,26.0,Male,Mumbai,Maharashtra,Clothing,Hoodie,1577.82,2,10,2840.08,Credit Card,Mobile,4,Delivered,5.0
+ORD100106,2025-02-09 15:07,CUST0577,47.0,Female,Durg,Chhattisgarh,Electronics,Wireless Earbuds,3256.09,1,0,3256.09,Net Banking,Mobile,4,Delivered,5.0
+ORD100107,2025-02-09 20:06,CUST0362,38.0,Male,Hyderabad,Telangana,Home & Kitchen,Water Bottle,412.17,2,10,741.91,Wallet,Mobile,5,Cancelled,
+ORD100108,2025-02-10 08:45,CUST0130,30.0,Female,Raipur,Chhattisgarh,Electronics,Smartphone Case,449.17,1,5,426.71,UPI,Mobile,5,Delivered,1.0
+ORD100109,2025-02-11 12:15,CUST0385,40.0,Other,Jaipur,Rajasthan,Clothing,Hoodie,1633.78,1,0,1633.78,UPI,Mobile,3,Delivered,5.0
+ORD100110,2025-02-11 12:16,CUST0242,42.0,Female,Chennai,Tamil Nadu,Clothing,Jeans,2065.94,2,30,2892.32,Cash on Delivery,Mobile,8,Delivered,5.0
+ORD100111,2025-02-11 19:17,CUST0592,37.0,Female,Delhi,Delhi,Clothing,Jeans,2026.62,5,15,8613.13,Debit Card,Mobile,6,Delivered,4.0
+ORD100112,2025-02-12 03:41,CUST0063,21.0,Male,Ahmedabad,Gujarat,Clothing,Sneakers,2328.58,1,0,2328.58,UPI,Mobile,7,Delivered,3.0
+ORD100113,2025-02-12 07:59,CUST0166,19.0,Male,Mumbai,Maharashtra,Home & Kitchen,Storage Box,501.64,1,10,451.48,Credit Card,Mobile,4,Returned,3.0
+ORD100114,2025-02-12 17:49,CUST0485,26.0,Female,Chennai,Tamil Nadu,Sports,Football,660.31,1,20,528.25,Wallet,Mobile,6,Delivered,3.0
+ORD100115,2025-02-13 01:43,CUST0287,18.0,Female,Bengaluru,Karnataka,Clothing,Jacket,2867.36,1,0,2867.36,Debit Card,Desktop,5,Delivered,1.0
+ORD100116,2025-02-13 05:52,CUST0346,36.0,Male,Delhi,Delhi,Beauty,Lipstick,406.48,1,10,365.83,Cash on Delivery,Desktop,4,Delivered,3.0
+ORD100117,2025-02-13 09:20,CUST0558,35.0,Other,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2826.97,1,30,1978.88,Credit Card,Mobile,1,Delivered,5.0
+ORD100118,2025-02-13 09:30,CUST0422,18.0,Male,Delhi,Delhi,Home & Kitchen,Storage Box,551.37,2,10,992.47,Credit Card,Mobile,6,Delivered,2.0
+ORD100119,2025-02-13 12:20,CUST0440,43.0,Male,Hyderabad,Telangana,Sports,Yoga Mat,754.02,1,0,754.02,Cash on Delivery,Mobile,2,Cancelled,
+ORD100120,2025-02-13 16:51,CUST0326,18.0,Female,Pune,Maharashtra,Electronics,USB-C Cable,338.37,2,0,676.74,UPI,Mobile,2,Shipped,
+ORD100121,2025-02-13 21:13,CUST0453,21.0,Female,Chennai,Tamil Nadu,Clothing,Sneakers,2458.42,1,20,1966.74,UPI,Desktop,6,Returned,4.0
+ORD100122,2025-02-14 11:15,CUST0415,29.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1606.75,1,0,1606.75,UPI,Mobile,4,Delivered,4.0
+ORD100123,2025-02-14 12:02,CUST0391,32.0,Female,Hyderabad,Telangana,Clothing,Jeans,1625.3,1,0,1625.3,Debit Card,Mobile,6,Delivered,5.0
+ORD100124,2025-02-14 19:12,CUST0149,35.0,Female,Jaipur,Rajasthan,Clothing,Kurta,1201.67,1,15,1021.42,Debit Card,Desktop,7,Delivered,4.0
+ORD100125,2025-02-14 19:21,CUST0026,31.0,Male,Bengaluru,Karnataka,Sports,Cricket Bat,2383.48,1,0,2383.48,Cash on Delivery,Mobile,1,Shipped,
+ORD100126,2025-02-15 04:04,CUST0028,37.0,Female,Jaipur,Rajasthan,Sports,Dumbbell Set,1864.53,1,0,1864.53,Credit Card,Tablet,1,Delivered,4.0
+ORD100127,2025-02-15 14:19,CUST0303,43.0,Male,Ahmedabad,Gujarat,Clothing,Jacket,3035.18,3,0,9105.54,UPI,Mobile,4,Delivered,4.0
+ORD100128,2025-02-16 02:13,CUST0183,25.0,Male,Delhi,Delhi,Electronics,Power Bank,1417.05,2,10,2550.69,Cash on Delivery,Mobile,6,Delivered,4.0
+ORD100129,2025-02-16 13:34,CUST0541,32.0,Female,Mumbai,Maharashtra,Electronics,Wireless Earbuds,2728.32,1,5,2591.9,Net Banking,Mobile,2,Delivered,5.0
+ORD100130,2025-02-16 16:35,CUST0270,31.0,Female,Chennai,Tamil Nadu,Beauty,Hair Oil,294.63,5,0,1473.15,UPI,Mobile,5,Delivered,3.0
+ORD100131,2025-02-16 18:16,CUST0145,18.0,Male,Delhi,Delhi,Electronics,Smart Watch,4540.1,1,0,4540.1,UPI,Mobile,2,Delivered,4.0
+ORD100132,2025-02-17 04:59,CUST0041,37.0,Female,Chennai,Tamil Nadu,Beauty,Moisturizer,508.33,5,10,2287.49,Credit Card,Desktop,7,Delivered,5.0
+ORD100133,2025-02-17 05:01,CUST0186,38.0,Female,Raipur,Chhattisgarh,Books,Comic,230.9,4,30,646.52,Cash on Delivery,Mobile,5,Delivered,5.0
+ORD100134,2025-02-17 10:06,CUST0511,32.0,Male,Hyderabad,Telangana,Electronics,USB-C Cable,300.06,1,0,300.06,Net Banking,Mobile,4,Delivered,4.0
+ORD100135,2025-02-17 20:03,CUST0302,35.0,Female,Delhi,Delhi,Clothing,Sneakers,2409.89,1,10,2168.9,UPI,Tablet,1,Delivered,4.0
+ORD100136,2025-02-18 02:45,CUST0190,29.0,Male,Delhi,Delhi,Sports,Football,653.93,3,10,1765.61,Credit Card,Desktop,3,Delivered,4.0
+ORD100137,2025-02-18 05:13,CUST0359,22.0,Female,Delhi,Delhi,Electronics,Power Bank,1374.41,3,10,3710.91,UPI,Mobile,1,Delivered,2.0
+ORD100138,2025-02-18 06:13,CUST0155,37.0,Male,Lucknow,Uttar Pradesh,Beauty,Perfume,1219.86,1,0,1219.86,UPI,Desktop,4,Delivered,5.0
+ORD100139,2025-02-18 22:40,CUST0189,32.0,Female,Delhi,Delhi,Sports,Dumbbell Set,2025.21,1,5,1923.95,UPI,Mobile,1,Cancelled,
+ORD100140,2025-02-19 02:40,CUST0511,50.0,Female,Pune,Maharashtra,Clothing,Kurta,1199.63,2,30,1679.48,UPI,Mobile,3,Returned,3.0
+ORD100141,2025-02-19 19:57,CUST0153,27.0,Female,Kolkata,West Bengal,Clothing,Kurta,1233.06,1,0,1233.06,UPI,Mobile,3,Delivered,4.0
+ORD100142,2025-02-20 03:41,CUST0481,48.0,Female,Hyderabad,Telangana,Home & Kitchen,Storage Box,603.03,4,0,2412.12,UPI,Desktop,4,Delivered,5.0
+ORD100143,2025-02-20 18:49,CUST0435,34.0,Female,Raipur,Chhattisgarh,Home & Kitchen,Mixer Grinder,3699.27,3,10,9988.03,UPI,Desktop,7,Returned,5.0
+ORD100144,2025-02-21 00:13,CUST0427,23.0,Male,Delhi,Delhi,Clothing,Kurta,1279.2,1,15,1087.32,Wallet,Desktop,7,Delivered,5.0
+ORD100145,2025-02-21 00:22,CUST0185,22.0,Female,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,2546.76,1,15,2164.75,Credit Card,Mobile,7,Delivered,5.0
+ORD100146,2025-02-21 00:37,CUST0496,33.0,Male,Ahmedabad,Gujarat,Clothing,Hoodie,1510.67,1,10,1359.6,UPI,Mobile,1,Shipped,
+ORD100147,2025-02-21 01:46,CUST0459,33.0,Other,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3388.3,1,0,3388.3,UPI,Mobile,2,Delivered,2.0
+ORD100148,2025-02-21 04:21,CUST0127,52.0,Female,Mumbai,Maharashtra,Clothing,Kurta,1291.44,2,20,2066.3,UPI,Mobile,7,Delivered,5.0
+ORD100149,2025-02-21 04:34,CUST0437,29.0,Male,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2701.26,1,0,2701.26,Cash on Delivery,Mobile,4,Returned,2.0
+ORD100150,2025-02-21 05:22,CUST0568,44.0,Female,Lucknow,Uttar Pradesh,Clothing,Kurta,1327.87,2,10,2390.17,Debit Card,Desktop,1,Delivered,5.0
+ORD100151,2025-02-21 13:27,CUST0252,18.0,Male,Bengaluru,Karnataka,Clothing,Sneakers,2574.87,1,5,2446.13,Cash on Delivery,Mobile,5,Delivered,3.0
+ORD100152,2025-02-22 04:52,CUST0107,39.0,Female,Mumbai,Maharashtra,Beauty,Face Wash,238.89,3,0,716.67,UPI,Mobile,8,Delivered,5.0
+ORD100153,2025-02-22 12:19,CUST0216,,Female,Delhi,Delhi,Beauty,Lipstick,418.47,1,30,292.93,Cash on Delivery,Desktop,4,Delivered,2.0
+ORD100154,2025-02-22 12:32,CUST0324,23.0,Male,Bengaluru,Karnataka,Books,Comic,259.74,1,0,259.74,Credit Card,Mobile,6,Cancelled,
+ORD100155,2025-02-22 18:01,CUST0143,46.0,Female,Mumbai,Maharashtra,Electronics,Power Bank,1374.35,1,30,962.04,Cash on Delivery,Mobile,1,Delivered,5.0
+ORD100156,2025-02-22 23:20,CUST0115,18.0,Female,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,773.83,2,15,1315.51,Credit Card,Desktop,8,Delivered,5.0
+ORD100157,2025-02-23 08:28,CUST0097,26.0,Female,Chennai,Tamil Nadu,Sports,Dumbbell Set,2068.68,1,5,1965.25,Debit Card,Desktop,2,Delivered,4.0
+ORD100158,2025-02-23 22:34,CUST0586,27.0,Male,Mumbai,Maharashtra,Beauty,Hair Oil,309.28,2,10,556.7,Debit Card,Mobile,7,Delivered,4.0
+ORD100159,2025-02-23 23:49,CUST0497,29.0,Male,Hyderabad,Telangana,Beauty,Lipstick,418.09,2,0,836.18,UPI,Mobile,4,Returned,5.0
+ORD100160,2025-02-24 02:18,CUST0514,29.0,Female,Mumbai,Maharashtra,Clothing,Jeans,1846.29,4,0,7385.16,UPI,Mobile,4,Delivered,5.0
+ORD100161,2025-02-24 04:19,CUST0242,39.0,Female,Chennai,Tamil Nadu,Sports,Yoga Mat,903.53,1,20,722.82,UPI,Desktop,7,Delivered,3.0
+ORD100162,2025-02-25 07:07,CUST0529,26.0,Male,Jaipur,Rajasthan,Books,Comic,228.33,1,30,159.83,UPI,Mobile,4,Delivered,4.0
+ORD100163,2025-02-25 07:29,CUST0088,32.0,Female,Delhi,Delhi,Books,Self-Help Book,466.72,1,0,466.72,UPI,Desktop,1,Delivered,4.0
+ORD100164,2025-02-25 14:15,CUST0546,33.0,Male,Pune,Maharashtra,Books,Comic,263.76,2,10,474.77,UPI,Mobile,5,Delivered,5.0
+ORD100165,2025-02-25 22:46,CUST0263,25.0,Male,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3367.64,1,10,3030.88,UPI,Mobile,2,Shipped,
+ORD100166,2025-02-26 00:10,CUST0524,42.0,Female,Mumbai,Maharashtra,Home & Kitchen,Bedsheet,970.33,4,10,3493.19,Cash on Delivery,Mobile,1,Delivered,4.0
+ORD100167,2025-02-26 01:39,CUST0238,32.0,Female,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,2589.04,1,10,2330.14,Credit Card,Mobile,3,Delivered,4.0
+ORD100168,2025-02-26 07:34,CUST0212,28.0,Male,Ahmedabad,Gujarat,Books,Textbook,1017.26,1,0,1017.26,UPI,Mobile,1,Delivered,3.0
+ORD100169,2025-02-26 15:39,CUST0461,18.0,Male,Bengaluru,Karnataka,Clothing,Jacket,3188.36,3,0,9565.08,Net Banking,Tablet,4,Cancelled,
+ORD100170,2025-02-26 21:20,CUST0472,18.0,Female,Delhi,Delhi,Home & Kitchen,Bedsheet,1087.28,1,0,1087.28,Cash on Delivery,Mobile,6,Delivered,3.0
+ORD100171,2025-02-27 01:24,CUST0163,32.0,Female,Durg,Chhattisgarh,Beauty,Face Wash,236.39,1,20,189.11,UPI,Desktop,8,Cancelled,
+ORD100172,2025-02-27 12:40,CUST0500,31.0,Female,Delhi,Delhi,Clothing,Kurta,1280.36,2,0,2560.72,Credit Card,Mobile,8,Delivered,4.0
+ORD100173,2025-02-27 15:24,CUST0494,32.0,Female,Chennai,Tamil Nadu,Electronics,Smartphone Case,538.5,1,15,457.72,Cash on Delivery,Mobile,2,Returned,3.0
+ORD100174,2025-02-28 15:37,CUST0126,18.0,Male,Hyderabad,Telangana,Sports,Football,771.33,1,15,655.63,UPI,Desktop,4,Cancelled,
+ORD100175,2025-02-28 18:31,CUST0237,18.0,Female,Ahmedabad,Gujarat,Clothing,Jacket,3067.68,1,20,2454.14,Credit Card,Mobile,4,Delivered,4.0
+ORD100176,2025-02-28 20:44,CUST0350,33.0,Female,Pune,Maharashtra,Home & Kitchen,Bedsheet,1017.02,1,20,813.62,UPI,Desktop,7,Delivered,5.0
+ORD100177,2025-03-02 01:57,CUST0403,42.0,Male,Bengaluru,Karnataka,Electronics,Smart Watch,5137.9,1,30,3596.53,Credit Card,Desktop,7,Returned,5.0
+ORD100178,2025-03-02 06:27,CUST0187,27.0,Female,Hyderabad,Telangana,Home & Kitchen,LED Lamp,771.05,1,15,655.39,Wallet,Mobile,2,Cancelled,
+ORD100179,2025-03-02 07:24,CUST0084,30.0,Female,Lucknow,Uttar Pradesh,Electronics,Smart Watch,4782.04,3,10,12911.51,UPI,Mobile,4,Delivered,4.0
+ORD100180,2025-03-02 10:03,CUST0119,44.0,Male,Ahmedabad,Gujarat,Beauty,Face Wash,232.61,2,5,441.96,Credit Card,Mobile,5,Delivered,3.0
+ORD100181,2025-03-02 13:54,CUST0425,25.0,Male,Delhi,Delhi,Home & Kitchen,Cookware Set,2584.25,2,20,4134.8,UPI,Mobile,8,Delivered,4.0
+ORD100182,2025-03-02 16:02,CUST0306,36.0,Female,Ahmedabad,Gujarat,Electronics,Wireless Earbuds,3326.93,2,0,6653.86,Debit Card,Desktop,6,Delivered,5.0
+ORD100183,2025-03-02 22:40,CUST0190,34.0,Female,Pune,Maharashtra,Electronics,Bluetooth Speaker,2839.37,1,5,2697.4,Cash on Delivery,Mobile,2,Returned,5.0
+ORD100184,2025-03-03 05:13,CUST0056,43.0,Male,Mumbai,Maharashtra,Clothing,Sneakers,2570.25,2,0,5140.5,Debit Card,Desktop,6,Delivered,2.0
+ORD100185,2025-03-03 19:54,CUST0561,47.0,Female,Pune,Maharashtra,Home & Kitchen,Water Bottle,497.93,1,0,497.93,Debit Card,Mobile,5,Shipped,
+ORD100186,2025-03-04 06:23,CUST0384,42.0,Male,Kolkata,West Bengal,Beauty,Hair Oil,305.91,5,0,1529.55,UPI,Mobile,3,Delivered,3.0
+ORD100187,2025-03-04 12:30,CUST0417,37.0,Male,Bengaluru,Karnataka,Books,Novel,317.48,1,10,285.73,Debit Card,Mobile,8,Delivered,4.0
+ORD100188,2025-03-05 04:35,CUST0517,38.0,Female,Durg,Chhattisgarh,Sports,Football,710.4,2,0,1420.8,Debit Card,Mobile,4,Delivered,3.0
+ORD100189,2025-03-05 14:40,CUST0163,26.0,Female,Hyderabad,Telangana,Home & Kitchen,Bedsheet,910.5,1,15,773.92,UPI,Mobile,1,Delivered,3.0
+ORD100190,2025-03-05 17:51,CUST0279,41.0,Female,Bengaluru,Karnataka,Clothing,Sneakers,2518.57,1,20,2014.86,Credit Card,Mobile,6,Delivered,5.0
+ORD100191,2025-03-05 22:37,CUST0191,32.0,Female,Hyderabad,Telangana,Home & Kitchen,Cookware Set,2809.39,1,0,2809.39,Credit Card,Mobile,4,Delivered,5.0
+ORD100192,2025-03-06 05:45,CUST0117,39.0,Male,Chennai,Tamil Nadu,Electronics,Smartphone Case,483.35,1,5,459.18,Credit Card,Mobile,1,Delivered,3.0
+ORD100193,2025-03-06 12:03,CUST0565,54.0,Male,Lucknow,Uttar Pradesh,Electronics,Power Bank,1396.64,1,0,1396.64,Wallet,Mobile,7,Delivered,4.0
+ORD100194,2025-03-06 12:31,CUST0180,37.0,Female,Lucknow,Uttar Pradesh,Clothing,Kurta,1471.52,1,0,1471.52,Credit Card,Desktop,8,Delivered,4.0
+ORD100195,2025-03-07 10:23,CUST0321,24.0,Other,Delhi,Delhi,Electronics,Bluetooth Speaker,2534.14,2,0,5068.28,UPI,Mobile,1,Returned,1.0
+ORD100196,2025-03-07 12:02,CUST0347,45.0,Female,Bengaluru,Karnataka,Electronics,Smart Watch,5353.93,2,10,9637.07,Debit Card,Mobile,2,Delivered,4.0
+ORD100197,2025-03-07 22:56,CUST0052,35.0,Male,Delhi,Delhi,Clothing,Sneakers,2256.09,1,30,1579.26,UPI,Desktop,1,Delivered,3.0
+ORD100198,2025-03-08 05:39,CUST0414,31.0,Male,Jaipur,Rajasthan,Books,Comic,273.54,1,0,273.54,Net Banking,Desktop,2,Delivered,4.0
+ORD100199,2025-03-08 05:55,CUST0061,41.0,Male,Bengaluru,Karnataka,Sports,Football,674.04,2,10,1213.27,Debit Card,Mobile,3,Delivered,4.0
+ORD100200,2025-03-08 15:08,CUST0498,49.0,Female,Pune,Maharashtra,Home & Kitchen,Storage Box,583.85,3,15,1488.82,UPI,Mobile,3,Returned,4.0
+ORD100201,2025-03-08 18:20,CUST0330,34.0,Male,Durg,Chhattisgarh,Electronics,USB-C Cable,314.73,1,15,267.52,Debit Card,Mobile,7,Delivered,4.0
+ORD100202,2025-03-08 23:45,CUST0395,46.0,Male,Pune,Maharashtra,Electronics,USB-C Cable,313.51,3,0,940.53,Cash on Delivery,Mobile,5,Delivered,5.0
+ORD100203,2025-03-10 16:51,CUST0458,29.0,Female,Jaipur,Rajasthan,Sports,Dumbbell Set,1938.33,2,15,3295.16,Credit Card,Mobile,2,Delivered,4.0
+ORD100204,2025-03-11 03:46,CUST0224,18.0,Other,Bengaluru,Karnataka,Electronics,Smartphone Case,556.35,1,10,500.72,Debit Card,Mobile,3,Delivered,2.0
+ORD100205,2025-03-12 04:33,CUST0111,19.0,Male,Raipur,Chhattisgarh,Electronics,Smartphone Case,496.47,2,30,695.06,Debit Card,Desktop,7,Delivered,5.0
+ORD100206,2025-03-12 11:02,CUST0119,46.0,Male,Kolkata,West Bengal,Sports,Yoga Mat,848.63,1,15,721.34,Debit Card,Mobile,2,Delivered,4.0
+ORD100207,2025-03-13 01:02,CUST0530,28.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,3033.51,1,5,2881.83,Cash on Delivery,Desktop,1,Delivered,4.0
+ORD100208,2025-03-13 02:38,CUST0150,28.0,Female,Delhi,Delhi,Sports,Football,735.87,1,10,662.28,UPI,Mobile,6,Delivered,2.0
+ORD100209,2025-03-13 16:46,CUST0329,45.0,Male,Ahmedabad,Gujarat,Clothing,Sneakers,2795.65,4,20,8946.08,UPI,Mobile,5,Shipped,
+ORD100210,2025-03-13 21:29,CUST0348,35.0,Male,Raipur,Chhattisgarh,Electronics,Smartphone Case,473.48,4,30,1325.74,Net Banking,Mobile,3,Delivered,5.0
+ORD100211,2025-03-14 08:16,CUST0427,28.0,Male,Delhi,Delhi,Clothing,Hoodie,1518.22,2,10,2732.8,UPI,Mobile,7,Delivered,3.0
+ORD100212,2025-03-14 22:02,CUST0075,27.0,Male,Pune,Maharashtra,Electronics,Power Bank,1552.12,1,0,1552.12,UPI,Desktop,4,Cancelled,
+ORD100213,2025-03-14 23:11,CUST0506,24.0,Female,Bengaluru,Karnataka,Beauty,Perfume,1421.4,1,5,1350.33,Debit Card,Desktop,1,Delivered,5.0
+ORD100214,2025-03-15 12:52,CUST0290,34.0,Male,Bengaluru,Karnataka,Books,Textbook,809.29,1,10,728.36,Net Banking,Mobile,3,Delivered,3.0
+ORD100215,2025-03-15 15:36,CUST0579,48.0,Female,Pune,Maharashtra,Sports,Yoga Mat,861.91,1,10,775.72,Wallet,Mobile,2,Delivered,3.0
+ORD100216,2025-03-15 20:38,CUST0375,33.0,Female,Bengaluru,Karnataka,Sports,Cricket Bat,2092.19,2,20,3347.5,UPI,Mobile,8,Delivered,4.0
+ORD100217,2025-03-15 20:42,CUST0437,20.0,Female,Delhi,Delhi,Electronics,USB-C Cable,279.81,3,0,839.43,Credit Card,Mobile,5,Delivered,4.0
+ORD100218,2025-03-15 21:03,CUST0509,32.0,Male,Jaipur,Rajasthan,Electronics,Wireless Earbuds,3270.04,4,30,9156.11,UPI,Mobile,4,Delivered,5.0
+ORD100219,2025-03-15 23:59,CUST0421,34.0,Male,Pune,Maharashtra,Clothing,Jeans,1884.55,2,0,3769.1,UPI,Desktop,1,Delivered,1.0
+ORD100220,2025-03-18 00:23,CUST0101,56.0,Female,Delhi,Delhi,Beauty,Hair Oil,329.49,1,10,296.54,UPI,Mobile,4,Delivered,4.0
+ORD100221,2025-03-20 07:45,CUST0573,23.0,Male,Ahmedabad,Gujarat,Electronics,Power Bank,1482.21,1,0,1482.21,Credit Card,Mobile,3,Delivered,5.0
+ORD100222,2025-03-21 10:25,CUST0166,18.0,Male,Bengaluru,Karnataka,Books,Comic,285.71,1,10,257.14,Credit Card,Mobile,7,Delivered,1.0
+ORD100223,2025-03-21 23:37,CUST0418,21.0,Male,Delhi,Delhi,Electronics,Wireless Earbuds,3056.79,1,0,3056.79,Wallet,Mobile,2,Delivered,5.0
+ORD100224,2025-03-23 13:08,CUST0382,36.0,Male,Chennai,Tamil Nadu,Beauty,Hair Oil,330.38,2,5,627.72,UPI,Mobile,6,Delivered,2.0
+ORD100225,2025-03-24 08:11,CUST0378,52.0,Female,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3227.98,1,5,3066.58,Wallet,Desktop,8,Delivered,4.0
+ORD100226,2025-03-24 19:43,CUST0051,37.0,Male,Delhi,Delhi,Clothing,Hoodie,1702.31,1,0,1702.31,UPI,Mobile,6,Shipped,
+ORD100227,2025-03-24 22:36,CUST0561,42.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3108.5,4,10,11190.6,UPI,Mobile,8,Delivered,5.0
+ORD100228,2025-03-25 05:53,CUST0348,40.0,Male,Hyderabad,Telangana,Beauty,Perfume,1365.35,3,20,3276.84,UPI,Mobile,2,Returned,4.0
+ORD100229,2025-03-25 19:47,CUST0211,35.0,Male,Chennai,Tamil Nadu,Clothing,Jeans,2016.29,1,0,2016.29,Credit Card,Mobile,7,Delivered,5.0
+ORD100230,2025-03-26 00:40,CUST0121,25.0,Female,Mumbai,Maharashtra,Home & Kitchen,LED Lamp,697.73,2,0,1395.46,Credit Card,Mobile,4,Delivered,4.0
+ORD100231,2025-03-26 21:18,CUST0191,30.0,Male,Bengaluru,Karnataka,Home & Kitchen,Storage Box,574.41,1,10,516.97,Credit Card,Desktop,5,Delivered,5.0
+ORD100232,2025-03-26 21:55,CUST0316,40.0,Male,Mumbai,Maharashtra,Books,Novel,359.38,1,5,341.41,Cash on Delivery,Desktop,4,Cancelled,
+ORD100233,2025-03-27 09:18,CUST0122,41.0,Other,Hyderabad,Telangana,Home & Kitchen,Water Bottle,465.72,2,30,652.01,UPI,Desktop,7,Delivered,3.0
+ORD100234,2025-03-27 22:30,CUST0299,32.0,Female,Mumbai,Maharashtra,Electronics,USB-C Cable,320.82,1,10,288.74,Credit Card,Mobile,8,Returned,4.0
+ORD100235,2025-03-28 00:48,CUST0061,18.0,Female,Mumbai,Maharashtra,Home & Kitchen,LED Lamp,652.51,2,10,1174.52,UPI,Desktop,3,Delivered,3.0
+ORD100236,2025-03-28 07:20,CUST0416,39.0,Female,Chennai,Tamil Nadu,Clothing,Jacket,3000.96,2,0,6001.92,Credit Card,Tablet,8,Delivered,5.0
+ORD100237,2025-03-28 09:09,CUST0046,23.0,Male,Mumbai,Maharashtra,Electronics,Smart Watch,4910.0,2,0,9820.0,UPI,Desktop,2,Delivered,3.0
+ORD100238,2025-03-28 09:53,CUST0019,37.0,Female,Pune,Maharashtra,Home & Kitchen,Bedsheet,981.04,2,20,1569.66,Net Banking,Desktop,1,Delivered,1.0
+ORD100239,2025-03-29 01:43,CUST0476,18.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3291.07,1,0,3291.07,UPI,Tablet,7,Delivered,5.0
+ORD100240,2025-03-29 03:35,CUST0104,39.0,Male,Hyderabad,Telangana,Clothing,Hoodie,1502.56,2,10,2704.61,Debit Card,Desktop,8,Returned,5.0
+ORD100241,2025-03-29 10:31,CUST0420,31.0,Female,Delhi,Delhi,Home & Kitchen,Water Bottle,480.03,2,15,816.05,Debit Card,Mobile,5,Delivered,4.0
+ORD100242,2025-03-29 13:19,CUST0367,41.0,Female,Hyderabad,Telangana,Beauty,Lipstick,398.21,2,20,637.14,Credit Card,Desktop,6,Delivered,1.0
+ORD100243,2025-03-29 21:39,CUST0167,32.0,Female,Lucknow,Uttar Pradesh,Beauty,Perfume,1398.79,4,30,3916.61,UPI,Mobile,7,Cancelled,
+ORD100244,2025-03-29 22:54,CUST0560,28.0,Female,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,648.26,3,5,1847.54,UPI,Mobile,2,Delivered,2.0
+ORD100245,2025-03-31 00:19,CUST0099,29.0,Female,Kolkata,West Bengal,Clothing,T-Shirt,658.2,2,0,1316.4,Cash on Delivery,Mobile,2,Delivered,4.0
+ORD100246,2025-03-31 09:10,CUST0169,29.0,Male,Ahmedabad,Gujarat,Clothing,Jeans,2067.79,1,0,2067.79,Cash on Delivery,Mobile,3,Returned,4.0
+ORD100247,2025-03-31 14:24,CUST0374,43.0,Female,Jaipur,Rajasthan,Sports,Cricket Bat,2477.79,1,10,2230.01,Credit Card,Desktop,2,Delivered,5.0
+ORD100248,2025-03-31 18:13,CUST0254,41.0,Male,Bengaluru,Karnataka,Beauty,Moisturizer,438.57,1,5,416.64,Cash on Delivery,Desktop,3,Delivered,5.0
+ORD100249,2025-03-31 21:27,CUST0434,36.0,Male,Hyderabad,Telangana,Clothing,Kurta,1429.13,4,5,5430.69,Cash on Delivery,Mobile,3,Delivered,3.0
+ORD100250,2025-04-01 11:04,CUST0003,37.0,Female,Hyderabad,Telangana,Sports,Yoga Mat,895.45,3,30,1880.45,UPI,Mobile,5,Delivered,3.0
+ORD100251,2025-04-01 15:00,CUST0120,46.0,Female,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2658.97,1,0,2658.97,UPI,Mobile,7,Cancelled,
+ORD100252,2025-04-02 00:38,CUST0466,35.0,Female,Ahmedabad,Gujarat,Sports,Dumbbell Set,1937.79,2,5,3681.8,UPI,Mobile,8,Delivered,4.0
+ORD100253,2025-04-02 04:14,CUST0360,29.0,Male,Durg,Chhattisgarh,Sports,Cricket Bat,2407.64,1,0,2407.64,UPI,Desktop,6,Delivered,5.0
+ORD100254,2025-04-02 10:29,CUST0566,36.0,Male,Delhi,Delhi,Electronics,Smartphone Case,492.77,2,5,936.26,UPI,Mobile,2,Returned,3.0
+ORD100255,2025-04-03 11:38,CUST0251,37.0,Male,Jaipur,Rajasthan,Electronics,USB-C Cable,273.38,3,0,820.14,Credit Card,Mobile,3,Cancelled,
+ORD100256,2025-04-03 21:15,CUST0471,44.0,Female,Bengaluru,Karnataka,Clothing,T-Shirt,593.0,2,10,1067.4,UPI,Mobile,8,Delivered,5.0
+ORD100257,2025-04-04 10:15,CUST0103,45.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,254.42,1,0,254.42,UPI,Mobile,5,Delivered,5.0
+ORD100258,2025-04-04 23:38,CUST0448,18.0,Female,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,3519.63,2,0,7039.26,Debit Card,Mobile,8,Delivered,4.0
+ORD100259,2025-04-06 07:35,CUST0199,32.0,Female,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2523.39,2,15,4289.76,Cash on Delivery,Desktop,4,Delivered,5.0
+ORD100260,2025-04-06 19:09,CUST0468,19.0,Male,Ahmedabad,Gujarat,Sports,Football,740.64,1,10,666.58,Debit Card,Desktop,7,Delivered,5.0
+ORD100261,2025-04-07 04:28,CUST0545,34.0,Male,Lucknow,Uttar Pradesh,Sports,Yoga Mat,834.79,2,0,1669.58,UPI,Mobile,1,Delivered,5.0
+ORD100262,2025-04-08 01:01,CUST0515,30.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Storage Box,592.51,1,0,592.51,Cash on Delivery,Mobile,1,Delivered,3.0
+ORD100263,2025-04-08 06:13,CUST0157,22.0,Male,Lucknow,Uttar Pradesh,Clothing,Hoodie,1696.81,1,0,1696.81,Cash on Delivery,Mobile,2,Delivered,2.0
+ORD100264,2025-04-08 10:42,CUST0214,44.0,Male,Pune,Maharashtra,Home & Kitchen,Bedsheet,1133.83,2,30,1587.36,Cash on Delivery,Tablet,4,Delivered,5.0
+ORD100265,2025-04-09 01:44,CUST0502,31.0,Male,Jaipur,Rajasthan,Electronics,Power Bank,1433.86,4,10,5161.9,Debit Card,Mobile,6,Shipped,
+ORD100266,2025-04-09 17:53,CUST0010,32.0,Male,Kolkata,West Bengal,Electronics,Smartphone Case,519.25,1,10,467.32,UPI,Mobile,3,Delivered,4.0
+ORD100267,2025-04-09 19:50,CUST0095,44.0,Male,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,3171.13,2,30,4439.58,Credit Card,Mobile,8,Delivered,3.0
+ORD100268,2025-04-09 21:40,CUST0329,25.0,Male,Kolkata,West Bengal,Clothing,Hoodie,1664.24,2,15,2829.21,UPI,Desktop,6,Delivered,1.0
+ORD100269,2025-04-10 08:50,CUST0286,29.0,Female,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,450.54,2,5,856.03,UPI,Desktop,7,Delivered,5.0
+ORD100270,2025-04-11 00:54,CUST0044,38.0,Male,Pune,Maharashtra,Home & Kitchen,Water Bottle,511.76,2,10,921.17,UPI,Mobile,3,Delivered,3.0
+ORD100271,2025-04-11 16:25,CUST0132,36.0,Male,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,2825.27,3,15,7204.44,Net Banking,Mobile,3,Delivered,1.0
+ORD100272,2025-04-11 22:33,CUST0349,29.0,Male,Delhi,Delhi,Clothing,Kurta,1320.77,2,5,2509.46,Wallet,Mobile,8,Delivered,2.0
+ORD100273,2025-04-12 00:24,CUST0431,22.0,Female,Lucknow,Uttar Pradesh,Clothing,Hoodie,1616.25,4,5,6141.75,UPI,Mobile,7,Delivered,5.0
+ORD100274,2025-04-12 03:35,CUST0328,34.0,Female,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,507.89,1,10,457.1,Debit Card,Mobile,2,Delivered,3.0
+ORD100275,2025-04-12 11:56,CUST0402,,Male,Durg,Chhattisgarh,Clothing,Kurta,1455.28,3,10,3929.26,Credit Card,Mobile,4,Delivered,4.0
+ORD100276,2025-04-12 22:38,CUST0040,44.0,Female,Ahmedabad,Gujarat,Home & Kitchen,Water Bottle,452.42,2,0,904.84,Cash on Delivery,Mobile,2,Delivered,5.0
+ORD100277,2025-04-13 09:15,CUST0319,31.0,Female,Hyderabad,Telangana,Sports,Cricket Bat,2362.32,2,0,4724.64,UPI,Mobile,8,Delivered,4.0
+ORD100278,2025-04-13 15:36,CUST0514,35.0,Female,Delhi,Delhi,Electronics,Smartphone Case,471.28,2,20,754.05,Net Banking,Desktop,3,Delivered,5.0
+ORD100279,2025-04-13 16:55,CUST0357,22.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3409.05,5,0,17045.25,UPI,Mobile,4,Delivered,2.0
+ORD100280,2025-04-14 00:45,CUST0348,43.0,Male,Delhi,Delhi,Electronics,Power Bank,1402.82,1,30,981.97,UPI,Mobile,1,Delivered,3.0
+ORD100281,2025-04-14 15:02,CUST0053,18.0,Other,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,1044.27,1,0,1044.27,Wallet,Tablet,5,Delivered,3.0
+ORD100282,2025-04-14 20:44,CUST0080,22.0,Male,Mumbai,Maharashtra,Electronics,Power Bank,1438.18,1,0,1438.18,Cash on Delivery,Mobile,2,Delivered,4.0
+ORD100283,2025-04-14 22:08,CUST0111,34.0,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,421.21,1,0,421.21,Credit Card,Mobile,6,Delivered,3.0
+ORD100284,2025-04-15 13:16,CUST0440,41.0,Female,Delhi,Delhi,Clothing,Jeans,1943.49,1,0,1943.49,Debit Card,Mobile,7,Delivered,5.0
+ORD100285,2025-04-16 01:07,CUST0307,43.0,Male,Mumbai,Maharashtra,Sports,Dumbbell Set,2119.13,1,10,1907.22,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100286,2025-04-16 02:16,CUST0050,25.0,Female,Delhi,Delhi,Electronics,Smart Watch,5099.68,4,0,20398.72,Credit Card,Mobile,6,Delivered,4.0
+ORD100287,2025-04-16 04:14,CUST0510,22.0,Male,Durg,Chhattisgarh,Books,Self-Help Book,512.26,1,5,486.65,Debit Card,Mobile,2,Shipped,
+ORD100288,2025-04-16 05:45,CUST0600,34.0,Male,Bengaluru,Karnataka,Clothing,Sneakers,2817.68,2,0,5635.36,Debit Card,Mobile,2,Delivered,4.0
+ORD100289,2025-04-16 10:50,CUST0271,29.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,289.6,1,15,246.16,UPI,Mobile,4,Delivered,5.0
+ORD100290,2025-04-16 19:08,CUST0201,29.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,235.71,3,0,707.13,Debit Card,Mobile,6,Delivered,4.0
+ORD100291,2025-04-17 04:26,CUST0545,40.0,Female,Jaipur,Rajasthan,Clothing,Jeans,1939.32,1,15,1648.42,Credit Card,Desktop,3,Delivered,4.0
+ORD100292,2025-04-18 03:52,CUST0243,20.0,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,2741.61,3,5,7813.59,Credit Card,Mobile,4,Delivered,5.0
+ORD100293,2025-04-18 14:02,CUST0546,31.0,Female,Chennai,Tamil Nadu,Beauty,Perfume,1372.66,2,5,2608.05,Debit Card,Desktop,6,Delivered,1.0
+ORD100294,2025-04-18 19:20,CUST0472,35.0,Male,Delhi,Delhi,Home & Kitchen,Bedsheet,994.75,1,5,945.01,Credit Card,Mobile,4,Delivered,5.0
+ORD100295,2025-04-19 05:38,CUST0349,35.0,Female,Hyderabad,Telangana,Clothing,Sneakers,2816.18,1,0,2816.18,Credit Card,Mobile,1,Delivered,4.0
+ORD100296,2025-04-19 08:38,CUST0152,28.0,Female,Lucknow,Uttar Pradesh,Electronics,Smartphone Case,516.03,1,5,490.23,Debit Card,Tablet,3,Delivered,5.0
+ORD100297,2025-04-20 00:21,CUST0540,38.0,Male,Hyderabad,Telangana,Home & Kitchen,LED Lamp,651.36,2,10,1172.45,UPI,Mobile,8,Cancelled,
+ORD100298,2025-04-20 01:28,CUST0059,24.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1556.1,2,20,2489.76,UPI,Desktop,8,Delivered,2.0
+ORD100299,2025-04-20 11:56,CUST0369,24.0,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3262.22,2,0,6524.44,Credit Card,Mobile,5,Delivered,3.0
+ORD100300,2025-04-20 20:18,CUST0449,29.0,Male,Pune,Maharashtra,Electronics,Bluetooth Speaker,2293.56,2,30,3210.98,Cash on Delivery,Mobile,3,Delivered,1.0
+ORD100301,2025-04-20 23:45,CUST0334,34.0,Male,Pune,Maharashtra,Electronics,USB-C Cable,342.07,1,0,342.07,Cash on Delivery,Mobile,6,Delivered,2.0
+ORD100302,2025-04-21 01:14,CUST0187,45.0,Female,Pune,Maharashtra,Beauty,Hair Oil,304.7,3,10,822.69,UPI,Mobile,1,Delivered,5.0
+ORD100303,2025-04-21 04:53,CUST0319,36.0,Female,Hyderabad,Telangana,Electronics,Power Bank,1375.58,3,0,4126.74,Cash on Delivery,Mobile,5,Shipped,
+ORD100304,2025-04-21 07:05,CUST0284,25.0,Female,Raipur,Chhattisgarh,Beauty,Lipstick,401.29,1,20,321.03,UPI,Mobile,4,Delivered,5.0
+ORD100305,2025-04-21 22:36,CUST0515,35.0,Male,Bengaluru,Karnataka,Clothing,Jacket,3223.93,1,0,3223.93,Net Banking,Mobile,5,Delivered,2.0
+ORD100306,2025-04-22 05:12,CUST0125,18.0,Female,Chennai,Tamil Nadu,Home & Kitchen,Storage Box,503.06,1,0,503.06,Debit Card,Mobile,4,Delivered,4.0
+ORD100307,2025-04-22 16:10,CUST0599,32.0,Female,Chennai,Tamil Nadu,Beauty,Face Wash,224.86,1,0,224.86,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100308,2025-04-23 15:55,CUST0544,61.0,Male,Ahmedabad,Gujarat,Electronics,Smart Watch,5667.31,2,15,9634.43,UPI,Mobile,5,Delivered,5.0
+ORD100309,2025-04-24 03:12,CUST0445,43.0,Male,Jaipur,Rajasthan,Electronics,Wireless Earbuds,3389.14,3,0,10167.42,UPI,Mobile,7,Delivered,4.0
+ORD100310,2025-04-24 06:26,CUST0596,31.0,Female,Delhi,Delhi,Books,Textbook,837.11,1,10,753.4,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100311,2025-04-24 06:31,CUST0394,42.0,Male,Lucknow,Uttar Pradesh,Electronics,Smart Watch,5614.48,1,10,5053.03,Credit Card,Mobile,8,Delivered,4.0
+ORD100312,2025-04-25 00:19,CUST0528,30.0,Male,Delhi,Delhi,Beauty,Lipstick,406.51,1,10,365.86,Debit Card,Mobile,1,Delivered,3.0
+ORD100313,2025-04-25 06:01,CUST0118,18.0,Female,Bengaluru,Karnataka,Beauty,Hair Oil,271.06,3,10,731.86,UPI,Mobile,7,Delivered,4.0
+ORD100314,2025-04-25 12:20,CUST0368,32.0,Male,Kolkata,West Bengal,Home & Kitchen,LED Lamp,761.96,1,10,685.76,Cash on Delivery,Desktop,2,Delivered,4.0
+ORD100315,2025-04-25 18:29,CUST0012,34.0,Male,Jaipur,Rajasthan,Beauty,Perfume,1321.19,1,10,1189.07,UPI,Desktop,2,Delivered,5.0
+ORD100316,2025-04-26 02:48,CUST0387,23.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,619.17,2,0,1238.34,Debit Card,Mobile,2,Delivered,4.0
+ORD100317,2025-04-26 05:27,CUST0083,48.0,Female,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2267.74,1,0,2267.74,Cash on Delivery,Mobile,3,Returned,4.0
+ORD100318,2025-04-26 07:32,CUST0411,27.0,Female,Jaipur,Rajasthan,Clothing,Jeans,1760.63,1,20,1408.5,UPI,Desktop,4,Delivered,4.0
+ORD100319,2025-04-26 10:02,CUST0393,25.0,Male,Delhi,Delhi,Sports,Cricket Bat,2372.56,2,0,4745.12,Credit Card,Mobile,2,Delivered,1.0
+ORD100320,2025-04-26 17:16,CUST0554,30.0,Male,Lucknow,Uttar Pradesh,Electronics,USB-C Cable,281.47,1,10,253.32,Credit Card,Mobile,3,Delivered,5.0
+ORD100321,2025-04-26 18:08,CUST0143,49.0,Male,Kolkata,West Bengal,Home & Kitchen,Storage Box,627.25,3,5,1787.66,Cash on Delivery,Mobile,7,Delivered,3.0
+ORD100322,2025-04-27 01:36,CUST0598,23.0,Female,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,3114.19,1,30,2179.93,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100323,2025-04-27 08:01,CUST0371,43.0,Female,Hyderabad,Telangana,Clothing,Sneakers,2330.72,1,5,2214.18,Credit Card,Desktop,8,Delivered,5.0
+ORD100324,2025-04-27 22:51,CUST0327,,Female,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,3022.4,1,0,3022.4,Cash on Delivery,Mobile,4,Delivered,2.0
+ORD100325,2025-04-28 01:09,CUST0409,31.0,Male,Bengaluru,Karnataka,Beauty,Lipstick,414.04,1,15,351.93,Debit Card,Desktop,6,Delivered,4.0
+ORD100326,2025-04-28 01:17,CUST0424,31.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,543.54,1,30,380.48,UPI,Mobile,8,Delivered,3.0
+ORD100327,2025-04-28 05:50,CUST0001,37.0,Other,Raipur,Chhattisgarh,Beauty,Moisturizer,432.2,2,15,734.74,UPI,Mobile,8,Delivered,1.0
+ORD100328,2025-04-28 22:12,CUST0052,29.0,Male,Chennai,Tamil Nadu,Electronics,Smart Watch,5442.69,2,0,10885.38,Cash on Delivery,Mobile,8,Delivered,4.0
+ORD100329,2025-04-29 22:13,CUST0048,35.0,Female,Raipur,Chhattisgarh,Books,Comic,229.71,1,10,206.74,Credit Card,Desktop,1,Returned,5.0
+ORD100330,2025-04-30 12:51,CUST0522,25.0,Male,Delhi,Delhi,Sports,Cricket Bat,2354.6,1,15,2001.41,Credit Card,Mobile,4,Delivered,5.0
+ORD100331,2025-04-30 20:26,CUST0592,25.0,Female,Ahmedabad,Gujarat,Sports,Cricket Bat,2471.38,2,0,4942.76,UPI,Mobile,6,Delivered,2.0
+ORD100332,2025-05-01 09:35,CUST0389,30.0,Female,Hyderabad,Telangana,Clothing,Hoodie,1400.08,1,10,1260.07,UPI,Mobile,8,Delivered,3.0
+ORD100333,2025-05-01 12:31,CUST0199,33.0,Male,Hyderabad,Telangana,Books,Comic,241.56,1,0,241.56,UPI,Desktop,2,Delivered,3.0
+ORD100334,2025-05-02 00:32,CUST0415,41.0,Male,Mumbai,Maharashtra,Electronics,Smartphone Case,449.22,1,5,426.76,Credit Card,Desktop,8,Delivered,5.0
+ORD100335,2025-05-02 18:40,CUST0076,25.0,Female,Ahmedabad,Gujarat,Books,Self-Help Book,451.88,1,20,361.5,Net Banking,Mobile,2,Delivered,4.0
+ORD100336,2025-05-02 23:58,CUST0270,34.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3858.43,1,0,3858.43,Debit Card,Mobile,3,Delivered,3.0
+ORD100337,2025-05-03 00:23,CUST0080,34.0,Male,Mumbai,Maharashtra,Electronics,Power Bank,1676.87,1,30,1173.81,Cash on Delivery,Desktop,1,Delivered,5.0
+ORD100338,2025-05-03 11:42,CUST0143,36.0,Other,Kolkata,West Bengal,Electronics,Power Bank,1669.33,2,5,3171.73,Credit Card,Mobile,5,Delivered,4.0
+ORD100339,2025-05-04 10:57,CUST0081,38.0,Female,Delhi,Delhi,Clothing,Jeans,1657.98,1,5,1575.08,Net Banking,Mobile,1,Delivered,5.0
+ORD100340,2025-05-04 17:08,CUST0580,43.0,Male,Hyderabad,Telangana,Clothing,Jeans,1846.95,2,0,3693.9,Cash on Delivery,Mobile,5,Delivered,3.0
+ORD100341,2025-05-06 01:05,CUST0247,56.0,Female,Delhi,Delhi,Home & Kitchen,LED Lamp,789.19,1,0,789.19,UPI,Mobile,3,Cancelled,
+ORD100342,2025-05-06 02:04,CUST0350,18.0,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2735.87,1,0,2735.87,UPI,Mobile,5,Delivered,4.0
+ORD100343,2025-05-07 14:34,CUST0290,31.0,Female,Lucknow,Uttar Pradesh,Clothing,Jeans,1864.17,4,5,7083.85,Net Banking,Mobile,2,Delivered,5.0
+ORD100344,2025-05-07 20:05,CUST0389,24.0,Male,Pune,Maharashtra,Clothing,Hoodie,1562.57,2,0,3125.14,UPI,Mobile,1,Delivered,4.0
+ORD100345,2025-05-09 01:36,CUST0166,48.0,Male,Jaipur,Rajasthan,Electronics,Smart Watch,4884.79,2,30,6838.71,Cash on Delivery,Mobile,2,Delivered,5.0
+ORD100346,2025-05-10 09:38,CUST0268,46.0,Female,Bengaluru,Karnataka,Clothing,Sneakers,2420.43,1,30,1694.3,Credit Card,Mobile,4,Delivered,3.0
+ORD100347,2025-05-11 14:51,CUST0278,,Female,Kolkata,West Bengal,Electronics,Smartphone Case,540.13,3,5,1539.37,Credit Card,Desktop,6,Delivered,4.0
+ORD100348,2025-05-12 15:21,CUST0284,37.0,Male,Chennai,Tamil Nadu,Electronics,Power Bank,1536.7,1,10,1383.03,Credit Card,Mobile,6,Delivered,3.0
+ORD100349,2025-05-12 16:27,CUST0473,28.0,Male,Pune,Maharashtra,Clothing,Jacket,3144.16,4,0,12576.64,UPI,Mobile,7,Delivered,4.0
+ORD100350,2025-05-13 01:28,CUST0072,30.0,Female,Bengaluru,Karnataka,Books,Novel,339.06,1,5,322.11,UPI,Desktop,6,Delivered,3.0
+ORD100351,2025-05-13 17:49,CUST0076,31.0,Female,Kolkata,West Bengal,Books,Self-Help Book,511.83,1,5,486.24,UPI,Desktop,7,Delivered,3.0
+ORD100352,2025-05-13 19:49,CUST0313,,Female,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2397.71,1,5,2277.82,Credit Card,Mobile,6,Delivered,3.0
+ORD100353,2025-05-13 22:19,CUST0233,41.0,Male,Kolkata,West Bengal,Beauty,Moisturizer,420.91,1,10,378.82,Debit Card,Mobile,6,Delivered,5.0
+ORD100354,2025-05-14 16:28,CUST0593,32.0,Female,Pune,Maharashtra,Electronics,USB-C Cable,302.15,1,0,302.15,Credit Card,Mobile,5,Delivered,3.0
+ORD100355,2025-05-14 17:35,CUST0528,18.0,Male,Mumbai,Maharashtra,Electronics,USB-C Cable,311.87,2,20,498.99,Credit Card,Desktop,7,Delivered,3.0
+ORD100356,2025-05-14 19:47,CUST0438,31.0,Male,Hyderabad,Telangana,Books,Self-Help Book,480.14,2,30,672.2,UPI,Mobile,3,Delivered,3.0
+ORD100357,2025-05-15 00:45,CUST0430,33.0,Male,Raipur,Chhattisgarh,Clothing,Jeans,1959.88,1,10,1763.89,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100358,2025-05-15 03:24,CUST0285,29.0,Female,Chennai,Tamil Nadu,Books,Novel,367.08,1,30,256.96,UPI,Desktop,7,Delivered,4.0
+ORD100359,2025-05-16 05:13,CUST0589,35.0,Male,Delhi,Delhi,Electronics,USB-C Cable,286.79,1,20,229.43,Credit Card,Mobile,2,Delivered,5.0
+ORD100360,2025-05-16 08:11,CUST0102,50.0,Female,Kolkata,West Bengal,Electronics,Smartphone Case,488.8,1,0,488.8,Credit Card,Mobile,3,Delivered,2.0
+ORD100361,2025-05-16 09:16,CUST0488,,Female,Bengaluru,Karnataka,Electronics,Smart Watch,5637.2,4,0,22548.8,UPI,Desktop,3,Delivered,4.0
+ORD100362,2025-05-16 11:19,CUST0576,37.0,Female,Kolkata,West Bengal,Electronics,Wireless Earbuds,3226.75,3,5,9196.24,UPI,Mobile,4,Delivered,3.0
+ORD100363,2025-05-17 08:51,CUST0100,42.0,Female,Kolkata,West Bengal,Beauty,Hair Oil,301.96,1,15,256.67,UPI,Desktop,7,Delivered,4.0
+ORD100364,2025-05-17 09:14,CUST0224,32.0,Female,Hyderabad,Telangana,Clothing,Jeans,1838.0,1,10,1654.2,Debit Card,Mobile,7,Cancelled,
+ORD100365,2025-05-17 13:51,CUST0194,22.0,Male,Ahmedabad,Gujarat,Clothing,Hoodie,1358.67,2,0,2717.34,Net Banking,Mobile,5,Delivered,4.0
+ORD100366,2025-05-18 08:54,CUST0360,42.0,Male,Bengaluru,Karnataka,Beauty,Lipstick,374.14,1,0,374.14,Wallet,Mobile,2,Delivered,5.0
+ORD100367,2025-05-18 09:03,CUST0336,38.0,Male,Chennai,Tamil Nadu,Clothing,Hoodie,1655.2,1,0,1655.2,UPI,Mobile,4,Delivered,4.0
+ORD100368,2025-05-19 12:06,CUST0248,24.0,Female,Bengaluru,Karnataka,Sports,Yoga Mat,843.66,1,5,801.48,Wallet,Mobile,3,Delivered,3.0
+ORD100369,2025-05-19 16:43,CUST0090,27.0,Male,Chennai,Tamil Nadu,Clothing,Hoodie,1617.91,1,0,1617.91,Cash on Delivery,Mobile,6,Delivered,2.0
+ORD100370,2025-05-20 01:44,CUST0014,26.0,Female,Bengaluru,Karnataka,Clothing,Jacket,3268.06,1,0,3268.06,Cash on Delivery,Desktop,5,Shipped,
+ORD100371,2025-05-20 21:52,CUST0177,34.0,Female,Hyderabad,Telangana,Home & Kitchen,LED Lamp,736.47,1,20,589.18,UPI,Mobile,7,Delivered,3.0
+ORD100372,2025-05-21 13:23,CUST0418,29.0,Male,Raipur,Chhattisgarh,Sports,Football,790.99,1,10,711.89,Credit Card,Mobile,5,Delivered,4.0
+ORD100373,2025-05-22 10:18,CUST0264,19.0,Female,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2821.81,1,30,1975.27,Credit Card,Mobile,2,Delivered,3.0
+ORD100374,2025-05-23 16:30,CUST0156,22.0,Female,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3165.06,3,10,8545.66,Credit Card,Desktop,3,Cancelled,
+ORD100375,2025-05-24 16:12,CUST0396,18.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,610.07,1,0,610.07,UPI,Tablet,4,Delivered,4.0
+ORD100376,2025-05-26 02:47,CUST0530,22.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,317.6,1,15,269.96,Cash on Delivery,Mobile,3,Delivered,2.0
+ORD100377,2025-05-27 06:52,CUST0030,32.0,Female,Chennai,Tamil Nadu,Electronics,USB-C Cable,269.42,1,10,242.48,UPI,Desktop,3,Delivered,4.0
+ORD100378,2025-05-27 21:08,CUST0072,49.0,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3649.89,3,10,9854.7,UPI,Desktop,8,Delivered,5.0
+ORD100379,2025-05-28 11:20,CUST0155,38.0,Male,Delhi,Delhi,Home & Kitchen,Storage Box,517.46,1,5,491.59,UPI,Mobile,7,Delivered,2.0
+ORD100380,2025-05-28 11:51,CUST0043,52.0,Female,Bengaluru,Karnataka,Sports,Yoga Mat,799.95,4,5,3039.81,UPI,Mobile,1,Delivered,3.0
+ORD100381,2025-05-29 07:56,CUST0266,37.0,Male,Delhi,Delhi,Clothing,Sneakers,2251.88,1,0,2251.88,Debit Card,Mobile,6,Delivered,5.0
+ORD100382,2025-05-29 10:50,CUST0593,29.0,Female,Bengaluru,Karnataka,Electronics,Smartphone Case,519.56,1,0,519.56,UPI,Mobile,4,Delivered,3.0
+ORD100383,2025-05-30 02:42,CUST0288,27.0,Male,Raipur,Chhattisgarh,Books,Novel,337.59,1,20,270.07,UPI,Mobile,3,Returned,4.0
+ORD100384,2025-05-30 04:56,CUST0085,25.0,Female,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2479.3,3,0,7437.9,Cash on Delivery,Desktop,4,Returned,5.0
+ORD100385,2025-05-30 08:28,CUST0454,26.0,Other,Pune,Maharashtra,Clothing,Jacket,3238.68,2,0,6477.36,UPI,Mobile,7,Shipped,
+ORD100386,2025-05-30 17:31,CUST0237,31.0,Female,Bengaluru,Karnataka,Beauty,Face Wash,243.22,2,10,437.8,Wallet,Mobile,6,Delivered,5.0
+ORD100387,2025-05-30 23:02,CUST0056,58.0,Male,Bengaluru,Karnataka,Clothing,Jacket,3158.97,2,15,5370.25,UPI,Mobile,8,Delivered,4.0
+ORD100388,2025-05-31 05:17,CUST0022,44.0,Male,Mumbai,Maharashtra,Clothing,Jeans,1774.28,2,5,3371.13,Debit Card,Desktop,4,Cancelled,
+ORD100389,2025-05-31 07:27,CUST0088,18.0,Male,Hyderabad,Telangana,Electronics,Power Bank,1574.8,1,30,1102.36,UPI,Mobile,3,Delivered,5.0
+ORD100390,2025-05-31 14:07,CUST0426,37.0,Male,Bengaluru,Karnataka,Beauty,Hair Oil,331.1,2,0,662.2,Cash on Delivery,Desktop,5,Delivered,5.0
+ORD100391,2025-06-01 18:28,CUST0123,39.0,Female,Kolkata,West Bengal,Home & Kitchen,LED Lamp,760.71,4,10,2738.56,Credit Card,Mobile,3,Cancelled,
+ORD100392,2025-06-01 22:27,CUST0143,39.0,Female,Ahmedabad,Gujarat,Home & Kitchen,LED Lamp,653.95,1,20,523.16,UPI,Mobile,4,Shipped,
+ORD100393,2025-06-02 03:57,CUST0019,45.0,Male,Delhi,Delhi,Sports,Football,742.72,2,10,1336.9,Debit Card,Desktop,8,Delivered,3.0
+ORD100394,2025-06-02 05:14,CUST0128,,Other,Hyderabad,Telangana,Electronics,Smartphone Case,459.83,2,0,919.66,Credit Card,Mobile,5,Cancelled,
+ORD100395,2025-06-02 13:19,CUST0188,27.0,Female,Pune,Maharashtra,Clothing,Jeans,1928.45,1,0,1928.45,Cash on Delivery,Mobile,2,Delivered,4.0
+ORD100396,2025-06-02 15:02,CUST0180,36.0,Female,Bengaluru,Karnataka,Electronics,Wireless Earbuds,2899.77,3,15,7394.41,UPI,Mobile,4,Delivered,5.0
+ORD100397,2025-06-02 16:54,CUST0294,24.0,Female,Kolkata,West Bengal,Clothing,Jacket,2703.67,2,30,3785.14,Debit Card,Mobile,1,Shipped,
+ORD100398,2025-06-02 17:11,CUST0457,31.0,Female,Durg,Chhattisgarh,Home & Kitchen,Bedsheet,1081.84,1,0,1081.84,Cash on Delivery,Desktop,2,Delivered,5.0
+ORD100399,2025-06-02 19:00,CUST0163,50.0,Male,Hyderabad,Telangana,Sports,Dumbbell Set,1975.03,3,10,5332.58,Net Banking,Mobile,2,Delivered,4.0
+ORD100400,2025-06-02 23:26,CUST0177,42.0,Female,Mumbai,Maharashtra,Home & Kitchen,Cookware Set,2563.56,1,10,2307.2,UPI,Mobile,1,Delivered,5.0
+ORD100401,2025-06-04 16:31,CUST0380,34.0,Female,Pune,Maharashtra,Electronics,Power Bank,1703.04,1,0,1703.04,Wallet,Mobile,1,Delivered,3.0
+ORD100402,2025-06-05 10:43,CUST0378,29.0,Female,Ahmedabad,Gujarat,Clothing,T-Shirt,671.45,1,20,537.16,UPI,Mobile,6,Delivered,4.0
+ORD100403,2025-06-06 04:25,CUST0151,40.0,Female,Delhi,Delhi,Books,Self-Help Book,439.45,5,0,2197.25,Cash on Delivery,Mobile,1,Delivered,4.0
+ORD100404,2025-06-06 16:18,CUST0215,20.0,Male,Chennai,Tamil Nadu,Clothing,Jeans,1885.12,2,0,3770.24,UPI,Mobile,1,Delivered,4.0
+ORD100405,2025-06-07 10:12,CUST0267,35.0,Male,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,452.3,1,10,407.07,Wallet,Desktop,6,Cancelled,
+ORD100406,2025-06-07 11:13,CUST0288,32.0,Female,Raipur,Chhattisgarh,Books,Self-Help Book,444.01,1,20,355.21,Credit Card,Mobile,3,Delivered,4.0
+ORD100407,2025-06-07 17:01,CUST0331,21.0,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3998.99,1,10,3599.09,UPI,Mobile,3,Delivered,3.0
+ORD100408,2025-06-07 17:08,CUST0162,22.0,Male,Jaipur,Rajasthan,Clothing,Jacket,3201.71,1,0,3201.71,Debit Card,Mobile,2,Delivered,2.0
+ORD100409,2025-06-08 01:12,CUST0528,42.0,Female,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2260.81,1,10,2034.73,Cash on Delivery,Desktop,4,Delivered,2.0
+ORD100410,2025-06-08 06:29,CUST0345,43.0,Male,Lucknow,Uttar Pradesh,Clothing,Sneakers,2697.02,1,15,2292.47,Cash on Delivery,Mobile,4,Delivered,3.0
+ORD100411,2025-06-08 07:12,CUST0342,40.0,Female,Chennai,Tamil Nadu,Electronics,USB-C Cable,337.52,2,5,641.29,Net Banking,Mobile,4,Delivered,4.0
+ORD100412,2025-06-08 08:24,CUST0555,32.0,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2517.21,2,15,4279.26,Credit Card,Desktop,6,Delivered,3.0
+ORD100413,2025-06-08 08:56,CUST0042,39.0,Female,Kolkata,West Bengal,Home & Kitchen,Storage Box,536.89,1,10,483.2,UPI,Mobile,2,Delivered,4.0
+ORD100414,2025-06-08 12:36,CUST0295,20.0,Male,Kolkata,West Bengal,Electronics,Power Bank,1375.76,1,0,1375.76,Cash on Delivery,Desktop,1,Delivered,5.0
+ORD100415,2025-06-08 19:27,CUST0374,44.0,Female,Hyderabad,Telangana,Clothing,Jeans,1880.14,1,0,1880.14,UPI,Mobile,8,Delivered,5.0
+ORD100416,2025-06-08 20:29,CUST0076,25.0,Female,Hyderabad,Telangana,Sports,Yoga Mat,745.72,2,15,1267.72,UPI,Desktop,2,Delivered,4.0
+ORD100417,2025-06-09 09:38,CUST0500,37.0,Female,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,780.93,2,5,1483.77,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100418,2025-06-09 13:27,CUST0579,33.0,Female,Mumbai,Maharashtra,Clothing,Jacket,3136.99,1,5,2980.14,UPI,Mobile,7,Delivered,3.0
+ORD100419,2025-06-09 20:02,CUST0450,44.0,Male,Ahmedabad,Gujarat,Books,Novel,325.84,1,20,260.67,Cash on Delivery,Mobile,1,Delivered,5.0
+ORD100420,2025-06-10 04:34,CUST0579,41.0,Male,Raipur,Chhattisgarh,Sports,Dumbbell Set,1827.9,3,10,4935.33,Cash on Delivery,Tablet,6,Delivered,5.0
+ORD100421,2025-06-10 04:51,CUST0061,33.0,Male,Ahmedabad,Gujarat,Electronics,USB-C Cable,273.91,2,0,547.82,Net Banking,Mobile,2,Delivered,5.0
+ORD100422,2025-06-10 11:00,CUST0039,31.0,Female,Lucknow,Uttar Pradesh,Sports,Dumbbell Set,2246.71,2,0,4493.42,Debit Card,Desktop,8,Delivered,5.0
+ORD100423,2025-06-11 00:37,CUST0409,28.0,Male,Lucknow,Uttar Pradesh,Sports,Dumbbell Set,1890.62,1,30,1323.43,Cash on Delivery,Desktop,2,Shipped,
+ORD100424,2025-06-11 10:40,CUST0207,40.0,Male,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,3580.53,1,0,3580.53,Credit Card,Mobile,6,Delivered,5.0
+ORD100425,2025-06-11 13:51,CUST0211,35.0,Female,Delhi,Delhi,Home & Kitchen,Water Bottle,494.05,2,20,790.48,Credit Card,Desktop,7,Delivered,3.0
+ORD100426,2025-06-11 20:18,CUST0583,19.0,Male,Delhi,Delhi,Sports,Yoga Mat,811.98,5,20,3247.92,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100427,2025-06-12 11:49,CUST0069,34.0,Female,Jaipur,Rajasthan,Electronics,Smartphone Case,527.13,2,10,948.83,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100428,2025-06-12 16:13,CUST0387,18.0,Female,Raipur,Chhattisgarh,Beauty,Perfume,1438.76,2,0,2877.52,Cash on Delivery,Mobile,6,Delivered,2.0
+ORD100429,2025-06-12 20:19,CUST0211,37.0,Female,Pune,Maharashtra,Electronics,Power Bank,1609.9,1,20,1287.92,UPI,Mobile,5,Delivered,4.0
+ORD100430,2025-06-12 23:41,CUST0533,42.0,Male,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,687.27,1,10,618.54,UPI,Mobile,5,Delivered,5.0
+ORD100431,2025-06-12 23:46,CUST0341,55.0,Female,Delhi,Delhi,Clothing,Kurta,1457.87,1,30,1020.51,UPI,Mobile,4,Delivered,5.0
+ORD100432,2025-06-13 03:55,CUST0173,18.0,Female,Delhi,Delhi,Books,Novel,359.95,2,10,647.91,UPI,Desktop,6,Delivered,1.0
+ORD100433,2025-06-13 04:03,CUST0077,18.0,Female,Mumbai,Maharashtra,Beauty,Face Wash,263.76,1,0,263.76,UPI,Desktop,8,Delivered,3.0
+ORD100434,2025-06-13 19:19,CUST0288,34.0,Male,Hyderabad,Telangana,Clothing,Jeans,1972.25,1,30,1380.57,Wallet,Mobile,2,Delivered,3.0
+ORD100435,2025-06-14 00:24,CUST0509,49.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Water Bottle,491.34,1,0,491.34,UPI,Desktop,7,Delivered,2.0
+ORD100436,2025-06-14 09:22,CUST0341,34.0,Male,Mumbai,Maharashtra,Sports,Dumbbell Set,2110.71,2,0,4221.42,UPI,Mobile,1,Shipped,
+ORD100437,2025-06-14 10:01,CUST0467,23.0,Male,Mumbai,Maharashtra,Beauty,Lipstick,388.32,3,5,1106.71,Cash on Delivery,Desktop,6,Delivered,4.0
+ORD100438,2025-06-15 10:50,CUST0013,35.0,Female,Delhi,Delhi,Electronics,USB-C Cable,287.62,5,0,1438.1,Cash on Delivery,Desktop,2,Delivered,4.0
+ORD100439,2025-06-15 16:08,CUST0089,36.0,Male,Mumbai,Maharashtra,Home & Kitchen,LED Lamp,635.61,3,0,1906.83,Credit Card,Mobile,7,Delivered,4.0
+ORD100440,2025-06-15 19:49,CUST0048,18.0,Male,Kolkata,West Bengal,Clothing,T-Shirt,620.87,2,0,1241.74,Debit Card,Mobile,2,Delivered,1.0
+ORD100441,2025-06-16 07:33,CUST0172,40.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,273.85,2,5,520.32,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100442,2025-06-16 08:36,CUST0343,31.0,Female,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3620.79,1,20,2896.63,Credit Card,Mobile,1,Delivered,4.0
+ORD100443,2025-06-16 12:15,CUST0579,42.0,Male,Chennai,Tamil Nadu,Beauty,Hair Oil,311.85,4,5,1185.03,UPI,Mobile,5,Delivered,5.0
+ORD100444,2025-06-16 22:58,CUST0583,33.0,Female,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,3190.47,1,20,2552.38,UPI,Mobile,6,Returned,5.0
+ORD100445,2025-06-17 08:52,CUST0494,39.0,Female,Ahmedabad,Gujarat,Electronics,Power Bank,1704.65,2,30,2386.51,UPI,Mobile,5,Delivered,5.0
+ORD100446,2025-06-17 08:59,CUST0221,30.0,Male,Mumbai,Maharashtra,Electronics,USB-C Cable,303.18,1,0,303.18,UPI,Mobile,8,Shipped,
+ORD100447,2025-06-17 12:06,CUST0004,29.0,Female,Bengaluru,Karnataka,Clothing,Sneakers,2871.77,2,10,5169.19,Credit Card,Mobile,1,Delivered,2.0
+ORD100448,2025-06-17 12:13,CUST0445,36.0,Male,Chennai,Tamil Nadu,Electronics,USB-C Cable,271.96,1,0,271.96,Credit Card,Mobile,6,Delivered,5.0
+ORD100449,2025-06-17 21:53,CUST0293,36.0,Female,Jaipur,Rajasthan,Books,Self-Help Book,437.49,1,0,437.49,Credit Card,Mobile,6,Delivered,1.0
+ORD100450,2025-06-18 01:57,CUST0413,18.0,Male,Chennai,Tamil Nadu,Electronics,Power Bank,1421.01,3,0,4263.03,UPI,Desktop,7,Delivered,2.0
+ORD100451,2025-06-18 12:07,CUST0070,30.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,3154.18,2,30,4415.85,Credit Card,Mobile,5,Delivered,4.0
+ORD100452,2025-06-18 14:02,CUST0370,31.0,Male,Mumbai,Maharashtra,Books,Comic,285.42,1,30,199.79,Wallet,Mobile,1,Delivered,4.0
+ORD100453,2025-06-18 22:07,CUST0233,19.0,Male,Mumbai,Maharashtra,Beauty,Perfume,1449.41,1,0,1449.41,UPI,Mobile,8,Delivered,5.0
+ORD100454,2025-06-18 23:21,CUST0503,40.0,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3400.59,1,10,3060.53,UPI,Mobile,2,Delivered,4.0
+ORD100455,2025-06-18 23:56,CUST0095,37.0,Female,Kolkata,West Bengal,Electronics,Smart Watch,5299.15,1,10,4769.23,Cash on Delivery,Desktop,2,Delivered,4.0
+ORD100456,2025-06-19 01:41,CUST0092,41.0,Male,Mumbai,Maharashtra,Clothing,Hoodie,1385.46,1,5,1316.19,Credit Card,Desktop,6,Delivered,5.0
+ORD100457,2025-06-20 02:01,CUST0362,26.0,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Water Bottle,442.9,1,10,398.61,Wallet,Desktop,5,Delivered,4.0
+ORD100458,2025-06-20 08:28,CUST0053,51.0,Male,Durg,Chhattisgarh,Clothing,Hoodie,1362.86,1,10,1226.57,Debit Card,Mobile,6,Delivered,3.0
+ORD100459,2025-06-20 11:51,CUST0082,21.0,Other,Hyderabad,Telangana,Books,Novel,357.52,1,0,357.52,Credit Card,Mobile,3,Delivered,3.0
+ORD100460,2025-06-20 14:15,CUST0313,36.0,Male,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,2672.28,1,5,2538.67,UPI,Mobile,1,Delivered,5.0
+ORD100461,2025-06-21 09:13,CUST0118,18.0,Female,Chennai,Tamil Nadu,Beauty,Moisturizer,454.01,1,0,454.01,UPI,Mobile,4,Delivered,4.0
+ORD100462,2025-06-21 09:18,CUST0496,48.0,Female,Bengaluru,Karnataka,Sports,Dumbbell Set,2208.14,1,0,2208.14,Debit Card,Mobile,6,Delivered,4.0
+ORD100463,2025-06-21 22:48,CUST0476,29.0,Male,Lucknow,Uttar Pradesh,Electronics,Smartphone Case,460.47,1,30,322.33,Credit Card,Mobile,3,Delivered,4.0
+ORD100464,2025-06-22 02:55,CUST0396,25.0,Male,Delhi,Delhi,Sports,Football,648.45,2,5,1232.06,Cash on Delivery,Mobile,1,Returned,3.0
+ORD100465,2025-06-22 19:46,CUST0023,18.0,Male,Kolkata,West Bengal,Books,Self-Help Book,456.9,1,0,456.9,Debit Card,Desktop,4,Delivered,1.0
+ORD100466,2025-06-23 01:24,CUST0127,18.0,Female,Ahmedabad,Gujarat,Beauty,Face Wash,248.35,1,0,248.35,Debit Card,Desktop,8,Delivered,4.0
+ORD100467,2025-06-23 01:43,CUST0595,43.0,Female,Kolkata,West Bengal,Sports,Football,768.2,1,20,614.56,Credit Card,Mobile,3,Delivered,5.0
+ORD100468,2025-06-23 12:41,CUST0025,34.0,Female,Pune,Maharashtra,Electronics,Smart Watch,5559.66,2,0,11119.32,Credit Card,Mobile,8,Delivered,5.0
+ORD100469,2025-06-23 15:10,CUST0294,29.0,Female,Ahmedabad,Gujarat,Beauty,Lipstick,382.13,2,5,726.05,Credit Card,Mobile,1,Delivered,4.0
+ORD100470,2025-06-23 17:08,CUST0337,,Female,Pune,Maharashtra,Clothing,Jeans,1848.12,4,5,7022.86,Cash on Delivery,Desktop,3,Delivered,4.0
+ORD100471,2025-06-24 04:55,CUST0272,30.0,Female,Pune,Maharashtra,Sports,Dumbbell Set,2117.9,1,30,1482.53,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100472,2025-06-24 10:12,CUST0552,31.0,Female,Hyderabad,Telangana,Clothing,Jeans,2043.11,1,10,1838.8,UPI,Mobile,5,Delivered,4.0
+ORD100473,2025-06-24 12:47,CUST0333,38.0,Male,Lucknow,Uttar Pradesh,Electronics,Power Bank,1679.32,2,0,3358.64,Cash on Delivery,Mobile,7,Delivered,3.0
+ORD100474,2025-06-24 23:16,CUST0086,40.0,Male,Delhi,Delhi,Beauty,Perfume,1382.97,3,15,3526.57,UPI,Mobile,2,Returned,3.0
+ORD100475,2025-06-25 12:46,CUST0081,27.0,Male,Delhi,Delhi,Clothing,Jeans,1960.45,2,15,3332.76,UPI,Mobile,2,Delivered,5.0
+ORD100476,2025-06-26 00:58,CUST0316,41.0,Female,Delhi,Delhi,Beauty,Face Wash,237.1,5,10,1066.95,UPI,Mobile,4,Delivered,5.0
+ORD100477,2025-06-27 15:07,CUST0527,32.0,Male,Kolkata,West Bengal,Electronics,Wireless Earbuds,2954.94,2,10,5318.89,Credit Card,Mobile,8,Delivered,2.0
+ORD100478,2025-06-28 04:34,CUST0522,46.0,Female,Kolkata,West Bengal,Clothing,T-Shirt,555.44,1,20,444.35,Credit Card,Desktop,3,Delivered,4.0
+ORD100479,2025-06-28 07:59,CUST0488,24.0,Male,Hyderabad,Telangana,Books,Comic,234.57,1,10,211.11,Credit Card,Mobile,3,Delivered,5.0
+ORD100480,2025-06-28 13:51,CUST0200,29.0,Female,Pune,Maharashtra,Beauty,Hair Oil,323.2,1,10,290.88,Cash on Delivery,Mobile,6,Delivered,5.0
+ORD100481,2025-06-29 02:35,CUST0573,32.0,Male,Lucknow,Uttar Pradesh,Beauty,Hair Oil,299.11,3,10,807.6,UPI,Mobile,6,Delivered,2.0
+ORD100482,2025-06-29 15:15,CUST0276,55.0,Male,Ahmedabad,Gujarat,Clothing,Sneakers,2708.24,3,30,5687.3,Debit Card,Desktop,1,Delivered,5.0
+ORD100483,2025-06-29 20:35,CUST0509,19.0,Female,Bengaluru,Karnataka,Electronics,Smartphone Case,504.24,1,5,479.03,Cash on Delivery,Desktop,2,Delivered,5.0
+ORD100484,2025-06-29 23:24,CUST0124,35.0,Male,Raipur,Chhattisgarh,Sports,Yoga Mat,836.7,1,10,753.03,Cash on Delivery,Mobile,7,Delivered,3.0
+ORD100485,2025-06-30 07:21,CUST0183,35.0,Male,Delhi,Delhi,Electronics,Power Bank,1517.24,5,0,7586.2,Credit Card,Mobile,3,Delivered,5.0
+ORD100486,2025-06-30 16:46,CUST0021,26.0,Female,Delhi,Delhi,Sports,Dumbbell Set,1824.42,2,5,3466.4,UPI,Desktop,5,Delivered,4.0
+ORD100487,2025-06-30 21:40,CUST0156,45.0,Female,Pune,Maharashtra,Home & Kitchen,LED Lamp,635.31,3,10,1715.34,UPI,Mobile,2,Delivered,5.0
+ORD100488,2025-07-01 12:36,CUST0318,38.0,Female,Hyderabad,Telangana,Books,Self-Help Book,503.49,1,0,503.49,Credit Card,Mobile,8,Delivered,2.0
+ORD100489,2025-07-01 16:39,CUST0540,40.0,Female,Kolkata,West Bengal,Home & Kitchen,LED Lamp,722.15,2,10,1299.87,Wallet,Tablet,3,Delivered,4.0
+ORD100490,2025-07-02 04:41,CUST0511,33.0,Male,Delhi,Delhi,Home & Kitchen,LED Lamp,660.21,2,5,1254.4,Debit Card,Mobile,7,Delivered,5.0
+ORD100491,2025-07-02 05:55,CUST0600,45.0,Male,Mumbai,Maharashtra,Books,Comic,240.28,1,0,240.28,UPI,Desktop,1,Delivered,1.0
+ORD100492,2025-07-02 15:04,CUST0100,46.0,Male,Pune,Maharashtra,Books,Novel,324.5,1,0,324.5,Credit Card,Desktop,1,Delivered,4.0
+ORD100493,2025-07-02 18:29,CUST0161,28.0,Female,Hyderabad,Telangana,Electronics,Wireless Earbuds,2904.04,3,0,8712.12,UPI,Desktop,6,Delivered,5.0
+ORD100494,2025-07-02 21:09,CUST0196,34.0,Male,Delhi,Delhi,Electronics,Smart Watch,5223.22,3,15,13319.21,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100495,2025-07-03 16:57,CUST0377,47.0,Female,Jaipur,Rajasthan,Clothing,Sneakers,2294.08,1,0,2294.08,Credit Card,Mobile,8,Delivered,5.0
+ORD100496,2025-07-04 03:38,CUST0496,31.0,Female,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,1095.91,4,5,4164.46,Cash on Delivery,Mobile,7,Returned,3.0
+ORD100497,2025-07-04 03:41,CUST0507,26.0,Female,Hyderabad,Telangana,Electronics,USB-C Cable,293.07,1,10,263.76,UPI,Mobile,5,Delivered,3.0
+ORD100498,2025-07-04 07:56,CUST0482,41.0,Male,Bengaluru,Karnataka,Sports,Cricket Bat,2542.97,2,0,5085.94,Credit Card,Mobile,8,Cancelled,
+ORD100499,2025-07-04 08:16,CUST0491,42.0,Female,Mumbai,Maharashtra,Sports,Football,677.93,1,0,677.93,Wallet,Mobile,3,Delivered,4.0
+ORD100500,2025-07-04 13:06,CUST0530,31.0,Female,Delhi,Delhi,Clothing,Hoodie,1548.31,1,10,1393.48,Cash on Delivery,Desktop,3,Delivered,5.0
+ORD100501,2025-07-04 19:27,CUST0376,29.0,Male,Hyderabad,Telangana,Books,Textbook,897.55,1,5,852.67,UPI,Desktop,1,Delivered,4.0
+ORD100502,2025-07-05 13:10,CUST0085,20.0,Female,Mumbai,Maharashtra,Books,Textbook,1001.06,1,15,850.9,UPI,Mobile,1,Shipped,
+ORD100503,2025-07-05 13:20,CUST0037,27.0,Male,Kolkata,West Bengal,Clothing,Jeans,1661.76,1,0,1661.76,UPI,Desktop,5,Delivered,4.0
+ORD100504,2025-07-05 21:35,CUST0160,26.0,Female,Hyderabad,Telangana,Clothing,Jacket,3297.95,1,20,2638.36,UPI,Mobile,5,Delivered,1.0
+ORD100505,2025-07-07 03:35,CUST0286,30.0,Male,Chennai,Tamil Nadu,Books,Self-Help Book,449.09,3,0,1347.27,Credit Card,Mobile,2,Delivered,5.0
+ORD100506,2025-07-07 07:51,CUST0058,26.0,Female,Mumbai,Maharashtra,Beauty,Moisturizer,447.22,1,10,402.5,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100507,2025-07-07 16:35,CUST0429,,Male,Raipur,Chhattisgarh,Clothing,T-Shirt,633.71,2,10,1140.68,Debit Card,Mobile,7,Delivered,4.0
+ORD100508,2025-07-07 23:54,CUST0380,22.0,Male,Hyderabad,Telangana,Sports,Dumbbell Set,2062.11,2,30,2886.95,Credit Card,Mobile,3,Delivered,3.0
+ORD100509,2025-07-08 04:15,CUST0115,44.0,Female,Jaipur,Rajasthan,Home & Kitchen,Water Bottle,512.88,1,10,461.59,UPI,Desktop,6,Delivered,1.0
+ORD100510,2025-07-08 08:07,CUST0157,30.0,Other,Lucknow,Uttar Pradesh,Beauty,Hair Oil,315.33,1,0,315.33,Net Banking,Desktop,1,Delivered,3.0
+ORD100511,2025-07-08 23:06,CUST0434,47.0,Other,Delhi,Delhi,Sports,Yoga Mat,839.19,1,0,839.19,UPI,Desktop,4,Delivered,3.0
+ORD100512,2025-07-09 09:11,CUST0499,20.0,Male,Delhi,Delhi,Electronics,Power Bank,1436.56,1,0,1436.56,Credit Card,Mobile,8,Delivered,3.0
+ORD100513,2025-07-09 23:59,CUST0027,22.0,Female,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,727.57,2,10,1309.63,UPI,Mobile,6,Delivered,4.0
+ORD100514,2025-07-10 01:05,CUST0439,28.0,Male,Durg,Chhattisgarh,Electronics,Smart Watch,5314.16,1,5,5048.45,Debit Card,Mobile,8,Cancelled,
+ORD100515,2025-07-10 04:09,CUST0194,30.0,Female,Mumbai,Maharashtra,Home & Kitchen,Bedsheet,951.55,1,0,951.55,Net Banking,Mobile,7,Cancelled,
+ORD100516,2025-07-10 17:33,CUST0397,19.0,Female,Pune,Maharashtra,Beauty,Perfume,1324.22,1,20,1059.38,Debit Card,Desktop,3,Delivered,5.0
+ORD100517,2025-07-10 18:15,CUST0532,38.0,Female,Kolkata,West Bengal,Beauty,Lipstick,424.28,1,0,424.28,UPI,Mobile,3,Delivered,5.0
+ORD100518,2025-07-10 23:28,CUST0412,44.0,Female,Pune,Maharashtra,Sports,Dumbbell Set,2286.24,1,0,2286.24,Credit Card,Mobile,6,Delivered,5.0
+ORD100519,2025-07-11 04:04,CUST0425,41.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1865.81,1,10,1679.23,Net Banking,Mobile,6,Delivered,5.0
+ORD100520,2025-07-12 03:03,CUST0146,18.0,Male,Bengaluru,Karnataka,Electronics,USB-C Cable,322.69,2,5,613.11,Credit Card,Mobile,8,Delivered,4.0
+ORD100521,2025-07-12 03:57,CUST0339,45.0,Female,Chennai,Tamil Nadu,Electronics,USB-C Cable,282.05,1,10,253.85,Credit Card,Mobile,6,Delivered,4.0
+ORD100522,2025-07-13 07:51,CUST0598,32.0,Female,Lucknow,Uttar Pradesh,Electronics,Smart Watch,5380.38,2,30,7532.53,UPI,Mobile,3,Delivered,5.0
+ORD100523,2025-07-13 17:32,CUST0077,34.0,Female,Raipur,Chhattisgarh,Electronics,USB-C Cable,336.89,1,10,303.2,Cash on Delivery,Desktop,1,Returned,5.0
+ORD100524,2025-07-13 19:42,CUST0344,27.0,Other,Durg,Chhattisgarh,Home & Kitchen,Storage Box,616.27,1,5,585.46,UPI,Desktop,5,Delivered,1.0
+ORD100525,2025-07-14 06:02,CUST0581,18.0,Male,Chennai,Tamil Nadu,Electronics,Smart Watch,4533.2,1,0,4533.2,Credit Card,Mobile,2,Shipped,
+ORD100526,2025-07-14 10:38,CUST0274,36.0,Female,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,472.81,1,20,378.25,UPI,Desktop,1,Delivered,3.0
+ORD100527,2025-07-14 14:27,CUST0556,41.0,Male,Delhi,Delhi,Sports,Yoga Mat,758.53,2,0,1517.06,UPI,Mobile,4,Shipped,
+ORD100528,2025-07-15 10:24,CUST0535,39.0,Male,Mumbai,Maharashtra,Sports,Dumbbell Set,1983.58,1,5,1884.4,UPI,Mobile,2,Delivered,5.0
+ORD100529,2025-07-15 15:57,CUST0038,31.0,Male,Jaipur,Rajasthan,Clothing,T-Shirt,660.43,1,15,561.37,UPI,Mobile,2,Delivered,5.0
+ORD100530,2025-07-15 19:51,CUST0237,22.0,Female,Lucknow,Uttar Pradesh,Clothing,Sneakers,2869.77,1,0,2869.77,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100531,2025-07-16 04:54,CUST0109,29.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,610.96,1,10,549.86,UPI,Mobile,7,Delivered,5.0
+ORD100532,2025-07-17 00:59,CUST0589,39.0,Male,Bengaluru,Karnataka,Clothing,T-Shirt,624.74,1,0,624.74,Wallet,Mobile,5,Delivered,4.0
+ORD100533,2025-07-17 04:53,CUST0319,35.0,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3933.21,3,5,11209.65,Wallet,Desktop,2,Delivered,5.0
+ORD100534,2025-07-17 13:26,CUST0563,28.0,Male,Bengaluru,Karnataka,Sports,Dumbbell Set,2028.41,1,20,1622.73,Debit Card,Mobile,2,Delivered,5.0
+ORD100535,2025-07-17 22:03,CUST0427,53.0,Male,Raipur,Chhattisgarh,Electronics,Smartphone Case,501.75,1,15,426.49,Cash on Delivery,Desktop,3,Delivered,5.0
+ORD100536,2025-07-18 03:09,CUST0519,26.0,Male,Durg,Chhattisgarh,Home & Kitchen,Water Bottle,516.27,2,10,929.29,Debit Card,Mobile,8,Delivered,5.0
+ORD100537,2025-07-18 04:47,CUST0479,32.0,Female,Delhi,Delhi,Home & Kitchen,Bedsheet,1003.35,4,15,3411.39,Cash on Delivery,Mobile,7,Delivered,1.0
+ORD100538,2025-07-18 17:54,CUST0232,18.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1713.75,1,30,1199.62,Credit Card,Mobile,6,Delivered,4.0
+ORD100539,2025-07-18 21:20,CUST0098,24.0,Male,Chennai,Tamil Nadu,Clothing,Jeans,1855.95,2,0,3711.9,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100540,2025-07-18 22:14,CUST0029,30.0,Female,Kolkata,West Bengal,Clothing,Sneakers,2252.62,1,30,1576.83,Credit Card,Desktop,1,Delivered,4.0
+ORD100541,2025-07-19 01:57,CUST0361,18.0,Male,Pune,Maharashtra,Home & Kitchen,Storage Box,503.47,3,10,1359.37,Credit Card,Mobile,5,Delivered,3.0
+ORD100542,2025-07-19 11:56,CUST0462,18.0,Female,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2448.58,1,0,2448.58,Cash on Delivery,Mobile,2,Delivered,3.0
+ORD100543,2025-07-19 13:59,CUST0290,18.0,Female,Pune,Maharashtra,Home & Kitchen,LED Lamp,728.54,3,0,2185.62,UPI,Desktop,8,Returned,4.0
+ORD100544,2025-07-19 14:54,CUST0237,43.0,Male,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,499.9,1,10,449.91,Cash on Delivery,Desktop,8,Delivered,4.0
+ORD100545,2025-07-19 16:01,CUST0014,,Female,Kolkata,West Bengal,Home & Kitchen,Cookware Set,2557.3,2,0,5114.6,Net Banking,Mobile,8,Cancelled,
+ORD100546,2025-07-20 02:49,CUST0031,30.0,Male,Kolkata,West Bengal,Beauty,Moisturizer,448.15,2,10,806.67,Net Banking,Desktop,1,Delivered,5.0
+ORD100547,2025-07-20 10:30,CUST0071,33.0,Other,Delhi,Delhi,Beauty,Lipstick,377.78,2,5,717.78,Debit Card,Mobile,5,Returned,3.0
+ORD100548,2025-07-21 20:13,CUST0019,27.0,Male,Hyderabad,Telangana,Home & Kitchen,Storage Box,584.64,1,20,467.71,Credit Card,Mobile,1,Delivered,4.0
+ORD100549,2025-07-21 20:36,CUST0242,19.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,585.73,2,0,1171.46,UPI,Mobile,4,Shipped,
+ORD100550,2025-07-22 01:21,CUST0352,33.0,Male,Hyderabad,Telangana,Sports,Dumbbell Set,1973.65,2,30,2763.11,Debit Card,Mobile,2,Delivered,4.0
+ORD100551,2025-07-22 05:21,CUST0386,38.0,Male,Chennai,Tamil Nadu,Sports,Yoga Mat,745.5,1,20,596.4,Credit Card,Mobile,6,Delivered,5.0
+ORD100552,2025-07-22 10:09,CUST0535,37.0,Male,Lucknow,Uttar Pradesh,Clothing,Hoodie,1362.91,1,0,1362.91,UPI,Mobile,4,Delivered,4.0
+ORD100553,2025-07-22 12:30,CUST0463,27.0,Female,Mumbai,Maharashtra,Clothing,Sneakers,2763.5,3,0,8290.5,UPI,Desktop,7,Delivered,5.0
+ORD100554,2025-07-22 13:54,CUST0327,32.0,Female,Lucknow,Uttar Pradesh,Books,Textbook,841.89,1,0,841.89,UPI,Mobile,3,Delivered,4.0
+ORD100555,2025-07-22 15:32,CUST0330,18.0,Female,Delhi,Delhi,Beauty,Perfume,1180.29,1,0,1180.29,Net Banking,Mobile,6,Delivered,3.0
+ORD100556,2025-07-22 19:28,CUST0486,20.0,Female,Bengaluru,Karnataka,Sports,Dumbbell Set,2067.64,2,0,4135.28,Debit Card,Mobile,1,Delivered,4.0
+ORD100557,2025-07-23 07:36,CUST0443,48.0,Male,Ahmedabad,Gujarat,Beauty,Moisturizer,470.89,1,10,423.8,UPI,Mobile,2,Delivered,5.0
+ORD100558,2025-07-24 02:39,CUST0560,27.0,Female,Delhi,Delhi,Clothing,Jeans,1703.08,2,30,2384.31,UPI,Mobile,7,Delivered,5.0
+ORD100559,2025-07-26 01:01,CUST0054,28.0,Male,Ahmedabad,Gujarat,Clothing,Jacket,2866.85,1,20,2293.48,Debit Card,Mobile,3,Delivered,5.0
+ORD100560,2025-07-26 04:58,CUST0171,22.0,Female,Hyderabad,Telangana,Clothing,Hoodie,1439.01,1,0,1439.01,UPI,Mobile,5,Delivered,5.0
+ORD100561,2025-07-26 07:28,CUST0344,28.0,Female,Mumbai,Maharashtra,Clothing,Jeans,2026.67,1,30,1418.67,UPI,Desktop,3,Delivered,3.0
+ORD100562,2025-07-26 08:40,CUST0318,32.0,Female,Bengaluru,Karnataka,Clothing,Hoodie,1544.49,1,5,1467.27,UPI,Desktop,5,Delivered,5.0
+ORD100563,2025-07-26 12:09,CUST0012,29.0,Female,Lucknow,Uttar Pradesh,Clothing,Jacket,2715.33,1,30,1900.73,UPI,Mobile,5,Delivered,2.0
+ORD100564,2025-07-27 01:23,CUST0218,45.0,Female,Hyderabad,Telangana,Electronics,Bluetooth Speaker,2706.66,1,0,2706.66,Debit Card,Mobile,8,Delivered,5.0
+ORD100565,2025-07-27 14:10,CUST0036,30.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Cookware Set,3020.36,2,10,5436.65,UPI,Mobile,8,Delivered,4.0
+ORD100566,2025-07-28 11:59,CUST0460,28.0,Male,Bengaluru,Karnataka,Electronics,Smartphone Case,546.47,1,15,464.5,UPI,Tablet,1,Delivered,2.0
+ORD100567,2025-07-28 16:20,CUST0494,,Male,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,966.05,1,30,676.23,Credit Card,Mobile,3,Delivered,5.0
+ORD100568,2025-07-28 22:20,CUST0015,19.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,3202.39,3,0,9607.17,Net Banking,Desktop,3,Delivered,5.0
+ORD100569,2025-07-28 22:29,CUST0073,41.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,583.39,1,20,466.71,Net Banking,Mobile,2,Delivered,5.0
+ORD100570,2025-07-28 22:43,CUST0411,37.0,Female,Mumbai,Maharashtra,Electronics,Power Bank,1687.4,5,0,8437.0,Credit Card,Mobile,7,Delivered,3.0
+ORD100571,2025-07-29 17:30,CUST0599,18.0,Female,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2523.6,2,5,4794.84,UPI,Desktop,5,Returned,5.0
+ORD100572,2025-07-30 18:09,CUST0010,33.0,Male,Chennai,Tamil Nadu,Home & Kitchen,Bedsheet,1144.99,5,10,5152.45,UPI,Desktop,8,Cancelled,
+ORD100573,2025-07-30 23:25,CUST0446,45.0,Female,Durg,Chhattisgarh,Beauty,Face Wash,249.95,2,5,474.9,UPI,Desktop,4,Delivered,5.0
+ORD100574,2025-07-31 09:57,CUST0298,41.0,Female,Jaipur,Rajasthan,Electronics,Wireless Earbuds,2740.51,1,30,1918.36,Credit Card,Mobile,5,Delivered,5.0
+ORD100575,2025-07-31 11:14,CUST0299,45.0,Female,Mumbai,Maharashtra,Electronics,Smart Watch,5214.73,4,5,19815.97,Debit Card,Mobile,4,Cancelled,
+ORD100576,2025-07-31 23:43,CUST0287,33.0,Female,Delhi,Delhi,Clothing,T-Shirt,643.96,1,20,515.17,Cash on Delivery,Mobile,2,Delivered,1.0
+ORD100577,2025-08-01 02:05,CUST0254,40.0,Female,Delhi,Delhi,Home & Kitchen,LED Lamp,743.4,5,30,2601.9,Credit Card,Tablet,3,Delivered,5.0
+ORD100578,2025-08-01 02:34,CUST0124,20.0,Other,Delhi,Delhi,Sports,Yoga Mat,812.58,1,10,731.32,Debit Card,Mobile,8,Shipped,
+ORD100579,2025-08-02 04:41,CUST0015,26.0,Male,Bengaluru,Karnataka,Books,Comic,256.08,3,10,691.42,UPI,Mobile,3,Delivered,1.0
+ORD100580,2025-08-03 07:26,CUST0555,39.0,Female,Delhi,Delhi,Clothing,Kurta,1205.27,3,10,3254.23,UPI,Mobile,6,Delivered,4.0
+ORD100581,2025-08-03 11:45,CUST0400,37.0,Female,Delhi,Delhi,Clothing,Hoodie,1641.16,1,5,1559.1,Cash on Delivery,Mobile,4,Delivered,1.0
+ORD100582,2025-08-03 17:08,CUST0554,28.0,Female,Bengaluru,Karnataka,Books,Novel,349.93,1,20,279.94,Credit Card,Mobile,5,Delivered,3.0
+ORD100583,2025-08-03 17:33,CUST0494,38.0,Female,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3252.77,1,5,3090.13,Net Banking,Desktop,6,Delivered,4.0
+ORD100584,2025-08-04 05:53,CUST0354,26.0,Female,Ahmedabad,Gujarat,Home & Kitchen,Water Bottle,436.41,2,20,698.26,UPI,Mobile,7,Delivered,5.0
+ORD100585,2025-08-04 09:03,CUST0340,44.0,Male,Bengaluru,Karnataka,Clothing,Hoodie,1702.14,1,0,1702.14,Wallet,Desktop,4,Delivered,1.0
+ORD100586,2025-08-04 16:25,CUST0399,42.0,Female,Hyderabad,Telangana,Electronics,Wireless Earbuds,3413.33,1,10,3072.0,UPI,Mobile,2,Delivered,5.0
+ORD100587,2025-08-04 18:25,CUST0228,31.0,Male,Chennai,Tamil Nadu,Electronics,Smartphone Case,535.57,5,20,2142.28,Credit Card,Mobile,2,Delivered,5.0
+ORD100588,2025-08-05 01:35,CUST0419,43.0,Female,Delhi,Delhi,Electronics,Smart Watch,4973.44,3,0,14920.32,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100589,2025-08-05 16:39,CUST0019,30.0,Female,Delhi,Delhi,Sports,Football,731.99,1,15,622.19,Wallet,Mobile,6,Delivered,4.0
+ORD100590,2025-08-05 23:14,CUST0242,39.0,Female,Delhi,Delhi,Home & Kitchen,Water Bottle,432.51,1,30,302.76,Debit Card,Mobile,7,Delivered,3.0
+ORD100591,2025-08-06 13:19,CUST0363,31.0,Male,Pune,Maharashtra,Beauty,Moisturizer,433.37,1,15,368.36,Debit Card,Mobile,1,Delivered,5.0
+ORD100592,2025-08-06 21:09,CUST0547,30.0,Female,Chennai,Tamil Nadu,Home & Kitchen,Cookware Set,2669.54,1,15,2269.11,UPI,Mobile,4,Returned,4.0
+ORD100593,2025-08-07 01:37,CUST0445,30.0,Male,Hyderabad,Telangana,Books,Novel,318.41,2,0,636.82,Debit Card,Desktop,7,Delivered,4.0
+ORD100594,2025-08-07 11:22,CUST0023,24.0,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,2761.71,1,10,2485.54,UPI,Mobile,8,Delivered,5.0
+ORD100595,2025-08-07 18:35,CUST0036,29.0,Male,Pune,Maharashtra,Beauty,Face Wash,242.65,1,0,242.65,UPI,Mobile,7,Delivered,4.0
+ORD100596,2025-08-07 20:26,CUST0236,25.0,Male,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,511.68,1,0,511.68,Debit Card,Desktop,6,Delivered,5.0
+ORD100597,2025-08-08 13:46,CUST0218,46.0,Female,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3272.43,5,5,15544.04,UPI,Desktop,3,Cancelled,
+ORD100598,2025-08-09 00:51,CUST0435,31.0,Female,Ahmedabad,Gujarat,Home & Kitchen,Bedsheet,1102.31,1,10,992.08,UPI,Mobile,4,Delivered,3.0
+ORD100599,2025-08-09 03:13,CUST0103,25.0,Male,Delhi,Delhi,Electronics,Smart Watch,4881.1,2,0,9762.2,Debit Card,Mobile,5,Delivered,4.0
+ORD100600,2025-08-09 12:35,CUST0171,23.0,Female,Jaipur,Rajasthan,Clothing,Kurta,1303.51,4,0,5214.04,Debit Card,Mobile,8,Delivered,4.0
+ORD100601,2025-08-10 03:54,CUST0063,41.0,Female,Pune,Maharashtra,Clothing,Hoodie,1402.28,4,0,5609.12,Cash on Delivery,Mobile,4,Delivered,3.0
+ORD100602,2025-08-10 04:41,CUST0489,51.0,Female,Raipur,Chhattisgarh,Home & Kitchen,Mixer Grinder,3608.3,1,0,3608.3,Credit Card,Mobile,7,Cancelled,
+ORD100603,2025-08-10 15:02,CUST0557,26.0,Female,Jaipur,Rajasthan,Sports,Dumbbell Set,2183.07,5,0,10915.35,Credit Card,Desktop,3,Cancelled,
+ORD100604,2025-08-12 00:15,CUST0598,35.0,Male,Hyderabad,Telangana,Books,Novel,344.67,1,0,344.67,UPI,Desktop,5,Delivered,5.0
+ORD100605,2025-08-12 05:07,CUST0328,44.0,Male,Lucknow,Uttar Pradesh,Beauty,Perfume,1441.92,3,10,3893.18,UPI,Desktop,2,Delivered,5.0
+ORD100606,2025-08-12 13:04,CUST0472,34.0,Female,Jaipur,Rajasthan,Clothing,Sneakers,2371.11,2,0,4742.22,Wallet,Mobile,4,Delivered,3.0
+ORD100607,2025-08-12 15:02,CUST0219,40.0,Female,Ahmedabad,Gujarat,Home & Kitchen,LED Lamp,684.9,2,0,1369.8,UPI,Mobile,5,Delivered,4.0
+ORD100608,2025-08-13 05:57,CUST0541,32.0,Female,Lucknow,Uttar Pradesh,Clothing,Jacket,2856.03,4,15,9710.5,Debit Card,Desktop,4,Delivered,5.0
+ORD100609,2025-08-13 08:16,CUST0347,31.0,Female,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,3769.85,1,20,3015.88,UPI,Mobile,4,Delivered,4.0
+ORD100610,2025-08-13 08:45,CUST0058,32.0,Male,Delhi,Delhi,Electronics,Power Bank,1508.11,5,10,6786.49,Wallet,Tablet,4,Delivered,5.0
+ORD100611,2025-08-13 21:36,CUST0370,26.0,Male,Durg,Chhattisgarh,Electronics,Smart Watch,5220.76,1,0,5220.76,UPI,Mobile,6,Cancelled,
+ORD100612,2025-08-13 22:38,CUST0136,37.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,545.78,5,20,2183.12,Cash on Delivery,Desktop,8,Delivered,4.0
+ORD100613,2025-08-13 22:51,CUST0016,37.0,Female,Kolkata,West Bengal,Beauty,Perfume,1441.86,1,10,1297.67,UPI,Desktop,2,Delivered,3.0
+ORD100614,2025-08-14 01:48,CUST0563,18.0,Male,Chennai,Tamil Nadu,Clothing,Kurta,1404.68,1,5,1334.45,Debit Card,Mobile,8,Delivered,3.0
+ORD100615,2025-08-15 23:29,CUST0390,33.0,Female,Delhi,Delhi,Clothing,Jacket,3299.11,4,20,10557.15,UPI,Mobile,3,Delivered,4.0
+ORD100616,2025-08-15 23:35,CUST0538,30.0,Female,Delhi,Delhi,Clothing,Jeans,1891.12,1,10,1702.01,Credit Card,Desktop,1,Delivered,5.0
+ORD100617,2025-08-16 12:14,CUST0585,24.0,Male,Bengaluru,Karnataka,Home & Kitchen,Cookware Set,2669.36,3,0,8008.08,Credit Card,Mobile,7,Delivered,4.0
+ORD100618,2025-08-17 11:52,CUST0117,33.0,Female,Pune,Maharashtra,Sports,Cricket Bat,2294.9,1,30,1606.43,Credit Card,Mobile,1,Delivered,4.0
+ORD100619,2025-08-17 23:13,CUST0153,55.0,Female,Bengaluru,Karnataka,Clothing,Jacket,3081.15,2,0,6162.3,Cash on Delivery,Mobile,8,Cancelled,
+ORD100620,2025-08-18 03:41,CUST0564,33.0,Other,Kolkata,West Bengal,Electronics,USB-C Cable,336.67,4,10,1212.01,UPI,Mobile,2,Delivered,4.0
+ORD100621,2025-08-18 11:48,CUST0223,37.0,Female,Lucknow,Uttar Pradesh,Clothing,Jacket,2950.3,1,10,2655.27,UPI,Mobile,6,Delivered,5.0
+ORD100622,2025-08-18 20:44,CUST0122,33.0,Female,Raipur,Chhattisgarh,Home & Kitchen,Storage Box,605.54,1,0,605.54,UPI,Desktop,3,Delivered,5.0
+ORD100623,2025-08-18 22:54,CUST0139,33.0,Female,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,3957.26,1,10,3561.53,UPI,Mobile,1,Delivered,5.0
+ORD100624,2025-08-19 01:16,CUST0023,29.0,Male,Delhi,Delhi,Sports,Football,794.04,1,0,794.04,Cash on Delivery,Desktop,1,Delivered,4.0
+ORD100625,2025-08-19 13:22,CUST0121,34.0,Female,Chennai,Tamil Nadu,Beauty,Hair Oil,287.75,2,15,489.18,Debit Card,Tablet,5,Delivered,2.0
+ORD100626,2025-08-20 00:21,CUST0430,31.0,Male,Delhi,Delhi,Electronics,USB-C Cable,295.21,2,5,560.9,Credit Card,Desktop,6,Shipped,
+ORD100627,2025-08-20 09:37,CUST0193,36.0,Female,Chennai,Tamil Nadu,Sports,Football,732.76,1,5,696.12,UPI,Mobile,8,Delivered,3.0
+ORD100628,2025-08-20 12:28,CUST0563,48.0,Female,Hyderabad,Telangana,Sports,Cricket Bat,2074.05,1,10,1866.65,Credit Card,Mobile,1,Delivered,3.0
+ORD100629,2025-08-20 14:11,CUST0452,31.0,Male,Bengaluru,Karnataka,Clothing,Sneakers,2681.27,1,10,2413.14,UPI,Mobile,8,Shipped,
+ORD100630,2025-08-20 15:21,CUST0559,24.0,Female,Hyderabad,Telangana,Home & Kitchen,Cookware Set,3128.12,4,0,12512.48,UPI,Desktop,1,Delivered,4.0
+ORD100631,2025-08-20 16:07,CUST0481,37.0,Female,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,425.63,1,10,383.07,UPI,Mobile,4,Delivered,3.0
+ORD100632,2025-08-20 17:07,CUST0446,35.0,Male,Ahmedabad,Gujarat,Electronics,Smart Watch,5338.73,2,5,10143.59,Net Banking,Desktop,2,Delivered,4.0
+ORD100633,2025-08-21 05:16,CUST0120,36.0,Male,Mumbai,Maharashtra,Books,Textbook,988.03,1,10,889.23,Net Banking,Mobile,4,Cancelled,
+ORD100634,2025-08-21 06:56,CUST0250,25.0,Male,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,928.98,5,15,3948.16,Debit Card,Mobile,5,Delivered,4.0
+ORD100635,2025-08-21 10:02,CUST0502,36.0,Male,Chennai,Tamil Nadu,Beauty,Face Wash,250.43,1,5,237.91,Wallet,Mobile,5,Delivered,4.0
+ORD100636,2025-08-21 12:46,CUST0400,33.0,Other,Pune,Maharashtra,Home & Kitchen,Bedsheet,1007.73,2,5,1914.69,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100637,2025-08-22 10:34,CUST0353,23.0,Female,Delhi,Delhi,Electronics,Smart Watch,5664.38,3,20,13594.51,Credit Card,Mobile,6,Delivered,5.0
+ORD100638,2025-08-23 12:09,CUST0010,26.0,Female,Bengaluru,Karnataka,Electronics,Smartphone Case,566.76,3,20,1360.22,UPI,Mobile,7,Delivered,3.0
+ORD100639,2025-08-23 12:52,CUST0141,32.0,Female,Mumbai,Maharashtra,Beauty,Perfume,1361.48,5,0,6807.4,Credit Card,Desktop,4,Returned,4.0
+ORD100640,2025-08-24 00:15,CUST0077,34.0,Male,Hyderabad,Telangana,Electronics,USB-C Cable,292.11,2,0,584.22,Cash on Delivery,Desktop,4,Returned,1.0
+ORD100641,2025-08-25 12:01,CUST0092,33.0,Female,Lucknow,Uttar Pradesh,Electronics,USB-C Cable,283.89,5,0,1419.45,Net Banking,Mobile,5,Cancelled,
+ORD100642,2025-08-25 23:16,CUST0184,28.0,Male,Chennai,Tamil Nadu,Books,Textbook,922.3,2,5,1752.37,UPI,Mobile,4,Delivered,4.0
+ORD100643,2025-08-26 04:39,CUST0477,35.0,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2424.22,1,20,1939.38,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100644,2025-08-26 07:05,CUST0378,33.0,Female,Hyderabad,Telangana,Beauty,Face Wash,236.99,2,30,331.79,Credit Card,Mobile,5,Returned,4.0
+ORD100645,2025-08-26 22:48,CUST0467,36.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,313.86,1,10,282.47,UPI,Mobile,7,Delivered,3.0
+ORD100646,2025-08-26 22:54,CUST0286,50.0,Female,Delhi,Delhi,Sports,Cricket Bat,2392.24,1,30,1674.57,Credit Card,Mobile,5,Delivered,2.0
+ORD100647,2025-08-27 03:18,CUST0493,39.0,Female,Kolkata,West Bengal,Books,Novel,380.52,2,0,761.04,UPI,Mobile,2,Delivered,3.0
+ORD100648,2025-08-27 04:39,CUST0508,31.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,282.75,1,0,282.75,Credit Card,Desktop,3,Shipped,
+ORD100649,2025-08-27 20:47,CUST0366,20.0,Male,Raipur,Chhattisgarh,Home & Kitchen,Bedsheet,1098.69,2,15,1867.77,Cash on Delivery,Mobile,4,Delivered,5.0
+ORD100650,2025-08-27 22:02,CUST0119,31.0,Female,Ahmedabad,Gujarat,Books,Novel,351.36,1,5,333.79,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100651,2025-08-28 12:55,CUST0315,27.0,Male,Delhi,Delhi,Sports,Yoga Mat,771.04,1,10,693.94,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100652,2025-08-29 02:52,CUST0133,28.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,634.55,1,10,571.1,Debit Card,Mobile,1,Returned,4.0
+ORD100653,2025-08-29 16:32,CUST0322,28.0,Male,Kolkata,West Bengal,Clothing,Jacket,2923.24,1,30,2046.27,UPI,Desktop,6,Delivered,3.0
+ORD100654,2025-08-30 02:50,CUST0052,29.0,Male,Pune,Maharashtra,Electronics,Bluetooth Speaker,2645.1,1,10,2380.59,Debit Card,Mobile,8,Delivered,5.0
+ORD100655,2025-08-30 12:09,CUST0182,33.0,Male,Chennai,Tamil Nadu,Electronics,USB-C Cable,299.83,4,20,959.46,Credit Card,Mobile,6,Delivered,1.0
+ORD100656,2025-08-30 14:23,CUST0582,23.0,Male,Mumbai,Maharashtra,Home & Kitchen,Bedsheet,970.17,1,30,679.12,Credit Card,Mobile,4,Delivered,4.0
+ORD100657,2025-08-30 22:41,CUST0570,22.0,Male,Delhi,Delhi,Clothing,Kurta,1207.96,5,0,6039.8,UPI,Mobile,8,Delivered,4.0
+ORD100658,2025-08-31 02:29,CUST0051,37.0,Other,Pune,Maharashtra,Sports,Football,743.83,1,5,706.64,UPI,Mobile,1,Delivered,5.0
+ORD100659,2025-08-31 04:47,CUST0467,50.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,272.42,2,10,490.36,UPI,Desktop,7,Delivered,5.0
+ORD100660,2025-08-31 11:23,CUST0350,34.0,Male,Mumbai,Maharashtra,Electronics,Smartphone Case,512.22,3,0,1536.66,UPI,Mobile,4,Delivered,5.0
+ORD100661,2025-08-31 16:05,CUST0330,25.0,Male,Hyderabad,Telangana,Clothing,Jeans,1773.67,1,5,1684.99,Debit Card,Mobile,4,Delivered,1.0
+ORD100662,2025-08-31 23:23,CUST0277,18.0,Female,Mumbai,Maharashtra,Beauty,Hair Oil,271.1,1,0,271.1,Cash on Delivery,Mobile,7,Delivered,1.0
+ORD100663,2025-08-31 23:57,CUST0595,54.0,Female,Delhi,Delhi,Sports,Football,651.09,1,5,618.54,UPI,Mobile,7,Delivered,4.0
+ORD100664,2025-09-01 02:03,CUST0439,39.0,Female,Delhi,Delhi,Beauty,Moisturizer,405.05,2,10,729.09,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100665,2025-09-01 23:12,CUST0249,29.0,Male,Delhi,Delhi,Beauty,Perfume,1438.33,2,0,2876.66,Debit Card,Mobile,7,Delivered,3.0
+ORD100666,2025-09-02 05:34,CUST0571,23.0,Female,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,2814.02,1,15,2391.92,Cash on Delivery,Mobile,1,Delivered,2.0
+ORD100667,2025-09-02 11:34,CUST0270,32.0,Female,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2790.36,2,0,5580.72,UPI,Mobile,1,Delivered,5.0
+ORD100668,2025-09-02 20:35,CUST0226,25.0,Female,Bengaluru,Karnataka,Clothing,Kurta,1456.62,3,20,3495.89,UPI,Mobile,5,Delivered,4.0
+ORD100669,2025-09-02 23:02,CUST0169,26.0,Female,Chennai,Tamil Nadu,Electronics,USB-C Cable,284.98,1,15,242.23,Cash on Delivery,Tablet,3,Delivered,5.0
+ORD100670,2025-09-02 23:59,CUST0035,29.0,Female,Raipur,Chhattisgarh,Sports,Cricket Bat,2249.13,4,20,7197.22,Cash on Delivery,Desktop,4,Delivered,5.0
+ORD100671,2025-09-03 08:49,CUST0433,21.0,Male,Mumbai,Maharashtra,Books,Novel,330.63,4,30,925.76,UPI,Mobile,3,Delivered,2.0
+ORD100672,2025-09-05 08:17,CUST0012,39.0,Female,Delhi,Delhi,Electronics,Smart Watch,4722.86,2,0,9445.72,Cash on Delivery,Tablet,5,Delivered,5.0
+ORD100673,2025-09-05 08:40,CUST0090,,Male,Delhi,Delhi,Clothing,Jeans,1887.82,1,10,1699.04,UPI,Mobile,8,Returned,5.0
+ORD100674,2025-09-05 10:34,CUST0459,18.0,Female,Hyderabad,Telangana,Home & Kitchen,Storage Box,559.02,1,0,559.02,UPI,Mobile,5,Delivered,4.0
+ORD100675,2025-09-05 22:27,CUST0415,18.0,Male,Jaipur,Rajasthan,Books,Novel,357.94,1,15,304.25,Debit Card,Desktop,5,Delivered,1.0
+ORD100676,2025-09-06 11:03,CUST0338,37.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,270.91,2,0,541.82,UPI,Desktop,3,Delivered,3.0
+ORD100677,2025-09-06 11:10,CUST0207,21.0,Female,Durg,Chhattisgarh,Beauty,Hair Oil,286.96,4,5,1090.45,Debit Card,Mobile,7,Delivered,3.0
+ORD100678,2025-09-07 02:39,CUST0166,25.0,Male,Pune,Maharashtra,Clothing,Hoodie,1431.34,1,20,1145.07,Credit Card,Desktop,1,Delivered,5.0
+ORD100679,2025-09-07 07:30,CUST0228,38.0,Female,Delhi,Delhi,Sports,Football,735.79,1,0,735.79,UPI,Mobile,5,Shipped,
+ORD100680,2025-09-07 13:13,CUST0567,45.0,Male,Raipur,Chhattisgarh,Sports,Dumbbell Set,1857.66,1,0,1857.66,UPI,Mobile,1,Delivered,5.0
+ORD100681,2025-09-07 20:10,CUST0198,18.0,Male,Pune,Maharashtra,Home & Kitchen,Bedsheet,1017.67,5,5,4833.93,UPI,Desktop,4,Delivered,1.0
+ORD100682,2025-09-08 07:06,CUST0514,41.0,Male,Jaipur,Rajasthan,Clothing,Kurta,1333.26,1,0,1333.26,UPI,Mobile,4,Delivered,5.0
+ORD100683,2025-09-08 10:12,CUST0552,18.0,Female,Chennai,Tamil Nadu,Electronics,Smartphone Case,527.08,2,10,948.74,UPI,Tablet,1,Delivered,5.0
+ORD100684,2025-09-08 10:48,CUST0073,47.0,Other,Bengaluru,Karnataka,Clothing,T-Shirt,566.13,3,0,1698.39,Debit Card,Desktop,7,Delivered,5.0
+ORD100685,2025-09-08 13:32,CUST0294,28.0,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,2705.76,1,15,2299.9,Debit Card,Desktop,1,Delivered,5.0
+ORD100686,2025-09-09 14:59,CUST0157,35.0,Female,Pune,Maharashtra,Sports,Dumbbell Set,2124.25,3,5,6054.11,Cash on Delivery,Mobile,8,Delivered,4.0
+ORD100687,2025-09-10 04:04,CUST0497,38.0,Male,Jaipur,Rajasthan,Beauty,Face Wash,229.03,1,0,229.03,Net Banking,Mobile,8,Delivered,5.0
+ORD100688,2025-09-11 09:44,CUST0284,28.0,Other,Kolkata,West Bengal,Electronics,Power Bank,1401.31,1,5,1331.24,Credit Card,Mobile,3,Delivered,2.0
+ORD100689,2025-09-11 14:25,CUST0552,35.0,Female,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,3880.58,2,30,5432.81,Cash on Delivery,Desktop,4,Shipped,
+ORD100690,2025-09-12 03:45,CUST0390,36.0,Female,Kolkata,West Bengal,Beauty,Perfume,1364.97,1,5,1296.72,Debit Card,Desktop,2,Delivered,4.0
+ORD100691,2025-09-12 07:42,CUST0492,36.0,Male,Hyderabad,Telangana,Electronics,Power Bank,1360.53,2,0,2721.06,UPI,Mobile,5,Delivered,2.0
+ORD100692,2025-09-12 12:56,CUST0494,48.0,Male,Mumbai,Maharashtra,Home & Kitchen,LED Lamp,744.81,1,10,670.33,Credit Card,Tablet,5,Delivered,3.0
+ORD100693,2025-09-12 12:59,CUST0313,43.0,Male,Pune,Maharashtra,Clothing,Jacket,3236.4,1,15,2750.94,Wallet,Mobile,6,Delivered,4.0
+ORD100694,2025-09-12 19:32,CUST0361,39.0,Female,Chennai,Tamil Nadu,Clothing,Hoodie,1666.0,1,0,1666.0,UPI,Desktop,5,Delivered,5.0
+ORD100695,2025-09-13 09:26,CUST0155,40.0,Male,Mumbai,Maharashtra,Sports,Cricket Bat,2231.07,2,10,4015.93,Debit Card,Mobile,7,Delivered,4.0
+ORD100696,2025-09-13 10:02,CUST0592,41.0,Male,Delhi,Delhi,Clothing,Kurta,1310.51,1,30,917.36,UPI,Mobile,6,Delivered,1.0
+ORD100697,2025-09-13 14:19,CUST0211,28.0,Male,Jaipur,Rajasthan,Clothing,Hoodie,1713.49,1,5,1627.82,UPI,Desktop,1,Delivered,2.0
+ORD100698,2025-09-13 16:34,CUST0168,20.0,Male,Mumbai,Maharashtra,Home & Kitchen,LED Lamp,698.52,1,10,628.67,UPI,Desktop,2,Delivered,4.0
+ORD100699,2025-09-14 05:32,CUST0293,20.0,Female,Hyderabad,Telangana,Sports,Yoga Mat,873.59,1,0,873.59,Wallet,Desktop,7,Delivered,4.0
+ORD100700,2025-09-14 23:19,CUST0132,35.0,Male,Chennai,Tamil Nadu,Beauty,Hair Oil,303.79,2,0,607.58,UPI,Mobile,2,Delivered,4.0
+ORD100701,2025-09-15 09:14,CUST0578,18.0,Female,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2469.19,1,0,2469.19,Net Banking,Mobile,6,Delivered,4.0
+ORD100702,2025-09-16 19:09,CUST0083,18.0,Male,Lucknow,Uttar Pradesh,Electronics,Wireless Earbuds,3256.88,1,30,2279.82,Debit Card,Mobile,8,Delivered,3.0
+ORD100703,2025-09-16 23:54,CUST0599,33.0,Male,Mumbai,Maharashtra,Books,Comic,273.85,2,5,520.32,UPI,Mobile,2,Delivered,4.0
+ORD100704,2025-09-17 02:45,CUST0114,42.0,Male,Mumbai,Maharashtra,Beauty,Hair Oil,291.18,5,5,1383.11,Debit Card,Desktop,5,Delivered,4.0
+ORD100705,2025-09-19 02:57,CUST0206,30.0,Male,Delhi,Delhi,Electronics,Wireless Earbuds,3282.36,2,20,5251.78,Wallet,Mobile,6,Delivered,5.0
+ORD100706,2025-09-19 15:57,CUST0182,25.0,Female,Ahmedabad,Gujarat,Books,Textbook,969.67,1,5,921.19,Net Banking,Mobile,7,Cancelled,
+ORD100707,2025-09-19 17:25,CUST0028,18.0,Male,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,3189.69,3,0,9569.07,UPI,Mobile,2,Cancelled,
+ORD100708,2025-09-19 21:06,CUST0051,29.0,Male,Hyderabad,Telangana,Books,Novel,350.39,2,0,700.78,UPI,Desktop,1,Returned,5.0
+ORD100709,2025-09-19 23:34,CUST0057,18.0,Female,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,445.45,2,0,890.9,UPI,Mobile,7,Delivered,4.0
+ORD100710,2025-09-20 14:29,CUST0570,36.0,Female,Jaipur,Rajasthan,Home & Kitchen,Cookware Set,2918.91,1,0,2918.91,UPI,Mobile,7,Returned,4.0
+ORD100711,2025-09-20 18:33,CUST0282,35.0,Male,Mumbai,Maharashtra,Home & Kitchen,Storage Box,565.54,1,0,565.54,Debit Card,Mobile,2,Delivered,4.0
+ORD100712,2025-09-21 05:55,CUST0212,32.0,Female,Mumbai,Maharashtra,Clothing,Sneakers,2610.56,1,0,2610.56,Credit Card,Desktop,2,Delivered,5.0
+ORD100713,2025-09-21 09:21,CUST0014,18.0,Female,Pune,Maharashtra,Beauty,Hair Oil,307.0,2,0,614.0,Debit Card,Mobile,6,Delivered,4.0
+ORD100714,2025-09-21 11:27,CUST0561,33.0,Female,Delhi,Delhi,Clothing,Jeans,1849.72,2,15,3144.52,UPI,Desktop,7,Delivered,5.0
+ORD100715,2025-09-21 15:52,CUST0345,28.0,Female,Bengaluru,Karnataka,Sports,Cricket Bat,2643.13,1,0,2643.13,Net Banking,Mobile,6,Delivered,4.0
+ORD100716,2025-09-21 17:50,CUST0076,18.0,Female,Kolkata,West Bengal,Sports,Cricket Bat,2206.88,3,0,6620.64,Credit Card,Desktop,2,Returned,4.0
+ORD100717,2025-09-22 00:18,CUST0401,20.0,Male,Hyderabad,Telangana,Beauty,Lipstick,425.15,2,10,765.27,Debit Card,Mobile,6,Delivered,4.0
+ORD100718,2025-09-22 01:07,CUST0384,48.0,Male,Chennai,Tamil Nadu,Clothing,Hoodie,1709.58,1,20,1367.66,UPI,Mobile,5,Delivered,5.0
+ORD100719,2025-09-22 21:16,CUST0363,50.0,Female,Pune,Maharashtra,Electronics,Smartphone Case,466.33,2,5,886.03,Credit Card,Desktop,2,Returned,4.0
+ORD100720,2025-09-23 08:28,CUST0315,24.0,Female,Chennai,Tamil Nadu,Clothing,Kurta,1337.24,2,0,2674.48,UPI,Mobile,6,Cancelled,
+ORD100721,2025-09-23 15:04,CUST0149,33.0,Male,Durg,Chhattisgarh,Home & Kitchen,Cookware Set,3178.39,1,0,3178.39,UPI,Mobile,4,Delivered,4.0
+ORD100722,2025-09-24 00:22,CUST0499,37.0,Male,Lucknow,Uttar Pradesh,Books,Comic,242.11,1,0,242.11,Debit Card,Mobile,5,Delivered,3.0
+ORD100723,2025-09-24 08:02,CUST0050,53.0,Male,Raipur,Chhattisgarh,Electronics,Smart Watch,5717.63,1,10,5145.87,Wallet,Mobile,5,Delivered,5.0
+ORD100724,2025-09-24 13:23,CUST0091,23.0,Male,Jaipur,Rajasthan,Clothing,Sneakers,2568.35,2,30,3595.69,UPI,Mobile,8,Delivered,5.0
+ORD100725,2025-09-24 15:28,CUST0587,31.0,Female,Kolkata,West Bengal,Electronics,Smart Watch,5362.5,1,10,4826.25,UPI,Desktop,1,Delivered,4.0
+ORD100726,2025-09-26 03:16,CUST0495,23.0,Male,Delhi,Delhi,Home & Kitchen,Mixer Grinder,3368.04,1,20,2694.43,UPI,Desktop,8,Cancelled,
+ORD100727,2025-09-26 05:39,CUST0020,29.0,Female,Chennai,Tamil Nadu,Home & Kitchen,Storage Box,505.88,1,10,455.29,Debit Card,Tablet,3,Delivered,5.0
+ORD100728,2025-09-26 13:11,CUST0524,38.0,Female,Pune,Maharashtra,Sports,Dumbbell Set,2227.6,1,0,2227.6,Debit Card,Mobile,8,Delivered,5.0
+ORD100729,2025-09-26 15:28,CUST0420,28.0,Male,Mumbai,Maharashtra,Home & Kitchen,Storage Box,514.38,1,20,411.5,UPI,Mobile,2,Delivered,2.0
+ORD100730,2025-09-26 20:46,CUST0268,35.0,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,419.83,2,0,839.66,Debit Card,Mobile,2,Delivered,4.0
+ORD100731,2025-09-26 23:24,CUST0251,26.0,Female,Delhi,Delhi,Home & Kitchen,Bedsheet,912.14,2,10,1641.85,UPI,Mobile,5,Delivered,2.0
+ORD100732,2025-09-26 23:38,CUST0274,25.0,Female,Raipur,Chhattisgarh,Books,Comic,245.38,3,10,662.53,Credit Card,Mobile,1,Delivered,5.0
+ORD100733,2025-09-27 04:25,CUST0208,25.0,Female,Delhi,Delhi,Electronics,Smart Watch,5175.14,2,10,9315.25,Credit Card,Mobile,5,Delivered,4.0
+ORD100734,2025-09-27 10:51,CUST0085,46.0,Female,Delhi,Delhi,Clothing,Jacket,3220.12,4,10,11592.43,Cash on Delivery,Mobile,1,Delivered,4.0
+ORD100735,2025-09-27 10:54,CUST0570,35.0,Female,Delhi,Delhi,Beauty,Moisturizer,492.18,2,15,836.71,Wallet,Mobile,6,Delivered,5.0
+ORD100736,2025-09-27 11:43,CUST0110,29.0,Male,Kolkata,West Bengal,Home & Kitchen,Cookware Set,2918.81,1,20,2335.05,Cash on Delivery,Mobile,2,Delivered,5.0
+ORD100737,2025-09-27 17:29,CUST0301,21.0,Female,Durg,Chhattisgarh,Clothing,T-Shirt,607.64,1,20,486.11,Credit Card,Mobile,6,Delivered,5.0
+ORD100738,2025-09-27 18:00,CUST0161,,Female,Ahmedabad,Gujarat,Clothing,Jacket,3268.55,1,0,3268.55,UPI,Tablet,8,Delivered,5.0
+ORD100739,2025-09-29 07:58,CUST0321,37.0,Male,Pune,Maharashtra,Sports,Cricket Bat,2131.9,1,10,1918.71,Wallet,Mobile,5,Delivered,4.0
+ORD100740,2025-09-29 20:06,CUST0252,37.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,3346.29,3,0,10038.87,Credit Card,Mobile,6,Delivered,3.0
+ORD100741,2025-09-29 23:50,CUST0092,31.0,Female,Lucknow,Uttar Pradesh,Clothing,T-Shirt,548.8,1,0,548.8,Net Banking,Desktop,4,Delivered,4.0
+ORD100742,2025-09-30 07:05,CUST0383,38.0,Male,Mumbai,Maharashtra,Books,Textbook,1002.27,1,15,851.93,Cash on Delivery,Tablet,1,Delivered,3.0
+ORD100743,2025-09-30 13:26,CUST0223,30.0,Male,Delhi,Delhi,Clothing,T-Shirt,659.6,2,0,1319.2,Wallet,Mobile,1,Delivered,5.0
+ORD100744,2025-09-30 13:52,CUST0076,26.0,Female,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,3306.93,1,10,2976.24,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100745,2025-10-01 05:48,CUST0503,22.0,Female,Bengaluru,Karnataka,Sports,Dumbbell Set,2277.2,1,20,1821.76,Credit Card,Mobile,6,Delivered,4.0
+ORD100746,2025-10-01 07:43,CUST0577,26.0,Male,Hyderabad,Telangana,Sports,Yoga Mat,866.25,1,0,866.25,UPI,Desktop,6,Delivered,3.0
+ORD100747,2025-10-01 12:57,CUST0327,25.0,Female,Kolkata,West Bengal,Beauty,Moisturizer,416.18,2,0,832.36,Debit Card,Mobile,1,Delivered,5.0
+ORD100748,2025-10-02 23:22,CUST0174,29.0,Male,Jaipur,Rajasthan,Home & Kitchen,Water Bottle,446.26,1,0,446.26,Debit Card,Mobile,1,Delivered,2.0
+ORD100749,2025-10-04 11:35,CUST0035,22.0,Female,Pune,Maharashtra,Clothing,Jacket,2735.52,1,10,2461.97,UPI,Mobile,3,Delivered,3.0
+ORD100750,2025-10-04 16:50,CUST0469,28.0,Female,Lucknow,Uttar Pradesh,Clothing,Sneakers,2642.44,1,0,2642.44,Cash on Delivery,Desktop,1,Delivered,1.0
+ORD100751,2025-10-04 20:37,CUST0270,40.0,Male,Hyderabad,Telangana,Home & Kitchen,LED Lamp,637.21,1,20,509.77,Debit Card,Desktop,1,Delivered,4.0
+ORD100752,2025-10-05 08:43,CUST0546,34.0,Male,Lucknow,Uttar Pradesh,Electronics,USB-C Cable,304.31,1,20,243.45,Credit Card,Desktop,2,Delivered,3.0
+ORD100753,2025-10-05 19:35,CUST0228,48.0,Female,Bengaluru,Karnataka,Clothing,Hoodie,1444.32,1,10,1299.89,Debit Card,Mobile,2,Delivered,2.0
+ORD100754,2025-10-06 07:46,CUST0187,26.0,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2286.55,1,30,1600.59,Debit Card,Mobile,7,Delivered,1.0
+ORD100755,2025-10-06 19:58,CUST0215,34.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1672.12,3,0,5016.36,UPI,Desktop,2,Delivered,2.0
+ORD100756,2025-10-06 22:39,CUST0207,27.0,Female,Chennai,Tamil Nadu,Beauty,Hair Oil,337.51,1,10,303.76,Cash on Delivery,Desktop,5,Delivered,5.0
+ORD100757,2025-10-07 05:23,CUST0136,35.0,Male,Kolkata,West Bengal,Sports,Yoga Mat,861.43,1,10,775.29,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100758,2025-10-07 06:41,CUST0473,42.0,Female,Chennai,Tamil Nadu,Sports,Cricket Bat,2256.95,1,0,2256.95,Debit Card,Mobile,8,Delivered,2.0
+ORD100759,2025-10-07 15:48,CUST0584,44.0,Male,Chennai,Tamil Nadu,Electronics,Wireless Earbuds,2724.27,2,15,4631.26,Cash on Delivery,Mobile,2,Delivered,5.0
+ORD100760,2025-10-07 16:38,CUST0241,37.0,Female,Delhi,Delhi,Clothing,Jeans,1936.68,2,20,3098.69,UPI,Mobile,3,Delivered,4.0
+ORD100761,2025-10-08 06:18,CUST0003,30.0,Male,Pune,Maharashtra,Home & Kitchen,Storage Box,605.87,5,5,2877.88,UPI,Mobile,7,Delivered,5.0
+ORD100762,2025-10-08 13:21,CUST0116,40.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1354.91,5,0,6774.55,Wallet,Mobile,5,Delivered,3.0
+ORD100763,2025-10-09 03:25,CUST0067,45.0,Female,Mumbai,Maharashtra,Home & Kitchen,Storage Box,609.45,2,0,1218.9,Debit Card,Tablet,5,Delivered,1.0
+ORD100764,2025-10-09 03:44,CUST0232,40.0,Male,Bengaluru,Karnataka,Books,Comic,245.93,1,0,245.93,UPI,Mobile,3,Delivered,3.0
+ORD100765,2025-10-09 14:47,CUST0433,21.0,Male,Bengaluru,Karnataka,Clothing,T-Shirt,569.45,2,0,1138.9,UPI,Desktop,1,Delivered,4.0
+ORD100766,2025-10-09 18:49,CUST0318,37.0,Male,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2833.4,1,0,2833.4,UPI,Tablet,6,Delivered,3.0
+ORD100767,2025-10-09 19:40,CUST0078,19.0,Male,Kolkata,West Bengal,Electronics,Wireless Earbuds,2820.51,4,20,9025.63,Wallet,Desktop,3,Delivered,5.0
+ORD100768,2025-10-10 11:51,CUST0064,18.0,Female,Hyderabad,Telangana,Home & Kitchen,Storage Box,567.7,1,0,567.7,Credit Card,Tablet,3,Delivered,5.0
+ORD100769,2025-10-10 15:03,CUST0001,30.0,Female,Ahmedabad,Gujarat,Beauty,Perfume,1393.27,1,5,1323.61,Wallet,Desktop,1,Delivered,1.0
+ORD100770,2025-10-11 12:29,CUST0100,26.0,Female,Bengaluru,Karnataka,Books,Self-Help Book,469.38,1,30,328.57,Net Banking,Mobile,2,Shipped,
+ORD100771,2025-10-11 18:03,CUST0102,22.0,Male,Pune,Maharashtra,Books,Textbook,934.29,2,0,1868.58,Wallet,Mobile,5,Delivered,4.0
+ORD100772,2025-10-11 23:10,CUST0325,18.0,Female,Kolkata,West Bengal,Beauty,Lipstick,375.31,3,5,1069.63,UPI,Tablet,6,Delivered,3.0
+ORD100773,2025-10-12 02:38,CUST0140,27.0,Female,Durg,Chhattisgarh,Electronics,Power Bank,1638.04,5,30,5733.14,Cash on Delivery,Mobile,3,Delivered,3.0
+ORD100774,2025-10-12 05:51,CUST0079,18.0,Male,Hyderabad,Telangana,Clothing,Hoodie,1671.64,1,0,1671.64,UPI,Mobile,5,Cancelled,
+ORD100775,2025-10-12 08:00,CUST0077,31.0,Male,Lucknow,Uttar Pradesh,Electronics,Wireless Earbuds,2925.55,1,0,2925.55,Credit Card,Desktop,3,Delivered,4.0
+ORD100776,2025-10-12 12:13,CUST0411,29.0,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2674.77,2,5,5082.06,Net Banking,Mobile,3,Delivered,5.0
+ORD100777,2025-10-12 19:26,CUST0251,49.0,Female,Mumbai,Maharashtra,Electronics,Power Bank,1527.52,2,20,2444.03,Cash on Delivery,Mobile,8,Delivered,4.0
+ORD100778,2025-10-12 19:59,CUST0503,36.0,Female,Mumbai,Maharashtra,Electronics,Smart Watch,4967.87,2,10,8942.17,UPI,Mobile,8,Shipped,
+ORD100779,2025-10-12 23:11,CUST0533,31.0,Female,Mumbai,Maharashtra,Clothing,Sneakers,2386.51,1,10,2147.86,Debit Card,Mobile,3,Delivered,3.0
+ORD100780,2025-10-13 04:08,CUST0408,24.0,Male,Delhi,Delhi,Electronics,Wireless Earbuds,3133.82,1,0,3133.82,UPI,Desktop,1,Delivered,5.0
+ORD100781,2025-10-13 06:31,CUST0410,43.0,Female,Raipur,Chhattisgarh,Electronics,Power Bank,1652.3,2,10,2974.14,Credit Card,Mobile,8,Delivered,4.0
+ORD100782,2025-10-13 15:47,CUST0023,32.0,Male,Chennai,Tamil Nadu,Clothing,Jeans,1806.81,1,0,1806.81,Debit Card,Desktop,6,Delivered,4.0
+ORD100783,2025-10-13 16:45,CUST0398,46.0,Female,Pune,Maharashtra,Beauty,Hair Oil,324.38,2,15,551.45,Cash on Delivery,Mobile,6,Delivered,2.0
+ORD100784,2025-10-14 02:56,CUST0217,45.0,Male,Bengaluru,Karnataka,Beauty,Moisturizer,496.24,1,0,496.24,UPI,Desktop,1,Delivered,3.0
+ORD100785,2025-10-14 04:32,CUST0234,40.0,Female,Lucknow,Uttar Pradesh,Electronics,USB-C Cable,338.67,1,15,287.87,UPI,Desktop,2,Cancelled,
+ORD100786,2025-10-14 05:02,CUST0475,34.0,Male,Mumbai,Maharashtra,Clothing,Hoodie,1662.67,4,30,4655.48,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100787,2025-10-14 10:31,CUST0512,36.0,Other,Mumbai,Maharashtra,Beauty,Moisturizer,443.85,2,0,887.7,Debit Card,Desktop,7,Delivered,4.0
+ORD100788,2025-10-14 17:41,CUST0111,32.0,Female,Ahmedabad,Gujarat,Sports,Dumbbell Set,1891.62,1,20,1513.3,UPI,Mobile,3,Delivered,2.0
+ORD100789,2025-10-14 20:58,CUST0444,38.0,Female,Delhi,Delhi,Home & Kitchen,Bedsheet,1044.73,1,30,731.31,Debit Card,Mobile,4,Delivered,4.0
+ORD100790,2025-10-14 21:55,CUST0150,45.0,Male,Chennai,Tamil Nadu,Beauty,Face Wash,225.75,1,5,214.46,Credit Card,Tablet,6,Shipped,
+ORD100791,2025-10-15 05:07,CUST0485,23.0,Male,Delhi,Delhi,Clothing,Jacket,2867.02,1,10,2580.32,Cash on Delivery,Mobile,1,Delivered,3.0
+ORD100792,2025-10-15 05:27,CUST0023,22.0,Female,Kolkata,West Bengal,Home & Kitchen,Storage Box,520.0,1,30,364.0,Wallet,Mobile,3,Cancelled,
+ORD100793,2025-10-15 09:54,CUST0235,25.0,Female,Bengaluru,Karnataka,Sports,Yoga Mat,827.91,3,10,2235.36,Cash on Delivery,Mobile,5,Returned,3.0
+ORD100794,2025-10-15 23:41,CUST0468,18.0,Male,Durg,Chhattisgarh,Clothing,Sneakers,2670.27,2,15,4539.46,Cash on Delivery,Mobile,6,Delivered,3.0
+ORD100795,2025-10-17 07:37,CUST0593,22.0,Male,Delhi,Delhi,Clothing,T-Shirt,542.03,1,0,542.03,Credit Card,Mobile,4,Delivered,5.0
+ORD100796,2025-10-17 08:30,CUST0427,36.0,Female,Bengaluru,Karnataka,Home & Kitchen,LED Lamp,771.87,1,15,656.09,Net Banking,Mobile,2,Delivered,4.0
+ORD100797,2025-10-17 14:54,CUST0389,25.0,Female,Jaipur,Rajasthan,Home & Kitchen,LED Lamp,638.57,1,5,606.64,Debit Card,Mobile,2,Delivered,5.0
+ORD100798,2025-10-18 03:26,CUST0409,27.0,Female,Chennai,Tamil Nadu,Beauty,Moisturizer,476.75,2,0,953.5,Credit Card,Mobile,5,Delivered,2.0
+ORD100799,2025-10-18 05:12,CUST0436,21.0,Female,Delhi,Delhi,Electronics,Power Bank,1419.48,1,5,1348.51,Credit Card,Mobile,3,Delivered,4.0
+ORD100800,2025-10-18 06:09,CUST0318,39.0,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,3581.55,1,0,3581.55,Credit Card,Tablet,8,Delivered,5.0
+ORD100801,2025-10-18 10:09,CUST0327,30.0,Female,Mumbai,Maharashtra,Home & Kitchen,Storage Box,610.47,1,0,610.47,UPI,Mobile,5,Delivered,4.0
+ORD100802,2025-10-18 20:07,CUST0328,32.0,Female,Lucknow,Uttar Pradesh,Home & Kitchen,LED Lamp,698.31,1,10,628.48,Credit Card,Mobile,6,Delivered,1.0
+ORD100803,2025-10-18 20:20,CUST0154,41.0,Male,Ahmedabad,Gujarat,Clothing,Sneakers,2607.25,1,15,2216.16,UPI,Desktop,2,Delivered,2.0
+ORD100804,2025-10-19 17:23,CUST0170,32.0,Male,Kolkata,West Bengal,Electronics,USB-C Cable,317.37,2,0,634.74,Credit Card,Tablet,8,Delivered,2.0
+ORD100805,2025-10-20 06:06,CUST0541,39.0,Male,Kolkata,West Bengal,Clothing,Sneakers,2464.11,3,10,6653.1,Debit Card,Desktop,5,Delivered,4.0
+ORD100806,2025-10-20 07:44,CUST0057,28.0,Male,Chennai,Tamil Nadu,Home & Kitchen,LED Lamp,632.12,1,15,537.3,UPI,Mobile,4,Delivered,3.0
+ORD100807,2025-10-20 08:26,CUST0572,24.0,Female,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1086.27,4,0,4345.08,Debit Card,Mobile,6,Cancelled,
+ORD100808,2025-10-20 12:58,CUST0131,33.0,Female,Delhi,Delhi,Beauty,Perfume,1281.02,1,15,1088.87,Net Banking,Mobile,7,Delivered,5.0
+ORD100809,2025-10-20 17:44,CUST0464,27.0,Male,Bengaluru,Karnataka,Electronics,USB-C Cable,332.1,1,10,298.89,Net Banking,Mobile,2,Delivered,4.0
+ORD100810,2025-10-21 03:10,CUST0137,35.0,Female,Ahmedabad,Gujarat,Sports,Football,641.87,1,20,513.5,Credit Card,Mobile,7,Delivered,4.0
+ORD100811,2025-10-21 12:07,CUST0195,36.0,Female,Hyderabad,Telangana,Books,Comic,260.56,4,10,938.02,Credit Card,Mobile,6,Delivered,5.0
+ORD100812,2025-10-21 14:12,CUST0078,30.0,Female,Hyderabad,Telangana,Beauty,Face Wash,255.8,1,5,243.01,UPI,Desktop,8,Delivered,4.0
+ORD100813,2025-10-21 14:28,CUST0258,18.0,Female,Hyderabad,Telangana,Home & Kitchen,Storage Box,556.55,3,0,1669.65,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100814,2025-10-21 17:44,CUST0112,30.0,Female,Raipur,Chhattisgarh,Electronics,Power Bank,1699.15,1,30,1189.4,UPI,Mobile,8,Delivered,3.0
+ORD100815,2025-10-21 18:54,CUST0576,19.0,Male,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1020.52,2,5,1938.99,UPI,Desktop,5,Delivered,4.0
+ORD100816,2025-10-22 18:33,CUST0050,37.0,Male,Kolkata,West Bengal,Electronics,Bluetooth Speaker,2867.56,1,10,2580.8,Debit Card,Desktop,8,Delivered,5.0
+ORD100817,2025-10-23 00:16,CUST0587,28.0,Male,Durg,Chhattisgarh,Beauty,Perfume,1273.42,2,5,2419.5,Cash on Delivery,Mobile,5,Delivered,3.0
+ORD100818,2025-10-23 01:08,CUST0332,29.0,Male,Hyderabad,Telangana,Clothing,Hoodie,1633.66,2,5,3103.95,Debit Card,Mobile,8,Delivered,5.0
+ORD100819,2025-10-23 03:52,CUST0108,42.0,Female,Bengaluru,Karnataka,Electronics,Wireless Earbuds,2846.0,1,15,2419.1,Cash on Delivery,Mobile,4,Delivered,5.0
+ORD100820,2025-10-24 20:45,CUST0416,18.0,Other,Pune,Maharashtra,Clothing,Hoodie,1654.23,3,20,3970.15,Cash on Delivery,Mobile,7,Delivered,5.0
+ORD100821,2025-10-25 02:49,CUST0135,34.0,Male,Kolkata,West Bengal,Electronics,Smart Watch,4638.02,2,5,8812.24,UPI,Mobile,6,Returned,5.0
+ORD100822,2025-10-26 01:08,CUST0275,34.0,Female,Pune,Maharashtra,Home & Kitchen,Cookware Set,2904.18,5,10,13068.81,UPI,Mobile,4,Returned,4.0
+ORD100823,2025-10-26 05:55,CUST0011,46.0,Female,Mumbai,Maharashtra,Beauty,Face Wash,234.9,2,0,469.8,Debit Card,Desktop,1,Delivered,5.0
+ORD100824,2025-10-27 05:26,CUST0521,35.0,Male,Delhi,Delhi,Home & Kitchen,Storage Box,591.46,1,30,414.02,Net Banking,Desktop,4,Delivered,4.0
+ORD100825,2025-10-27 07:01,CUST0492,26.0,Male,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,2571.78,2,5,4886.38,Debit Card,Mobile,7,Delivered,3.0
+ORD100826,2025-10-27 21:52,CUST0232,18.0,Female,Jaipur,Rajasthan,Clothing,Kurta,1326.6,3,30,2785.86,UPI,Mobile,2,Delivered,5.0
+ORD100827,2025-10-28 07:23,CUST0481,19.0,Female,Hyderabad,Telangana,Clothing,Kurta,1179.94,2,0,2359.88,Credit Card,Desktop,2,Delivered,3.0
+ORD100828,2025-10-29 00:03,CUST0042,28.0,Male,Lucknow,Uttar Pradesh,Clothing,Hoodie,1446.3,2,0,2892.6,Net Banking,Desktop,2,Returned,5.0
+ORD100829,2025-10-29 06:29,CUST0582,20.0,Male,Bengaluru,Karnataka,Home & Kitchen,Storage Box,570.84,1,0,570.84,UPI,Mobile,2,Cancelled,
+ORD100830,2025-10-29 11:21,CUST0397,18.0,Male,Delhi,Delhi,Home & Kitchen,Mixer Grinder,3403.62,2,0,6807.24,Debit Card,Mobile,4,Cancelled,
+ORD100831,2025-10-29 12:14,CUST0447,25.0,Male,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,2414.66,2,5,4587.85,Debit Card,Desktop,3,Delivered,3.0
+ORD100832,2025-10-29 14:19,CUST0051,43.0,Female,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,489.45,1,0,489.45,UPI,Desktop,1,Delivered,4.0
+ORD100833,2025-10-30 02:02,CUST0382,34.0,Female,Jaipur,Rajasthan,Beauty,Perfume,1430.62,1,0,1430.62,Credit Card,Mobile,2,Delivered,2.0
+ORD100834,2025-10-30 07:11,CUST0321,31.0,Male,Pune,Maharashtra,Beauty,Hair Oil,289.5,3,10,781.65,UPI,Mobile,4,Delivered,4.0
+ORD100835,2025-10-30 17:47,CUST0020,30.0,Other,Hyderabad,Telangana,Clothing,Jeans,1931.68,1,30,1352.18,Credit Card,Mobile,7,Delivered,5.0
+ORD100836,2025-10-30 20:57,CUST0532,29.0,Female,Raipur,Chhattisgarh,Clothing,Hoodie,1388.75,2,20,2222.0,UPI,Mobile,2,Returned,5.0
+ORD100837,2025-10-31 07:30,CUST0146,34.0,Male,Lucknow,Uttar Pradesh,Clothing,T-Shirt,608.56,3,10,1643.11,UPI,Mobile,6,Delivered,5.0
+ORD100838,2025-10-31 08:32,CUST0158,49.0,Female,Mumbai,Maharashtra,Clothing,Hoodie,1373.91,1,10,1236.52,Debit Card,Desktop,6,Delivered,5.0
+ORD100839,2025-10-31 18:35,CUST0257,41.0,Male,Chennai,Tamil Nadu,Sports,Football,769.39,2,0,1538.78,UPI,Mobile,5,Delivered,5.0
+ORD100840,2025-10-31 22:15,CUST0540,28.0,Female,Pune,Maharashtra,Sports,Football,674.16,1,15,573.04,UPI,Desktop,1,Delivered,4.0
+ORD100841,2025-10-31 22:46,CUST0558,26.0,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Cookware Set,2837.22,1,30,1986.05,UPI,Mobile,8,Shipped,
+ORD100842,2025-11-01 05:05,CUST0218,42.0,Male,Jaipur,Rajasthan,Clothing,Jacket,3391.12,2,30,4747.57,Wallet,Desktop,8,Delivered,4.0
+ORD100843,2025-11-01 07:11,CUST0080,36.0,Male,Hyderabad,Telangana,Home & Kitchen,LED Lamp,794.1,1,10,714.69,Debit Card,Mobile,6,Delivered,5.0
+ORD100844,2025-11-02 11:12,CUST0221,21.0,Male,Bengaluru,Karnataka,Electronics,Power Bank,1565.8,1,0,1565.8,Wallet,Mobile,6,Delivered,3.0
+ORD100845,2025-11-02 13:16,CUST0366,29.0,Female,Ahmedabad,Gujarat,Sports,Cricket Bat,2391.49,2,0,4782.98,Net Banking,Desktop,5,Returned,4.0
+ORD100846,2025-11-02 20:42,CUST0023,20.0,Female,Durg,Chhattisgarh,Books,Novel,379.94,5,0,1899.7,Debit Card,Mobile,8,Delivered,4.0
+ORD100847,2025-11-03 12:11,CUST0343,27.0,Female,Pune,Maharashtra,Sports,Yoga Mat,799.7,1,0,799.7,UPI,Desktop,5,Delivered,5.0
+ORD100848,2025-11-03 15:24,CUST0514,19.0,Female,Delhi,Delhi,Books,Novel,396.96,1,5,377.11,Credit Card,Mobile,5,Shipped,
+ORD100849,2025-11-03 21:21,CUST0509,32.0,Male,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,981.1,5,15,4169.68,UPI,Mobile,6,Delivered,5.0
+ORD100850,2025-11-03 21:54,CUST0394,27.0,Male,Pune,Maharashtra,Clothing,T-Shirt,601.82,3,0,1805.46,Credit Card,Mobile,8,Delivered,3.0
+ORD100851,2025-11-04 05:13,CUST0134,51.0,Female,Hyderabad,Telangana,Clothing,Hoodie,1685.82,1,5,1601.53,UPI,Tablet,4,Delivered,5.0
+ORD100852,2025-11-04 21:42,CUST0383,24.0,Other,Kolkata,West Bengal,Electronics,Smartphone Case,477.53,1,15,405.9,Cash on Delivery,Mobile,6,Delivered,3.0
+ORD100853,2025-11-05 10:35,CUST0354,35.0,Female,Bengaluru,Karnataka,Books,Self-Help Book,431.7,2,10,777.06,UPI,Mobile,6,Delivered,5.0
+ORD100854,2025-11-05 15:49,CUST0473,53.0,Male,Delhi,Delhi,Electronics,USB-C Cable,314.89,2,20,503.82,Credit Card,Mobile,4,Delivered,4.0
+ORD100855,2025-11-05 20:04,CUST0392,25.0,Female,Hyderabad,Telangana,Clothing,Jeans,1693.68,1,5,1609.0,UPI,Tablet,4,Delivered,5.0
+ORD100856,2025-11-05 21:54,CUST0142,28.0,Female,Delhi,Delhi,Clothing,Jeans,1657.18,1,15,1408.6,Cash on Delivery,Desktop,8,Delivered,3.0
+ORD100857,2025-11-06 03:32,CUST0103,18.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,582.89,1,15,495.46,UPI,Desktop,6,Delivered,5.0
+ORD100858,2025-11-06 17:23,CUST0128,25.0,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3262.1,1,0,3262.1,UPI,Desktop,8,Cancelled,
+ORD100859,2025-11-07 00:49,CUST0559,35.0,Female,Ahmedabad,Gujarat,Clothing,Sneakers,2616.7,3,0,7850.1,Cash on Delivery,Tablet,8,Delivered,5.0
+ORD100860,2025-11-07 04:03,CUST0291,47.0,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,482.82,1,30,337.97,Credit Card,Desktop,5,Delivered,1.0
+ORD100861,2025-11-07 10:40,CUST0133,18.0,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,449.91,1,0,449.91,UPI,Mobile,2,Delivered,4.0
+ORD100862,2025-11-07 15:54,CUST0588,18.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,265.7,1,0,265.7,Debit Card,Desktop,6,Delivered,4.0
+ORD100863,2025-11-07 15:54,CUST0048,18.0,Female,Bengaluru,Karnataka,Clothing,Hoodie,1383.41,1,20,1106.73,UPI,Mobile,2,Delivered,5.0
+ORD100864,2025-11-08 11:48,CUST0334,45.0,Female,Pune,Maharashtra,Electronics,Wireless Earbuds,3237.11,1,10,2913.4,Debit Card,Mobile,1,Delivered,5.0
+ORD100865,2025-11-08 18:42,CUST0444,22.0,Male,Chennai,Tamil Nadu,Beauty,Hair Oil,328.35,1,0,328.35,Credit Card,Mobile,8,Delivered,5.0
+ORD100866,2025-11-08 20:04,CUST0523,50.0,Male,Hyderabad,Telangana,Clothing,Kurta,1247.07,2,0,2494.14,Credit Card,Desktop,3,Delivered,3.0
+ORD100867,2025-11-09 02:30,CUST0173,34.0,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3268.65,1,10,2941.79,Wallet,Mobile,3,Delivered,3.0
+ORD100868,2025-11-09 07:40,CUST0281,24.0,Female,Bengaluru,Karnataka,Clothing,T-Shirt,558.06,1,5,530.16,UPI,Tablet,5,Delivered,4.0
+ORD100869,2025-11-09 15:56,CUST0261,25.0,Female,Delhi,Delhi,Sports,Football,774.99,1,5,736.24,Cash on Delivery,Desktop,3,Delivered,4.0
+ORD100870,2025-11-10 00:19,CUST0591,33.0,Male,Raipur,Chhattisgarh,Home & Kitchen,Water Bottle,511.77,5,20,2047.08,Credit Card,Mobile,8,Delivered,3.0
+ORD100871,2025-11-10 06:37,CUST0106,35.0,Male,Mumbai,Maharashtra,Home & Kitchen,Bedsheet,954.63,1,0,954.63,Credit Card,Desktop,6,Delivered,3.0
+ORD100872,2025-11-10 09:19,CUST0382,29.0,Male,Lucknow,Uttar Pradesh,Clothing,T-Shirt,545.72,2,20,873.15,UPI,Mobile,4,Delivered,5.0
+ORD100873,2025-11-11 03:53,CUST0305,34.0,Female,Bengaluru,Karnataka,Clothing,Kurta,1368.11,1,0,1368.11,UPI,Mobile,3,Delivered,5.0
+ORD100874,2025-11-12 03:45,CUST0289,42.0,Male,Hyderabad,Telangana,Electronics,USB-C Cable,272.12,1,0,272.12,Cash on Delivery,Mobile,8,Delivered,4.0
+ORD100875,2025-11-12 11:23,CUST0184,43.0,Male,Durg,Chhattisgarh,Sports,Yoga Mat,903.53,2,0,1807.06,UPI,Tablet,7,Delivered,5.0
+ORD100876,2025-11-13 15:13,CUST0279,29.0,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,2924.6,3,10,7896.42,UPI,Mobile,4,Delivered,3.0
+ORD100877,2025-11-13 17:23,CUST0101,28.0,Female,Pune,Maharashtra,Beauty,Hair Oil,294.28,1,5,279.57,Debit Card,Mobile,3,Delivered,5.0
+ORD100878,2025-11-15 12:46,CUST0341,32.0,Male,Kolkata,West Bengal,Beauty,Lipstick,375.58,2,0,751.16,UPI,Mobile,3,Delivered,5.0
+ORD100879,2025-11-16 05:09,CUST0334,51.0,Male,Chennai,Tamil Nadu,Books,Novel,380.58,4,15,1293.97,Debit Card,Mobile,7,Delivered,5.0
+ORD100880,2025-11-16 09:02,CUST0294,26.0,Female,Ahmedabad,Gujarat,Beauty,Face Wash,233.99,3,0,701.97,Credit Card,Mobile,6,Delivered,1.0
+ORD100881,2025-11-17 10:42,CUST0454,29.0,Female,Delhi,Delhi,Electronics,Smartphone Case,489.18,3,0,1467.54,UPI,Desktop,4,Delivered,3.0
+ORD100882,2025-11-17 21:47,CUST0350,26.0,Male,Pune,Maharashtra,Books,Textbook,891.65,5,0,4458.25,Credit Card,Mobile,1,Delivered,3.0
+ORD100883,2025-11-18 19:06,CUST0174,34.0,Male,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,486.53,3,5,1386.61,UPI,Mobile,3,Delivered,5.0
+ORD100884,2025-11-19 17:06,CUST0229,23.0,Male,Ahmedabad,Gujarat,Electronics,Wireless Earbuds,3341.74,1,15,2840.48,Credit Card,Tablet,1,Delivered,4.0
+ORD100885,2025-11-20 11:57,CUST0140,24.0,Male,Mumbai,Maharashtra,Books,Self-Help Book,416.71,2,0,833.42,Wallet,Mobile,4,Delivered,5.0
+ORD100886,2025-11-21 01:54,CUST0296,29.0,Male,Ahmedabad,Gujarat,Home & Kitchen,Bedsheet,1016.54,1,10,914.89,Wallet,Mobile,1,Delivered,4.0
+ORD100887,2025-11-21 12:39,CUST0160,35.0,Female,Delhi,Delhi,Electronics,USB-C Cable,342.81,1,5,325.67,UPI,Desktop,1,Delivered,4.0
+ORD100888,2025-11-22 03:20,CUST0478,18.0,Male,Chennai,Tamil Nadu,Electronics,Smart Watch,5462.58,2,10,9832.64,Credit Card,Mobile,6,Delivered,2.0
+ORD100889,2025-11-22 11:05,CUST0485,34.0,Male,Ahmedabad,Gujarat,Beauty,Hair Oil,272.81,3,5,777.51,UPI,Mobile,4,Delivered,5.0
+ORD100890,2025-11-22 13:08,CUST0166,18.0,Female,Hyderabad,Telangana,Books,Novel,324.76,2,15,552.09,Credit Card,Mobile,6,Delivered,5.0
+ORD100891,2025-11-22 23:44,CUST0093,18.0,Male,Hyderabad,Telangana,Electronics,Power Bank,1519.98,1,15,1291.98,Net Banking,Desktop,7,Delivered,5.0
+ORD100892,2025-11-23 02:35,CUST0523,18.0,Other,Hyderabad,Telangana,Clothing,T-Shirt,638.59,1,10,574.73,Cash on Delivery,Mobile,4,Delivered,4.0
+ORD100893,2025-11-23 03:28,CUST0126,32.0,Male,Pune,Maharashtra,Electronics,Smart Watch,4794.91,1,20,3835.93,Debit Card,Mobile,2,Delivered,3.0
+ORD100894,2025-11-24 02:22,CUST0479,31.0,Male,Mumbai,Maharashtra,Electronics,USB-C Cable,343.37,1,0,343.37,Credit Card,Mobile,1,Delivered,4.0
+ORD100895,2025-11-24 10:00,CUST0515,41.0,Female,Bengaluru,Karnataka,Beauty,Face Wash,245.08,1,0,245.08,Debit Card,Desktop,2,Delivered,5.0
+ORD100896,2025-11-24 19:14,CUST0465,21.0,Female,Pune,Maharashtra,Electronics,Smartphone Case,489.04,5,10,2200.68,Cash on Delivery,Desktop,2,Delivered,3.0
+ORD100897,2025-11-24 21:41,CUST0583,25.0,Male,Kolkata,West Bengal,Sports,Dumbbell Set,1837.34,2,5,3490.95,UPI,Desktop,5,Delivered,3.0
+ORD100898,2025-11-25 17:26,CUST0399,19.0,Female,Kolkata,West Bengal,Home & Kitchen,Bedsheet,1039.71,2,0,2079.42,Credit Card,Mobile,2,Delivered,5.0
+ORD100899,2025-11-26 10:47,CUST0433,33.0,Male,Hyderabad,Telangana,Clothing,Jeans,1934.87,2,20,3095.79,Cash on Delivery,Mobile,5,Delivered,4.0
+ORD100900,2025-11-26 11:14,CUST0519,40.0,Female,Hyderabad,Telangana,Clothing,Jeans,1847.14,4,5,7019.13,UPI,Mobile,8,Delivered,5.0
+ORD100901,2025-11-27 12:27,CUST0394,38.0,Female,Delhi,Delhi,Home & Kitchen,Bedsheet,1085.48,1,0,1085.48,Cash on Delivery,Desktop,8,Delivered,5.0
+ORD100902,2025-11-27 12:29,CUST0211,36.0,Female,Hyderabad,Telangana,Beauty,Moisturizer,460.59,1,0,460.59,UPI,Mobile,4,Delivered,2.0
+ORD100903,2025-11-28 15:10,CUST0506,24.0,Female,Chennai,Tamil Nadu,Clothing,Sneakers,2442.53,3,15,6228.45,Debit Card,Mobile,4,Shipped,
+ORD100904,2025-11-28 22:39,CUST0171,18.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,3218.28,1,15,2735.54,Net Banking,Desktop,8,Returned,4.0
+ORD100905,2025-11-29 09:11,CUST0217,36.0,Male,Lucknow,Uttar Pradesh,Books,Comic,261.21,2,5,496.3,UPI,Mobile,5,Delivered,4.0
+ORD100906,2025-11-30 12:09,CUST0181,35.0,Female,Kolkata,West Bengal,Books,Comic,263.86,1,10,237.47,Credit Card,Mobile,3,Delivered,5.0
+ORD100907,2025-12-01 01:44,CUST0089,31.0,Female,Raipur,Chhattisgarh,Electronics,USB-C Cable,274.2,4,10,987.12,UPI,Mobile,4,Delivered,3.0
+ORD100908,2025-12-01 08:15,CUST0574,27.0,Female,Jaipur,Rajasthan,Electronics,Smartphone Case,492.2,1,5,467.59,UPI,Mobile,5,Delivered,4.0
+ORD100909,2025-12-01 11:12,CUST0464,41.0,Female,Kolkata,West Bengal,Clothing,T-Shirt,646.35,1,10,581.72,UPI,Mobile,4,Delivered,5.0
+ORD100910,2025-12-01 22:37,CUST0062,22.0,Female,Pune,Maharashtra,Beauty,Moisturizer,482.98,1,15,410.53,Wallet,Mobile,5,Delivered,4.0
+ORD100911,2025-12-02 05:33,CUST0599,38.0,Male,Delhi,Delhi,Sports,Yoga Mat,863.79,1,10,777.41,Cash on Delivery,Mobile,1,Delivered,4.0
+ORD100912,2025-12-02 09:54,CUST0528,39.0,Male,Mumbai,Maharashtra,Clothing,Sneakers,2362.62,1,0,2362.62,Cash on Delivery,Mobile,5,Delivered,3.0
+ORD100913,2025-12-02 20:13,CUST0381,54.0,Female,Kolkata,West Bengal,Sports,Yoga Mat,901.57,1,20,721.26,Credit Card,Mobile,3,Delivered,4.0
+ORD100914,2025-12-02 23:12,CUST0242,18.0,Female,Delhi,Delhi,Electronics,Wireless Earbuds,2974.81,1,20,2379.85,Wallet,Tablet,5,Delivered,3.0
+ORD100915,2025-12-03 03:42,CUST0484,21.0,Female,Raipur,Chhattisgarh,Books,Comic,261.24,1,5,248.18,Debit Card,Mobile,5,Delivered,3.0
+ORD100916,2025-12-03 09:25,CUST0261,37.0,Male,Kolkata,West Bengal,Clothing,Kurta,1181.73,2,0,2363.46,Credit Card,Tablet,5,Delivered,5.0
+ORD100917,2025-12-03 17:20,CUST0478,32.0,Male,Kolkata,West Bengal,Electronics,Smartphone Case,509.79,1,0,509.79,Credit Card,Tablet,5,Delivered,1.0
+ORD100918,2025-12-04 00:38,CUST0018,19.0,Female,Pune,Maharashtra,Clothing,T-Shirt,581.08,1,0,581.08,Cash on Delivery,Desktop,4,Delivered,5.0
+ORD100919,2025-12-04 13:19,CUST0592,22.0,Female,Lucknow,Uttar Pradesh,Clothing,Hoodie,1646.95,3,10,4446.77,Cash on Delivery,Mobile,8,Delivered,5.0
+ORD100920,2025-12-04 13:36,CUST0285,33.0,Female,Raipur,Chhattisgarh,Clothing,Hoodie,1617.51,2,20,2588.02,Net Banking,Tablet,6,Delivered,3.0
+ORD100921,2025-12-04 16:03,CUST0434,29.0,Male,Delhi,Delhi,Clothing,Sneakers,2533.34,1,0,2533.34,Credit Card,Mobile,7,Delivered,4.0
+ORD100922,2025-12-04 22:09,CUST0118,24.0,Female,Kolkata,West Bengal,Clothing,Jacket,3443.0,1,20,2754.4,UPI,Desktop,7,Delivered,2.0
+ORD100923,2025-12-05 03:53,CUST0152,45.0,Female,Chennai,Tamil Nadu,Electronics,Power Bank,1619.15,1,0,1619.15,UPI,Mobile,8,Delivered,5.0
+ORD100924,2025-12-05 06:27,CUST0028,38.0,Male,Chennai,Tamil Nadu,Electronics,Smartphone Case,480.32,1,20,384.26,UPI,Mobile,2,Delivered,4.0
+ORD100925,2025-12-05 12:55,CUST0401,27.0,Male,Bengaluru,Karnataka,Sports,Football,673.98,4,20,2156.74,Cash on Delivery,Mobile,8,Delivered,5.0
+ORD100926,2025-12-05 13:26,CUST0050,19.0,Female,Delhi,Delhi,Clothing,Kurta,1490.92,1,0,1490.92,UPI,Desktop,7,Delivered,5.0
+ORD100927,2025-12-05 15:29,CUST0235,46.0,Male,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,2873.21,1,20,2298.57,UPI,Mobile,5,Delivered,3.0
+ORD100928,2025-12-06 21:37,CUST0083,23.0,Female,Delhi,Delhi,Sports,Cricket Bat,2267.22,1,10,2040.5,Credit Card,Mobile,2,Delivered,5.0
+ORD100929,2025-12-06 22:48,CUST0347,19.0,Male,Mumbai,Maharashtra,Beauty,Lipstick,439.3,1,30,307.51,Credit Card,Desktop,4,Delivered,5.0
+ORD100930,2025-12-07 13:17,CUST0578,32.0,Male,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,2523.28,1,30,1766.3,Cash on Delivery,Desktop,4,Delivered,5.0
+ORD100931,2025-12-07 15:02,CUST0196,26.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,234.58,1,30,164.21,UPI,Mobile,8,Delivered,5.0
+ORD100932,2025-12-08 01:06,CUST0003,29.0,Female,Jaipur,Rajasthan,Clothing,Jacket,2793.74,5,5,13270.26,Debit Card,Mobile,6,Returned,4.0
+ORD100933,2025-12-08 14:49,CUST0369,31.0,Male,Bengaluru,Karnataka,Electronics,Smart Watch,4796.59,1,0,4796.59,Cash on Delivery,Mobile,6,Delivered,4.0
+ORD100934,2025-12-08 15:44,CUST0171,35.0,Male,Kolkata,West Bengal,Clothing,T-Shirt,629.04,1,10,566.14,Credit Card,Desktop,3,Delivered,2.0
+ORD100935,2025-12-08 16:28,CUST0379,33.0,Female,Mumbai,Maharashtra,Electronics,USB-C Cable,297.65,1,15,253.0,Wallet,Desktop,8,Delivered,4.0
+ORD100936,2025-12-08 16:35,CUST0122,34.0,Female,Delhi,Delhi,Home & Kitchen,Cookware Set,3128.78,1,10,2815.9,Cash on Delivery,Desktop,7,Delivered,5.0
+ORD100937,2025-12-08 22:28,CUST0231,30.0,Male,Bengaluru,Karnataka,Beauty,Perfume,1447.53,2,0,2895.06,Credit Card,Mobile,4,Delivered,4.0
+ORD100938,2025-12-09 07:21,CUST0074,29.0,Female,Ahmedabad,Gujarat,Books,Comic,269.11,1,0,269.11,UPI,Desktop,8,Delivered,2.0
+ORD100939,2025-12-09 09:19,CUST0049,28.0,Female,Kolkata,West Bengal,Electronics,Power Bank,1721.61,1,0,1721.61,Wallet,Mobile,4,Delivered,5.0
+ORD100940,2025-12-09 15:32,CUST0004,52.0,Male,Durg,Chhattisgarh,Sports,Dumbbell Set,1989.34,1,0,1989.34,UPI,Mobile,6,Cancelled,
+ORD100941,2025-12-10 05:04,CUST0070,34.0,Male,Bengaluru,Karnataka,Electronics,Smartphone Case,466.11,2,0,932.22,Credit Card,Desktop,5,Delivered,3.0
+ORD100942,2025-12-10 07:36,CUST0291,29.0,Female,Kolkata,West Bengal,Beauty,Lipstick,449.64,2,10,809.35,UPI,Mobile,3,Delivered,4.0
+ORD100943,2025-12-12 07:10,CUST0299,33.0,Female,Lucknow,Uttar Pradesh,Books,Self-Help Book,453.2,1,0,453.2,Cash on Delivery,Mobile,5,Delivered,5.0
+ORD100944,2025-12-12 07:11,CUST0363,24.0,Female,Chennai,Tamil Nadu,Electronics,Smartphone Case,558.36,1,10,502.52,Net Banking,Desktop,2,Cancelled,
+ORD100945,2025-12-12 22:07,CUST0582,43.0,Female,Chennai,Tamil Nadu,Electronics,USB-C Cable,319.47,2,0,638.94,Debit Card,Mobile,6,Returned,5.0
+ORD100946,2025-12-12 23:10,CUST0460,32.0,Male,Mumbai,Maharashtra,Electronics,Power Bank,1634.01,1,0,1634.01,Cash on Delivery,Mobile,6,Cancelled,
+ORD100947,2025-12-13 07:50,CUST0276,34.0,Female,Chennai,Tamil Nadu,Clothing,Kurta,1403.37,1,0,1403.37,UPI,Mobile,2,Delivered,1.0
+ORD100948,2025-12-13 07:59,CUST0516,19.0,Male,Chennai,Tamil Nadu,Beauty,Face Wash,282.84,1,10,254.56,Debit Card,Mobile,8,Delivered,1.0
+ORD100949,2025-12-13 09:49,CUST0463,34.0,Female,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,3445.83,4,10,12404.99,Wallet,Mobile,4,Delivered,4.0
+ORD100950,2025-12-13 10:29,CUST0596,41.0,Female,Hyderabad,Telangana,Electronics,Smartphone Case,505.77,1,20,404.62,UPI,Desktop,3,Delivered,4.0
+ORD100951,2025-12-14 04:27,CUST0113,18.0,Male,Ahmedabad,Gujarat,Clothing,Jeans,1922.55,1,5,1826.42,Credit Card,Mobile,7,Delivered,4.0
+ORD100952,2025-12-14 15:59,CUST0174,36.0,Male,Delhi,Delhi,Clothing,Hoodie,1569.39,1,0,1569.39,UPI,Mobile,6,Delivered,3.0
+ORD100953,2025-12-14 19:23,CUST0310,40.0,Male,Jaipur,Rajasthan,Electronics,USB-C Cable,315.47,2,5,599.39,UPI,Mobile,6,Delivered,5.0
+ORD100954,2025-12-15 03:03,CUST0284,51.0,Female,Kolkata,West Bengal,Electronics,USB-C Cable,306.72,3,5,874.15,Wallet,Mobile,8,Delivered,4.0
+ORD100955,2025-12-15 19:15,CUST0104,26.0,Female,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,4014.7,2,20,6423.52,UPI,Mobile,4,Delivered,4.0
+ORD100956,2025-12-16 20:58,CUST0014,35.0,Male,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,2757.2,1,20,2205.76,Credit Card,Mobile,4,Delivered,5.0
+ORD100957,2025-12-16 23:47,CUST0352,21.0,Male,Chennai,Tamil Nadu,Electronics,Smartphone Case,543.05,2,5,1031.79,UPI,Mobile,8,Delivered,2.0
+ORD100958,2025-12-17 02:05,CUST0527,28.0,Male,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3841.76,2,10,6915.17,Debit Card,Mobile,6,Cancelled,
+ORD100959,2025-12-17 06:54,CUST0469,32.0,Female,Lucknow,Uttar Pradesh,Beauty,Face Wash,283.18,4,10,1019.45,UPI,Mobile,4,Cancelled,
+ORD100960,2025-12-17 09:03,CUST0360,33.0,Female,Kolkata,West Bengal,Clothing,Jeans,1725.15,1,0,1725.15,UPI,Tablet,4,Returned,5.0
+ORD100961,2025-12-17 12:05,CUST0303,27.0,Male,Hyderabad,Telangana,Beauty,Face Wash,225.23,1,10,202.71,Credit Card,Mobile,3,Returned,4.0
+ORD100962,2025-12-17 13:55,CUST0428,32.0,Male,Ahmedabad,Gujarat,Home & Kitchen,LED Lamp,707.66,3,0,2122.98,Credit Card,Desktop,5,Delivered,5.0
+ORD100963,2025-12-17 20:58,CUST0485,21.0,Male,Ahmedabad,Gujarat,Electronics,Wireless Earbuds,2793.2,1,0,2793.2,UPI,Desktop,5,Delivered,3.0
+ORD100964,2025-12-18 01:06,CUST0217,43.0,Female,Kolkata,West Bengal,Electronics,Smartphone Case,523.56,1,10,471.2,UPI,Desktop,4,Delivered,5.0
+ORD100965,2025-12-18 02:13,CUST0393,48.0,Female,Delhi,Delhi,Home & Kitchen,Storage Box,554.15,1,20,443.32,Debit Card,Desktop,1,Delivered,3.0
+ORD100966,2025-12-18 08:30,CUST0072,27.0,Female,Mumbai,Maharashtra,Clothing,Hoodie,1430.82,1,15,1216.2,Credit Card,Desktop,5,Delivered,5.0
+ORD100967,2025-12-18 13:31,CUST0003,28.0,Male,Chennai,Tamil Nadu,Beauty,Lipstick,384.83,1,15,327.11,UPI,Mobile,8,Delivered,4.0
+ORD100968,2025-12-18 13:44,CUST0432,26.0,Female,Pune,Maharashtra,Sports,Cricket Bat,2451.93,1,0,2451.93,UPI,Mobile,2,Delivered,5.0
+ORD100969,2025-12-19 16:11,CUST0573,39.0,Female,Kolkata,West Bengal,Clothing,Kurta,1345.13,1,20,1076.1,Credit Card,Desktop,4,Delivered,4.0
+ORD100970,2025-12-19 22:46,CUST0282,35.0,Male,Bengaluru,Karnataka,Electronics,USB-C Cable,298.29,1,10,268.46,UPI,Mobile,8,Delivered,4.0
+ORD100971,2025-12-20 03:23,CUST0162,23.0,Other,Bengaluru,Karnataka,Clothing,Kurta,1411.41,1,30,987.99,Credit Card,Mobile,6,Delivered,4.0
+ORD100972,2025-12-20 09:23,CUST0210,48.0,Male,Hyderabad,Telangana,Home & Kitchen,Storage Box,577.47,1,5,548.6,UPI,Mobile,3,Shipped,
+ORD100973,2025-12-20 10:23,CUST0382,51.0,Female,Chennai,Tamil Nadu,Beauty,Perfume,1188.46,1,5,1129.04,UPI,Mobile,7,Delivered,4.0
+ORD100974,2025-12-20 17:59,CUST0089,25.0,Male,Pune,Maharashtra,Sports,Cricket Bat,2441.7,1,5,2319.61,Cash on Delivery,Mobile,8,Cancelled,
+ORD100975,2025-12-20 19:09,CUST0189,24.0,Female,Mumbai,Maharashtra,Sports,Yoga Mat,855.68,3,0,2567.04,Credit Card,Mobile,5,Delivered,3.0
+ORD100976,2025-12-20 19:42,CUST0468,28.0,Female,Jaipur,Rajasthan,Beauty,Lipstick,435.78,2,10,784.4,UPI,Desktop,3,Delivered,4.0
+ORD100977,2025-12-21 07:18,CUST0264,21.0,Female,Raipur,Chhattisgarh,Sports,Football,745.58,1,0,745.58,UPI,Mobile,4,Delivered,4.0
+ORD100978,2025-12-21 14:00,CUST0212,37.0,Male,Hyderabad,Telangana,Sports,Dumbbell Set,1961.4,1,0,1961.4,Credit Card,Mobile,1,Delivered,5.0
+ORD100979,2025-12-21 17:11,CUST0569,40.0,Male,Chennai,Tamil Nadu,Beauty,Perfume,1478.64,1,0,1478.64,Debit Card,Mobile,3,Delivered,3.0
+ORD100980,2025-12-22 04:32,CUST0021,48.0,Female,Bengaluru,Karnataka,Clothing,Jacket,2804.84,4,10,10097.42,Wallet,Mobile,6,Delivered,2.0
+ORD100981,2025-12-22 07:02,CUST0086,43.0,Female,Bengaluru,Karnataka,Electronics,USB-C Cable,303.73,1,15,258.17,Net Banking,Mobile,6,Delivered,4.0
+ORD100982,2025-12-22 22:21,CUST0150,22.0,Male,Chennai,Tamil Nadu,Books,Textbook,977.99,2,15,1662.58,Cash on Delivery,Mobile,6,Delivered,5.0
+ORD100983,2025-12-23 02:27,CUST0208,33.0,Female,Kolkata,West Bengal,Electronics,USB-C Cable,318.67,1,0,318.67,Cash on Delivery,Mobile,5,Delivered,3.0
+ORD100984,2025-12-24 13:02,CUST0084,25.0,Female,Mumbai,Maharashtra,Clothing,Jeans,1630.41,1,30,1141.29,Net Banking,Mobile,6,Delivered,5.0
+ORD100985,2025-12-24 17:02,CUST0517,33.0,Male,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,2870.26,2,0,5740.52,UPI,Mobile,7,Delivered,5.0
+ORD100986,2025-12-24 17:12,CUST0106,23.0,Male,Bengaluru,Karnataka,Electronics,USB-C Cable,294.75,3,5,840.04,Net Banking,Desktop,2,Cancelled,
+ORD100987,2025-12-24 18:35,CUST0179,42.0,Male,Chennai,Tamil Nadu,Electronics,USB-C Cable,299.4,1,20,239.52,UPI,Mobile,3,Delivered,5.0
+ORD100988,2025-12-25 16:47,CUST0529,,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,2417.54,2,10,4351.57,Cash on Delivery,Mobile,3,Delivered,2.0
+ORD100989,2025-12-26 07:32,CUST0351,33.0,Female,Pune,Maharashtra,Beauty,Hair Oil,313.91,1,0,313.91,UPI,Mobile,8,Delivered,5.0
+ORD100990,2025-12-27 02:53,CUST0107,18.0,Male,Chennai,Tamil Nadu,Electronics,Wireless Earbuds,3354.65,2,0,6709.3,Debit Card,Mobile,6,Delivered,5.0
+ORD100991,2025-12-28 05:37,CUST0553,38.0,Male,Kolkata,West Bengal,Sports,Yoga Mat,777.62,4,15,2643.91,Wallet,Desktop,7,Delivered,3.0
+ORD100992,2025-12-28 20:30,CUST0264,34.0,Female,Kolkata,West Bengal,Home & Kitchen,Cookware Set,2713.23,1,0,2713.23,UPI,Mobile,7,Delivered,5.0
+ORD100993,2025-12-29 05:12,CUST0030,18.0,Female,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,3386.26,1,0,3386.26,Credit Card,Desktop,6,Delivered,4.0
+ORD100994,2025-12-29 07:45,CUST0104,28.0,Male,Mumbai,Maharashtra,Electronics,Smartphone Case,502.41,1,15,427.05,Net Banking,Mobile,8,Delivered,5.0
+ORD100995,2025-12-30 00:31,CUST0047,19.0,Female,Ahmedabad,Gujarat,Electronics,Smartphone Case,519.89,2,10,935.8,UPI,Desktop,4,Delivered,3.0
+ORD100996,2025-12-30 13:53,CUST0504,39.0,Female,Raipur,Chhattisgarh,Electronics,Wireless Earbuds,2787.54,4,0,11150.16,UPI,Mobile,7,Delivered,4.0
+ORD100997,2025-12-30 18:44,CUST0192,39.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,507.26,3,20,1217.42,Cash on Delivery,Mobile,1,Delivered,5.0
+ORD100998,2025-12-30 22:01,CUST0009,37.0,Female,Raipur,Chhattisgarh,Home & Kitchen,Mixer Grinder,3385.46,2,10,6093.83,UPI,Desktop,6,Delivered,3.0
+ORD100999,2025-12-31 06:43,CUST0422,28.0,Female,Bengaluru,Karnataka,Beauty,Hair Oil,270.76,1,10,243.68,Credit Card,Desktop,8,Delivered,5.0
+ORD101000,2025-12-31 16:09,CUST0265,32.0,Male,Delhi,Delhi,Home & Kitchen,Cookware Set,3165.79,2,0,6331.58,UPI,Mobile,1,Cancelled,
